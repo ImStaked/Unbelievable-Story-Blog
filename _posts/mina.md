@@ -24,5 +24,8 @@ My research suggests she came to the USA in the mid 80's after her or her family
   
 - **Urzala Weiss** -  Weiss Asset Management (WAM) Foundation
 - **Ahmad Nadi** - Malalai's husband? Within 10 years of arriving in the USA Ahmed gets setup by the FBI for fraud on a DOD contract for salt and pepper --> [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)   
-- **Dawer Nadi** - Perhaps Ahmed's brother? [FRAUD CASE](https://ag.ny.gov/press-release/2021/attorney-general-james-announces-conviction-former-fugitive-dentist-medicaid)
+- **Dawer Nadi** - Perhaps Ahmed's brother? Prosecuted by Latisha James the NYAG who was going after crypto. Weird. This was his 2nd fraud case. --> [FRAUD CASE](https://ag.ny.gov/press-release/2021/attorney-general-james-announces-conviction-former-fugitive-dentist-medicaid)
 - 
+
+## Conclusions
+I think it is possible to draw some conclusions from this data. It looks like fraud can be a family business first. Second it appears that there is a level of corruption or influence being excerted here that might go above and beyond normal. I am not an expert in these things so I will leave it to the experts to draw their own conclusions. Why is the NYAG so involveed yet wouldn't go after people operating a crypto business on US Soil?
