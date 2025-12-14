@@ -2,7 +2,7 @@
 title: "Mina Protocol"
 excerpt: "I was invited to participate in the Mina Protocol Adversarial Test Network which was the testing network that was prior to thier launch of the Main production network. We will explore those involved, what I did, and how I came to my conclusions about them"
 coverImage: "/assets/blog/mina/cover.jpg"
-date: "2025-12-13T05:35:07.322Z"
+date: "2025-12-14T05:35:07.322Z"
 author:
   name: Jason
   picture: "/assets/blog/authors/jj.jpeg"
