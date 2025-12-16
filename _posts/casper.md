@@ -29,5 +29,28 @@ ogImage:
 
 - **Terren Peizer**   
 [Wiki](https://en.wikipedia.org/wiki/Terren_Peizer)   
-[Insider Trading Sentence](https://nypost.com/2025/06/23/business/terren-peizer-protege-of-michael-milken-gets-3-1-2-years-prison-for-insider-trading/)   
+[Insider Trading Sentence former Protege of Michael Milken](https://nypost.com/2025/06/23/business/terren-peizer-protege-of-michael-milken-gets-3-1-2-years-prison-for-insider-trading/)   
 
+- **Matti Tapani Liukas** - Using this website you can find all of the shell companies tied to Casper Labs   
+[Consensus Capitol](https://www.northdata.com/CONSENSUS%20CAPITAL%20SA,%20Versoix/CHE-363.759.977)
+
+- **Christopher Bowring** - UK. Algorand Foundation F.C.C.A, A.C.I.S, A.I.B., T.E.P., is a fellow of the UK Association of Chartered Certified Accountants,
+
+- **Clifford Sarkin** - South Africa
+
+- **Jack Lynch**  
+[Linkedin](https://www.linkedin.com/in/lynchjw/)
+
+- **Varun Gupta** -  Founding Partner of Varun Gupta Law
+
+- **Sean Inggs** -  
+
+- **Ralpf Kubli**
+
+- **Daniel Marfurt**
+
+- **Joseph Richard Murray**
+
+- **Patrick Storchenegger**  
+
+- **Scott Walker**
