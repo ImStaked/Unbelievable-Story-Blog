@@ -34,23 +34,38 @@ ogImage:
 - **Matti Tapani Liukas** - Using this website you can find all of the shell companies tied to Casper Labs   
 [Consensus Capitol](https://www.northdata.com/CONSENSUS%20CAPITAL%20SA,%20Versoix/CHE-363.759.977)
 
-- **Christopher Bowring** - UK. Algorand Foundation F.C.C.A, A.C.I.S, A.I.B., T.E.P., is a fellow of the UK Association of Chartered Certified Accountants,
+- **Christopher Bowring** is a fellow of the UK Association of Chartered Certified Accountants.  
+United Kingdom  
+Algorand Foundation 
 
-- **Clifford Sarkin** - South Africa
-
+- **Clifford Sarkin** - Chief of Strategic Relationships   
+[Linkedin](https://www.linkedin.com/in/cliffsarkin/)
 - **Jack Lynch**  
 [Linkedin](https://www.linkedin.com/in/lynchjw/)
 
 - **Varun Gupta** -  Founding Partner of Varun Gupta Law
 
-- **Sean Inggs** -  
+- **Sean Inggs** -  Was a Director of Adaptive Holding Ltd., the predecessor company of CasperLabs Holdings AG   
+[Cayman Islands-based, South African “independent director” Sean Inggs is being sued](https://www.offshorealert.com/south-african-professional-director-sean-inggs-sued-in-cayman-by-former-employer-imsl/?srsltid=AfmBOorkgK-oZ_fVErBK203juyqjcXBec6bCSkHcUUwD6cMgnGPTybOv)   
 
-- **Ralpf Kubli**
+- **Ralpf Kubli**   
+[Linkedin](https://www.linkedin.com/in/ralf-kubli-644393)   
 
-- **Daniel Marfurt**
+- **Daniel Marfurt**   
+[Linkedin](https://www.linkedin.com/in/danielmarfurt/)   
 
-- **Joseph Richard Murray**
+- **Joseph Richard Murray**   
+[Linkedin](https://www.linkedin.com/in/joemurraycpa)    
 
-- **Patrick Storchenegger**  
+- **Patrick Storchenegger**   
+[Linkedin](https://www.linkedin.com/in/patrick-storchenegger-161b34254)   
 
 - **Scott Walker**
+
+## Legal Cases
+[Coordination Technology Ltd. v. CasperLabs LLC ](https://www.courtlistener.com/docket/60071481/coordination-technology-ltd-v-casperlabs-llc/)   
+[Zamfir v. Casperlabs](https://law.justia.com/cases/federal/district-courts/california/casdce/3:2021cv00474/702270/71/)   
+[CasperLabs LLC v Raytheon Company](https://www.law360.com/ttab_cases/668d2d74cf829103a1b2a238)   
+
+## Shell Companies   
+Adaptive Holding Ltd. appears to be a Cayman Islands-based entity linked to the blockchain company CasperLabs, acting as a parent/holding company that transitioned its structure, with CasperLabs Holdings AG becoming the top entity for its group, sharing officers and resources across entities like CasperLabs LLC (US) and the original Adaptive Holdings Ltd., according to legal filings. While its direct business isn't detailed in these snippets, it functions as part of a larger, interconnected tech/crypto corporate structure.
