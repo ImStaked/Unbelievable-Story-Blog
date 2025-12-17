@@ -4,6 +4,8 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
+import Header from "./_components/header";
+import Container from "./_components/container";
 
 import "./globals.css";
 
@@ -61,7 +63,13 @@ export default function RootLayout({
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
         <ThemeSwitcher />
-        <div className="min-h-screen markdown-content">{children}</div>
+        <Header />
+        <div className="min-h-screen markdown-content">
+          <Container>
+            {/* Add some top margin to the main content */}
+            <main className="mt-12">{children}</main>
+          </Container>
+        </div>
         <Footer />
       </body>
     </html>
