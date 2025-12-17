@@ -16,10 +16,14 @@ ogImage:
 [Linkedin](https://www.linkedin.com/in/mrinal-manohar-84422a9)   
   Mrinal was an intern for the FBI and his role specilized in subverting online identities. After he finished doing that he went to bain capitol. The funny thing is... [Bain Capitol had a federal Antitrust case](https://www.justice.gov/atr/case/us-v-bain-capital-llc-et-al) about Clear Channel Communications. Mar 27, 2008 — Clear Channel Communications and the private-equity firms that want to buy the company were claiming a legal victory. Mrinal started working there in April 2008 primarily in a due diligence type role. 
 
+### China Connection   
+Knowing the above about Mrinal who authorized them to work with China? They had me train the best friend of the founder of [Waterdrip Capitol](https://waterdrip.io/)   
+Waterdrip Capital was founded in 2017 by the most forward-thinking Chinese blockchain pioneers. Yushan Zheng Founder, Jademont Zheng Co-founder, Peicai Li Founder, Jialing Liu Founder.
+
 - **Medha Parlikar (CTO)** - Puerto Rico?   
-[Linkedin](https://www.linkedin.com/in/mparlikar)
-  
-  
+[Linkedin](https://www.linkedin.com/in/mparlikar)   
+[Blackbelt in Blockchain](https://www.lmgpr.com/post/blockchain-with-medha-parlikar) Hows that black belt treating you?   
+   
 [Manohar Parrikar](https://en.wikipedia.org/wiki/Manohar_Parrikar) the former Minister of Defence of India wifes name was Medha Parrikar (died 2001)​ look at her pictures.
 
 - **Brock Pierce**   
@@ -61,6 +65,11 @@ Algorand Foundation
 [Linkedin](https://www.linkedin.com/in/patrick-storchenegger-161b34254)   
 
 - **Scott Walker**
+
+- **Arlene Gaylord** - Puerto Rico / FBI   
+I think she helped them do this to me.   
+ [Background](https://fbijobs.gov/sites/default/files/2022-08/hip_testimonial.pdf)
+ [Entrepreneur Story](https://www.fbiaia.org/post/fbi-aia-entrepreneurs-series-arlene-gaylord)
 
 ## Legal Cases
 [Coordination Technology Ltd. v. CasperLabs LLC ](https://www.courtlistener.com/docket/60071481/coordination-technology-ltd-v-casperlabs-llc/)   
