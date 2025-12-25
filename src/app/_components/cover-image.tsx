@@ -23,7 +23,7 @@ export function CoverImage({ title, src, slug, className }: Props) {
   return (
     <div className={cn("relative", className)}>
       {slug ? (
-        <Link href={`/blog/${slug}`} aria-label={title}>
+        <Link href={`/posts/${slug}`} aria-label={title}>
           {image}
         </Link>
       ) : (

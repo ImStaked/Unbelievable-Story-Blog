@@ -7,7 +7,7 @@ author:
   name: Jason
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/posts/preview/cover.jpg"
 ---
 
 ## The People  
