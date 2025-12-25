@@ -6,23 +6,24 @@ type Props = {
   title: string;
   src: string;
   slug?: string;
+  className?: string;
 };
 
-export function CoverImage({ title, src, slug }: Props) {
+export function CoverImage({ title, src, slug, className }: Props) {
   const image = (
     <Image
       src={src}
       alt={`Cover Image for ${title}`}
-      className={cn("shadow-sm object-cover", {
+      className={cn("shadow-sm object-contain", {
         "hover:shadow-lg transition-shadow duration-200": slug,
       })}
       fill
     />
   );
   return (
-    <div className="sm:mx-0 relative h-96">
+    <div className={cn("relative", className)}>
       {slug ? (
-        <Link href={`/posts/${slug}`} aria-label={title}>
+        <Link href={`/blog/${slug}`} aria-label={title}>
           {image}
         </Link>
       ) : (

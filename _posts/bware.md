@@ -1,8 +1,8 @@
 ---
 title: "Bware Labs Blast API"
-excerpt: "I worked with these people from Romania. I was unaware at the time but it would have been best to just find something else to work on. They still owe me between 50k and 100k."
+excerpt: "I helped with these people from Romania with their 'Houston' testnet starting in August of 2022. I was unaware at the time but it would have been best to just find something else to work on. They never paid me the large amount of tokens I was owed. It turns out one of them work for a Romanian Defense contractor. I did not agree to donate my money to the Ukraine war"
 coverImage: "/assets/blog/bware/cover.jpg"
-date: "2025-12-16T09:35:07.322Z"
+date: "2022-08-16T09:35:07.322Z"
 author:
   name: Jason
   picture: "/assets/blog/authors/jj.jpeg"

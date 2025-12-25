@@ -9,5 +9,14 @@
   @apply text-blue-800;
 }
 .markdown-content > div > article > div > p > img {
-  @apply !block !w-[300px] !h-[300px] !object-cover !mx-auto;
+  @apply !block !w-[300px] !h-[300px] !object-cover !mx-auto; 
+}
+
+html:not(.dark) input[type="text"],
+html:not(.dark) input[type="email"],
+html:not(.dark) textarea {
+  background-color: #FAFAFA; /* accent-1 */
+  border: 1px solid #EAEAEA; /* accent-2 for a subtle border */
+  padding: 0.5rem; /* give some padding */
+  border-radius: 0.25rem; /* slightly rounded corners */
 }

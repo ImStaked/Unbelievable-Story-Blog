@@ -2,7 +2,7 @@
 title: "Casper Labs"
 excerpt: "This is how I got close to the people from Casper Labs, helped them by contributing work and resources, and how I found all of the information about them"
 coverImage: "/assets/blog/casper/cover.jpg"
-date: "2025-12-13T05:35:07.322Z"
+date: "2020-03-31T05:35:07.322Z"
 author:
   name: Jason
   picture: "/assets/blog/authors/jj.jpeg"
