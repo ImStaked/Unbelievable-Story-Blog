@@ -21,7 +21,7 @@ export function CoverImage({ title, src, slug, className }: Props) {
     />
   );
   return (
-    <div className={cn("relative", className)}>
+    <div className={cn("relative", { "w-full": slug, "w-1/2 mx-auto aspect-video": !slug }, className)}>
       {slug ? (
         <Link href={`/posts/${slug}`} aria-label={title}>
           {image}

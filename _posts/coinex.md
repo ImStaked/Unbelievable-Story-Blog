@@ -1,13 +1,13 @@
 ---
 title: "Coinex"
-excerpt: "I lost a lot of money here when the market crashed right before the FTX collapse. I researched them quite a bit and found lots of info. Then the New York attorney general went after them. My research went down a weird long rabbit hole on this one click the picture to read more..."
+excerpt: "I lost a lot of money here when the market crashed right before the FTX collapse then I researched them quite a bit and found lots of info. Then the New York attorney general went after them. My research went down a weird long rabbit hole on this one click the picture to read more..."
 coverImage: "/assets/blog/coinex/cover.jpg"
 date: "2022-11-15T07:35:07.322Z"
 author:
   name: Jason
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/coinex/cover.jpg"
+  url: "/assets/blog/preview/cover.jpg"
 ---
 
 ## Coinex Research  

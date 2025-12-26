@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="container mx-auto px-5 py-12">
+    <div className="container mx-auto px-5 py-8 md:py-12">
       <section className="flex flex-col items-center text-center">
         <h1 className="text-4xl md:text-6xl font-bold tracking-tighter leading-tight mb-8">
           The Crypto World Has A Dark Underbelly

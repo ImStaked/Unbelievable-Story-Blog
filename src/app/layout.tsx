@@ -67,7 +67,7 @@ export default function RootLayout({
         <div className="min-h-screen markdown-content">
           <Container>
             {/* Add some top margin to the main content */}
-            <main className="mt-12">{children}</main>
+            <main className="mt-8 md:mt-12">{children}</main>
           </Container>
         </div>
         <Footer />
