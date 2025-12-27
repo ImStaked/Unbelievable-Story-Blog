@@ -23,9 +23,9 @@ const Alert = ({ preview }: Props) => {
                 href="/api/exit-preview"
                 className="underline hover:text-teal-300 duration-200 transition-colors"
               >
-                Click here
-              </a>{" "}
-              to exit preview mode.
+                Exit preview mode
+              </a>
+              .
             </>
           ) : (
             <>

@@ -1,6 +1,15 @@
 import { PostPreview } from "@/app/_components/post-preview";
 import { getAllPosts } from "@/lib/api";
 import { Intro } from "../_components/intro";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Blog | My Unbelievable Story",
+  description: "A collection of blog posts about crypto drama and conspiracy facts.",
+  alternates: {
+    canonical: "/blog",
+  },
+};
 
 export default function Index() {
   const allPosts = getAllPosts();

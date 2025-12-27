@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug } from "@/lib/api";
-import { CMS_NAME } from "@/lib/constants";
+import { CMS_NAME, SITE_URL } from "@/lib/constants";
 import markdownToHtml from "@/lib/markdownToHtml";
 import Alert from "@/app/_components/alert";
 import Container from "@/app/_components/container";
@@ -17,9 +17,29 @@ export default async function Post(props: Params) {
   }
 
   const content = await markdownToHtml(post.content || "");
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": post.title,
+    "description": post.excerpt,
+    "author": [
+      {
+        "@type": "Person",
+        "name": post.author.name,
+        "url": `${SITE_URL}/about`
+      }
+    ],
+    "image": `${SITE_URL}${post.ogImage.url}`,
+    "datePublished": post.date,
+  };
+
   return (
     <main>
-
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
       <Container>
         <article className="mb-32">
           <PostHeader
@@ -49,13 +69,29 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound();
   }
 
-  const title = `${post.title} | Crypto Drama and Conspiracy Facts`;
+  const title = `${post.title} | Working in Crypto`;
+  const keywords = [
+    "crypto",
+    "cryptocurrency",
+    "blockchain",
+    "web3",
+    "conspiracy",
+    "drama",
+    post.title,
+    post.author.name,
+  ];
 
   return {
     title,
+    description: post.excerpt,
+    keywords: keywords,
     openGraph: {
       title,
+      description: post.excerpt,
       images: [post.ogImage.url],
+    },
+    alternates: {
+      canonical: `/posts/${post.slug}`,
     },
   };
 }

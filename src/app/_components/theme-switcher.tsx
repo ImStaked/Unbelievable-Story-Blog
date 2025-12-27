@@ -86,6 +86,7 @@ const Switch = () => {
   return (
     <button
       suppressHydrationWarning
+      aria-label={`Switch to ${modes[(modes.indexOf(mode) + 1) % modes.length]} mode`}
       className={styles.switch}
       onClick={handleModeSwitch}
     />

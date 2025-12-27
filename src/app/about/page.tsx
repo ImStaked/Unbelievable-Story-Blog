@@ -1,4 +1,13 @@
+import type { Metadata } from 'next';
 import Image from "next/image";
+
+export const metadata: Metadata = {
+  title: "About | My Unbelievable Story",
+  description: "About the author of My Unbelievable Story.",
+  alternates: {
+    canonical: "/about",
+  },
+};
 
 export default function About() {
   return (
