@@ -6,7 +6,13 @@ export function Intro() {
       <h1 className="text-5xl md:text-6xl font-bold text-center tracking-tighter leading-tight">
         Blog
       </h1>
-
+      <center>
+        <br />
+    All of these are projects I have worked on over the years.<br /> 
+    I would not be easily convinced to work with most of these people again.<br /> 
+    Most still owe me money for my work.<br /> 
+    <br />
+    </center>
     </section>
   );
 }
