@@ -10,7 +10,18 @@ ogImage:
   url: "/assets/blog/bware/cover.jpg"
 ---
 
-## The People  
+## Bware Labs Problems
+First, guess who hooked me up with this project? Pathrock aka [Patrick Hofmeister](https://www.linkedin.com/in/patrick-hofmeister-0433b0166?originalSubdomain=de)
+
+Second, with so many military and Romania government people and the war in Ukraine combined with the DOJ case that includes someone with an almost identical name as Alexandru Catalin Filip. Given the connection to Aerostar SA which also has some sort of connection to South Dakota I would guess that somehow this is connected to financing the war in Ukraine. 
+
+Third, around or near this time Hunter Biden was in the news connected to some influence peddling. 
+
+Why they would refuse to pay me? I don't know. 
+
+Likely it is so classified they felt they could get away with it.  
+
+## People involved
 
 - **Flavian Manea (CEO)** - Military Technical Academy "Ferdinand I"  
 [Here is someone](https://www.linkedin.com/in/flavian-manea) with the same name, same country, who went to school in london, but different picture doing medical application development.
