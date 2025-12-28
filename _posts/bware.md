@@ -13,13 +13,15 @@ ogImage:
 ## Bware Labs Problems
 First, guess who hooked me up with this project? Pathrock aka [Patrick Hofmeister](https://www.linkedin.com/in/patrick-hofmeister-0433b0166?originalSubdomain=de)
 
-Second, with so many military and Romania government people and the war in Ukraine combined with the DOJ case that includes someone with an almost identical name as Alexandru Catalin Filip. Given the connection to Aerostar SA which also has some sort of connection to South Dakota I would guess that somehow this is connected to financing the war in Ukraine. 
+Second, with so many military and Romania government people and the war in Ukraine combined with the DOJ case that includes someone with an almost identical name as Alexandru Catalin Filip. Alexandru is on the board of a company called [Aerostar S.A. Romania](https://en.wikipedia.org/wiki/Aerostar_(Romanian_company)) was founded in 1953 in Bacău, Romania, initially as an aircraft maintenance plant for the Romanian Air Force, growing into a leading aerospace and defense company involved in manufacturing, assembly, and MRO (Maintenance, Repair, and Overhaul) for aviation and ground defense systems
 
-Third, around or near this time Hunter Biden was in the news connected to some influence peddling. 
+There is another business I located in South Dakota [Aerostar](https://aerostar.com/) their origins trace back to Raven Industries, founded in Sioux Falls, SD, in 1956 by four former General Mills engineers: J.R. Smith, Ed Yost, Duwayne Thon, and Joseph Kaliszewski. The dates these companies were founded are so similaryly close together that I can't help but think they are connected. I believe Kaliszewski is a Polish name which from my previous research I associate with CIA connections. I would guess at minimum that somehow this is connected to the war in Ukraine and military contractors most likely the CIA in my opinion. Funny enough one of the guys name is Smith so...
 
-Why they would refuse to pay me? I don't know. 
+Third, In 2022, discussions and scrutiny regarding Hunter Biden's past business dealings in Romania intensified, primarily driven by ongoing Republican-led congressional investigations and media reports based on leaked or subpoenaed documents. Around May 2023 [House Republicans allege Biden family members received millions in payments from foreign entities in new bank records report](https://www.cnn.com/2023/05/10/politics/comer-bank-records-biden-family-members-payments-foreign-entities) Sometime around August 2024 there are allegations [Hunter Biden allegedly paid in Romanian 'influence' plot](https://www.bbc.com/news/articles/cz9wpdwnelno). Oct. 7, 2025 [Hunter Biden Pursued a Deal to Sell Land Around the U.S. Embassy in Romania](https://www.hoover.org/research/hunter-biden-pursued-deal-sell-land-around-us-embassy-romania)
 
-Likely it is so classified they felt they could get away with it.  
+I think this DOJ case might be related due to the fact of a shared name Alexandru Catalin.
+  
+[DOJ Case](https://www.justice.gov/archives/opa/pr/man-sentenced-integral-role-sophisticated-international-fraud-scheme)  
 
 ## People involved
 
@@ -35,10 +37,12 @@ Likely it is so classified they felt they could get away with it.
 - **Alexandru Catalin Filip** - His linkdin says University of Cambridge. The wall street journall says he received his MBA from the University of Warwick. Which is true?   
 
 Alexandru is also the Deputy General Director at [Aerostar SA](https://en.wikipedia.org/wiki/Aerostar_(Romanian_company)). Aerostar SA, a major Romanian aerospace and defense manufacturer, is heavily involved in supporting Ukraine through defense cooperation, including training pilots and potentially supplying military hardware, with official agreements for security cooperation and enhanced air force coordination, building on existing use of Romanian defense products by Ukraine's forces.
-
-[DOJ Case](https://www.justice.gov/archives/opa/pr/man-sentenced-integral-role-sophisticated-international-fraud-scheme)   
+ 
    
 ## What is this  
-I think the DOJ case explains what it was pretty well. Now why would a San Fransisco company (Alchemy) purchase the useless business that was basically subject of a fraud investigation?
-   
-I can say that [Alchemy bought bware labs](https://www.alchemy.com/blog/alchemy-acquires-bware-labs) for an undisclosed sum of money. Reid Hoffman was an angel investor in Alchemy. The founders of Alchemy are [Nikil Viswanathan (CEO)](https://www.linkedin.com/in/nikilster) and [Joe Lau (CTO)](https://www.linkedin.com/in/josephlau) both went to Stanford University.
+    
+I can say for certain that [Alchemy bought bware labs](https://www.alchemy.com/blog/alchemy-acquires-bware-labs) for an undisclosed sum of money. Reid Hoffman was an angel investor in Alchemy. The founders of Alchemy are [Nikil Viswanathan (CEO)](https://www.linkedin.com/in/nikilster) and [Joe Lau (CTO)](https://www.linkedin.com/in/josephlau) both went to Stanford University. Why would they buy a useless business that literally adds no value for an "undisclosed" sum of money?
+
+Why they would refuse to pay me? I don't know. 
+
+Likely it is so classified they felt they could get away with it. Why would I go after CIA people? I hope to make them kill me or make the government come speak to me.
