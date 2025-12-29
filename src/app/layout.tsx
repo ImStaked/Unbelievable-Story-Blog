@@ -6,6 +6,7 @@ import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
 import Header from "./_components/header";
 import Container from "./_components/container";
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 import "./globals.css";
 
@@ -77,6 +78,7 @@ export default function RootLayout({
         </div>
         <Footer />
       </body>
+      <GoogleAnalytics gaId="G-R3FMP8JQD0" />
     </html>
   );
 }
