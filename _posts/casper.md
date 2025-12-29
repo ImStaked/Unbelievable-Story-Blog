@@ -9,16 +9,24 @@ author:
 ogImage:
   url: "/assets/blog/casper/cover.jpg"
 ---
+## Casper Labs   
+I started working with them to help with the Zugg 500 test network. Zugg, Switzerland seems to be where alot of the money either went or came from. They had me submit a resume and everything. It turns out they didn't want to hire me after they found out who I was. That didn't prevent them from working with me. They were supposed to pay me 377,000 CSPR tokens when mainnet was started but I was never paid.
 
-## People  
+They received money from [Terren Peizer](https://en.wikipedia.org/wiki/Terren_Peizer) who is now in jail on the first of its kind case from the SEC. You can read about it here. [Insider Trading Sentence former Protege of Michael Milken](https://nypost.com/2025/06/23/business/terren-peizer-protege-of-michael-milken-gets-3-1-2-years-prison-for-insider-trading/) They also likely received money from [Brock Pierce](https://en.wikipedia.org/wiki/Brock_Pierce) who probably at minimum knew Epstein. [Strange Saga of Epstein and Brock Pierce](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/strange-saga-jeffrey-epstein-s-link-brock-pierce-1240462/) [Epstein and Brock emails](https://finance.yahoo.com/news/epstein-emails-reference-bitcoin-meeting-230701467.html)  
+
+## China Connection
+Medha had me work with a guy from [Waterdrip Capitol](https://waterdrip.io/) which is a VC firm from China. I suspect she and Mrinal are FBI or CIA so why was she working with money people from China? They had me train the best friend of the founder of Waterdrip Capitol. Waterdrip Capital was founded in 2017 by the most forward-thinking Chinese blockchain pioneers. Yushan Zheng Founder, Jademont Zheng Co-founder, Peicai Li Founder, Jialing Liu Founder.
+
+## World Economic Forum 
+When Casper Labs was in Davos I started publishing information about all of them basically calling them out for being scammers in front of the whole world. They were partnering with IBM but it looks like I messed that up for them. Now they launched ProveAi which is on Hedera. Hedera was founded by 2 guys in the Dallas area where I am from and coincidentally is where JFK was shot. These are the types of enemies I have made.  
+[Casper Labs Blockchain Hub Davos](https://www.cvlabs.com/press-releases/blockchain-hub-davos-2023-program-is-unveiled)  
+[Casper Labs Joins WEF](https://proveai.com/news/casper-labs-joins-world-economic-forum-global-innovators)  
+
+## People Involved
   
 - **Mrinal Manohar (CEO)** - Carnegie Mellon University - Master of Science 2006 - 2007   
 [Linkedin](https://www.linkedin.com/in/mrinal-manohar-84422a9)   
   Mrinal was an intern for the FBI and his role specilized in subverting online identities. After he finished doing that he went to bain capitol. The funny thing is... [Bain Capitol had a federal Antitrust case](https://www.justice.gov/atr/case/us-v-bain-capital-llc-et-al) about Clear Channel Communications. Mar 27, 2008 — Clear Channel Communications and the private-equity firms that want to buy the company were claiming a legal victory. Mrinal started working there in April 2008 primarily in a due diligence type role. 
-
-### China Connection   
-Knowing the above about Mrinal who authorized them to work with China? They had me train the best friend of the founder of [Waterdrip Capitol](https://waterdrip.io/)   
-Waterdrip Capital was founded in 2017 by the most forward-thinking Chinese blockchain pioneers. Yushan Zheng Founder, Jademont Zheng Co-founder, Peicai Li Founder, Jialing Liu Founder.
 
 - **Medha Parlikar (CTO)** - Puerto Rico?   
 [Linkedin](https://www.linkedin.com/in/mparlikar)   
@@ -28,12 +36,8 @@ Waterdrip Capital was founded in 2017 by the most forward-thinking Chinese block
 
 - **Brock Pierce**   
 [Wiki](https://en.wikipedia.org/wiki/Brock_Pierce)   
-[Strange Saga of Epstein and Brock Pierce](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/strange-saga-jeffrey-epstein-s-link-brock-pierce-1240462/)   
-[Epstein and Brock emails](https://finance.yahoo.com/news/epstein-emails-reference-bitcoin-meeting-230701467.html)   
 
-- **Terren Peizer**   
-[Wiki](https://en.wikipedia.org/wiki/Terren_Peizer)   
-[Insider Trading Sentence former Protege of Michael Milken](https://nypost.com/2025/06/23/business/terren-peizer-protege-of-michael-milken-gets-3-1-2-years-prison-for-insider-trading/)   
+   
 
 - **Matti Tapani Liukas** - Using this website you can find all of the shell companies tied to Casper Labs   
 [Consensus Capitol](https://www.northdata.com/CONSENSUS%20CAPITAL%20SA,%20Versoix/CHE-363.759.977)
