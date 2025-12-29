@@ -8,9 +8,8 @@ export function Intro() {
       </h1>
       <center>
         <br />
-    All of these are projects I have worked on over the years.<br /> 
-    I would not be easily convinced to work with most of these people again.<br /> 
-    Most still owe me money for my work.<br /> 
+    This is a work in progress all of these things have happened to me in my life so I can write about them.<br /> 
+
     <br />
     </center>
     </section>
