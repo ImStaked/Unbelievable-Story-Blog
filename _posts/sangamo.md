@@ -1,6 +1,6 @@
 ---
 title: "Sangamo"
-excerpt: "What does this have to do with anything?"
+excerpt: "What does this have to do with anything? Political Warfare? The goverment is using me to distribute informtion but refuses to pay me? "
 coverImage: "/assets/blog/sangamo/cover.jpg"
 date: "1976-07-16T09:35:07.322Z"
 author:
@@ -26,6 +26,9 @@ My [Grandfather](https://www.chron.com/neighborhood/article/Jack-Leo-Rickord-995
 My family can not explain in any reasonable way how they came to be in possession of me. Nor can anyone explain to me how they managed to get an adoption done in less than one day at a lawyers office at the Pan-America building in downtown Houston. I assume the CIA can pull all kinds of strings to hide their experiments.  
 
 All of this got me to thinking about how I came to be with them as a child. One possible explaination is the govoernment was using in-vitro fertilization to create a bunch of babies to experiment on. This would be the ideal situation for them because if a child has no parents there is no one to really complain if they get caught. The government seems to prefer vulnerable populations to abuse and research on like homeless people, orphans, and the "mentally ill". Remember when [Ronald Reagan emptied the asylums](https://capitolweekly.net/the-republican-who-emptied-the-asylums/) why do you think he did that?
+
+## Proof The Government is Involved?
+If you google my name "Jason Rickord" and try to find my family what you will find is a WHOLE BUNCH of people I have never heard of. The only way for that to happen is if the government is scrambling the data on purpose. They are not concerned with protecting me they are trying to protect my supposed family. But why?  
 
 ## Timeline
 
