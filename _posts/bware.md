@@ -10,7 +10,10 @@ ogImage:
   url: "/assets/blog/bware/cover.jpg"
 ---
 
-## Bware Labs Problems
+## Bware Labs 
+I was working with them on their Houston Testnet. I was supposed to received 100,000 - 150,000 INFRA tokens. I received nothing. This project alone owes me in my estimation over 100,000 dollars. However I can not get anyone to help me with it. When I go to lawyers they refuse to talk to me. I can not get any help with anything no matter what and I am certain trying to take people to court without a lawyer is a bad idea. Even when I had money to pay a lawyer which I no longer have not a single lawyer out of all of the lawyers I tried to contact would speak to me about anything. How is this possible?
+
+## Problems
 First, guess who hooked me up with this project? Pathrock aka [Patrick Hofmeister](https://www.linkedin.com/in/patrick-hofmeister-0433b0166?originalSubdomain=de)
 
 Second, with so many military and Romania government people and the war in Ukraine combined with the DOJ case that includes someone with an almost identical name as Alexandru Catalin Filip. Alexandru is on the board of a company called [Aerostar S.A. Romania](https://en.wikipedia.org/wiki/Aerostar_(Romanian_company)) was founded in 1953 in Bacău, Romania, initially as an aircraft maintenance plant for the Romanian Air Force, growing into a leading aerospace and defense company involved in manufacturing, assembly, and MRO (Maintenance, Repair, and Overhaul) for aviation and ground defense systems
