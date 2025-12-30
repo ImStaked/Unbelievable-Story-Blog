@@ -14,7 +14,7 @@ I want to start by saying that "I AM NOT ACCUSING THEM OF MONEY LAUNDERING" but 
   
 I started working with them to help with the Zugg 500 test network. Zugg, Switzerland seems to be where alot of the money either went or came from. They had me submit a resume and everything. It turns out they didn't want to hire me after they found out who I was. That didn't prevent them from working with me. They were supposed to pay me 377,000 CSPR tokens when mainnet was started but I was never paid.  
 
-Casper labs had an office located at 25 1st St Fl 2, Cambridge, Massachusetts, 02141. After some research I found that the building is connected to the Oxford Group. The oxford people are a whole other issue that I wont get into here. Then I find they are in Puerto Rico and Switzerland also. What does a business with 10 people working for it need companies located in multiple countries for? Also since they started in Massachusetts we can be almost certain Elizebeth Warren was helping them.  
+Casper labs had an office located in [Cambridge, Massachusetts](https://www.zoominfo.com/c/casperlabs/464535978). After some research I found that the building is connected to the Oxford Group. The oxford people are a whole other issue that I wont get into here. Then I find they are in Puerto Rico and Switzerland also. What does a business with 10 people working for it need companies located in multiple countries for? Also since they started in Massachusetts we can be almost certain Elizebeth Warren was helping them.  
 
 They received money from [Terren Peizer](https://en.wikipedia.org/wiki/Terren_Peizer) who is now in jail on the first of its kind case from the SEC. You can read about it here.  
 [Insider Trading Sentence former Protege of Michael Milken](https://nypost.com/2025/06/23/business/terren-peizer-protege-of-michael-milken-gets-3-1-2-years-prison-for-insider-trading/). 
@@ -43,24 +43,24 @@ Leemon Baird and Mance Harmon founded Hedera. Leemon Baird is a strange name and
 - **Medha Parlikar (CTO)** - Puerto Rico?   
 [Linkedin](https://www.linkedin.com/in/mparlikar)   
 [Blackbelt in Blockchain](https://www.lmgpr.com/post/blockchain-with-medha-parlikar) Hows that black belt treating you?   
-   
-[Manohar Parrikar](https://en.wikipedia.org/wiki/Manohar_Parrikar) the former Minister of Defence of India wifes name was Medha Parrikar (died 2001)​ look at her pictures.
-   
 
-- **Matti Tapani Liukas** - Using this website you can find all of the shell companies tied to Casper Labs   
-[Consensus Capitol](https://www.northdata.com/CONSENSUS%20CAPITAL%20SA,%20Versoix/CHE-363.759.977)
+**This looks strange**
+[Manohar Parrikar](https://en.wikipedia.org/wiki/Manohar_Parrikar) the former Minister of Defence of India wifes name was Medha Parrikar (died 2001)​ look at her pictures.  
 
+- **Arlene Gaylord** - Puerto Rico / FBI   
+I think she helped them do this to me.   
+ [Background](https://fbijobs.gov/sites/default/files/2022-08/hip_testimonial.pdf)  
+ [Entrepreneur Story](https://www.fbiaia.org/post/fbi-aia-entrepreneurs-series-arlene-gaylord)
 
 - **Sean Inggs** -  Was a Director of Adaptive Holding Ltd., the predecessor company of CasperLabs Holdings AG   
 [Cayman Islands-based, South African “independent director” Sean Inggs is being sued](https://www.offshorealert.com/south-african-professional-director-sean-inggs-sued-in-cayman-by-former-employer-imsl/?srsltid=AfmBOorkgK-oZ_fVErBK203juyqjcXBec6bCSkHcUUwD6cMgnGPTybOv)   
 
-- **Patrick Storchenegger**   
+- **Patrick Storchenegger** - Included becaue the guy from Germany was named Patrick.   
 [Linkedin](https://www.linkedin.com/in/patrick-storchenegger-161b34254)   
 
-- **Arlene Gaylord** - Puerto Rico / FBI   
-I think she helped them do this to me.   
- [Background](https://fbijobs.gov/sites/default/files/2022-08/hip_testimonial.pdf)
- [Entrepreneur Story](https://www.fbiaia.org/post/fbi-aia-entrepreneurs-series-arlene-gaylord)
+- **Cathy Zhu - Managing Director** - Singapore ?
+
+- **Sunnio Zeng - Manager, Marketing** - ?
 
 ## Legal Cases
 [Coordination Technology Ltd. v. CasperLabs LLC ](https://www.courtlistener.com/docket/60071481/coordination-technology-ltd-v-casperlabs-llc/)   
@@ -69,3 +69,13 @@ I think she helped them do this to me.
 
 ## Shell Companies   
 Adaptive Holding Ltd. appears to be a Cayman Islands-based entity linked to the blockchain company CasperLabs, acting as a parent/holding company that transitioned its structure, with CasperLabs Holdings AG becoming the top entity for its group, sharing officers and resources across entities like CasperLabs LLC (US) and the original Adaptive Holdings Ltd., according to legal filings. While its direct business isn't detailed in these snippets, it functions as part of a larger, interconnected tech/crypto corporate structure.
+
+Casper Labs (now largely rebranded as Prove AI) had a corporate office listed in [Cambridge, Massachusetts](https://www.datanyze.com/companies/casperlabs/464535978).
+
+### Tracing them
+What does anyone need so many shell companies for?  
+    
+[Consensus Capitol](https://www.northdata.com/CONSENSUS%20CAPITAL%20SA,%20Versoix/CHE-363.759.977)  
+[Prove AI](https://www.northdata.com/ProveAI%20AG,%20Zug/CHE-456.783.617)  
+[CasperLabs International AG](https://www.northdata.com/CasperLabs%20International%20AG,%20Zug/CHE-493.244.017)  
+[Casperlabs Enterprise AG](https://www.northdata.com/Casperlabs%20Enterprise%20AG,%20Zug/CHE-483.689.501)
