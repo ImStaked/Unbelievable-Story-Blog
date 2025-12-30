@@ -10,8 +10,8 @@ ogImage:
   url: "/assets/blog/casper/cover.jpg"
 ---
 ## Casper Labs   
-I want to start by saying that "I AM NOT ACCUSING THEM OF MONEY LAUNDERING" but it kinda does look like fraud and money laundering.
-
+I want to start by saying that "I AM NOT ACCUSING THEM OF MONEY LAUNDERING" but it kinda does look like fraud and money laundering. I am just about 100% certain they were running a government operation. This is evidenced by the people around them going to jail / getting sued and they just walk away leaving a giant mess behind. They are now working with former USAF people and IBM. Those people are either helping the government or they are now in danger these people are like the wrecking crew. The go around causing all kinds of problems and maybe they were moving money for the Epstein people or someone in Massachussets.  
+  
 I started working with them to help with the Zugg 500 test network. Zugg, Switzerland seems to be where alot of the money either went or came from. They had me submit a resume and everything. It turns out they didn't want to hire me after they found out who I was. That didn't prevent them from working with me. They were supposed to pay me 377,000 CSPR tokens when mainnet was started but I was never paid.  
 
 Casper labs had an office located at 25 1st St Fl 2, Cambridge, Massachusetts, 02141. After some research I found that the building is connected to the Oxford Group. The oxford people are a whole other issue that I wont get into here. Then I find they are in Puerto Rico and Switzerland also. What does a business with 10 people working for it need companies located in multiple countries for? Also since they started in Massachusetts we can be almost certain Elizebeth Warren was helping them.  
