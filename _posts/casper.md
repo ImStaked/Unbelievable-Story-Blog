@@ -10,9 +10,18 @@ ogImage:
   url: "/assets/blog/casper/cover.jpg"
 ---
 ## Casper Labs   
-I started working with them to help with the Zugg 500 test network. Zugg, Switzerland seems to be where alot of the money either went or came from. They had me submit a resume and everything. It turns out they didn't want to hire me after they found out who I was. That didn't prevent them from working with me. They were supposed to pay me 377,000 CSPR tokens when mainnet was started but I was never paid.
+I want to start by saying that "I AM NOT ACCUSING THEM OF MONEY LAUNDERING" but it kinda does look like fraud and money laundering.
 
-They received money from [Terren Peizer](https://en.wikipedia.org/wiki/Terren_Peizer) who is now in jail on the first of its kind case from the SEC. You can read about it here. [Insider Trading Sentence former Protege of Michael Milken](https://nypost.com/2025/06/23/business/terren-peizer-protege-of-michael-milken-gets-3-1-2-years-prison-for-insider-trading/) They also likely received money from [Brock Pierce](https://en.wikipedia.org/wiki/Brock_Pierce) who probably at minimum knew Epstein. [Strange Saga of Epstein and Brock Pierce](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/strange-saga-jeffrey-epstein-s-link-brock-pierce-1240462/) [Epstein and Brock emails](https://finance.yahoo.com/news/epstein-emails-reference-bitcoin-meeting-230701467.html)  
+I started working with them to help with the Zugg 500 test network. Zugg, Switzerland seems to be where alot of the money either went or came from. They had me submit a resume and everything. It turns out they didn't want to hire me after they found out who I was. That didn't prevent them from working with me. They were supposed to pay me 377,000 CSPR tokens when mainnet was started but I was never paid.  
+
+Casper labs had an office located at 25 1st St Fl 2, Cambridge, Massachusetts, 02141. After some research I found that the building is connected to the Oxford Group. The oxford people are a whole other issue that I wont get into here. Then I find they are in Puerto Rico and Switzerland also. What does a business with 10 people working for it need companies located in multiple countries for? Also since they started in Massachusetts we can be almost certain Elizebeth Warren was helping them.  
+
+They received money from [Terren Peizer](https://en.wikipedia.org/wiki/Terren_Peizer) who is now in jail on the first of its kind case from the SEC. You can read about it here.  
+[Insider Trading Sentence former Protege of Michael Milken](https://nypost.com/2025/06/23/business/terren-peizer-protege-of-michael-milken-gets-3-1-2-years-prison-for-insider-trading/). 
+
+They also likely received money from [Brock Pierce](https://en.wikipedia.org/wiki/Brock_Pierce) who probably at minimum knew Epstein.  
+[Strange Saga of Epstein and Brock Pierce](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/strange-saga-jeffrey-epstein-s-link-brock-pierce-1240462/)  
+[Epstein and Brock emails](https://finance.yahoo.com/news/epstein-emails-reference-bitcoin-meeting-230701467.html)  
 
 ## China Connection
 Medha had me work with a guy from [Waterdrip Capitol](https://waterdrip.io/) which is a VC firm from China. I suspect she and Mrinal are FBI or CIA so why was she working with money people from China? They had me train the best friend of the founder of Waterdrip Capitol. Waterdrip Capital was founded in 2017 by the most forward-thinking Chinese blockchain pioneers. Yushan Zheng Founder, Jademont Zheng Co-founder, Peicai Li Founder, Jialing Liu Founder.
@@ -21,6 +30,9 @@ Medha had me work with a guy from [Waterdrip Capitol](https://waterdrip.io/) whi
 When Casper Labs was in Davos I started publishing information about all of them basically calling them out for being scammers in front of the whole world. They were partnering with IBM but it looks like I messed that up for them. Now they launched ProveAi which is on Hedera. Hedera was founded by 2 guys in the Dallas area where I am from and coincidentally is where JFK was shot. These are the types of enemies I have made.  
 [Casper Labs Blockchain Hub Davos](https://www.cvlabs.com/press-releases/blockchain-hub-davos-2023-program-is-unveiled)  
 [Casper Labs Joins WEF](https://proveai.com/news/casper-labs-joins-world-economic-forum-global-innovators)  
+
+## Hedera
+Leemon Baird and Mance Harmon founded Hedera. Leemon Baird is a strange name and I used to know another guy I suspected of being an informant named Baird which makes me think fake name, He graduated from Carnegie Mellon University where Mrinal claims to have went to school. Leemon has worked in the United States Air Force Academy Academy Center for Cyberspace Research and Security and in the USAF doing education. Mance Harmon was a Research Scientist for Machine Learning (Artificial Intelligence) Air Force Research Laboratory: Wright Laboratory. Mance went to school at University of Massachusetts Amherst.
 
 ## People Involved
   
@@ -33,42 +45,17 @@ When Casper Labs was in Davos I started publishing information about all of them
 [Blackbelt in Blockchain](https://www.lmgpr.com/post/blockchain-with-medha-parlikar) Hows that black belt treating you?   
    
 [Manohar Parrikar](https://en.wikipedia.org/wiki/Manohar_Parrikar) the former Minister of Defence of India wifes name was Medha Parrikar (died 2001)​ look at her pictures.
-
-- **Brock Pierce**   
-[Wiki](https://en.wikipedia.org/wiki/Brock_Pierce)   
-
    
 
 - **Matti Tapani Liukas** - Using this website you can find all of the shell companies tied to Casper Labs   
 [Consensus Capitol](https://www.northdata.com/CONSENSUS%20CAPITAL%20SA,%20Versoix/CHE-363.759.977)
 
-- **Christopher Bowring** is a fellow of the UK Association of Chartered Certified Accountants.  
-United Kingdom  
-Algorand Foundation 
-
-- **Clifford Sarkin** - Chief of Strategic Relationships   
-[Linkedin](https://www.linkedin.com/in/cliffsarkin/)
-- **Jack Lynch**  
-[Linkedin](https://www.linkedin.com/in/lynchjw/)
-
-- **Varun Gupta** -  Founding Partner of Varun Gupta Law
 
 - **Sean Inggs** -  Was a Director of Adaptive Holding Ltd., the predecessor company of CasperLabs Holdings AG   
 [Cayman Islands-based, South African “independent director” Sean Inggs is being sued](https://www.offshorealert.com/south-african-professional-director-sean-inggs-sued-in-cayman-by-former-employer-imsl/?srsltid=AfmBOorkgK-oZ_fVErBK203juyqjcXBec6bCSkHcUUwD6cMgnGPTybOv)   
 
-- **Ralpf Kubli**   
-[Linkedin](https://www.linkedin.com/in/ralf-kubli-644393)   
-
-- **Daniel Marfurt**   
-[Linkedin](https://www.linkedin.com/in/danielmarfurt/)   
-
-- **Joseph Richard Murray**   
-[Linkedin](https://www.linkedin.com/in/joemurraycpa)    
-
 - **Patrick Storchenegger**   
 [Linkedin](https://www.linkedin.com/in/patrick-storchenegger-161b34254)   
-
-- **Scott Walker**
 
 - **Arlene Gaylord** - Puerto Rico / FBI   
 I think she helped them do this to me.   
