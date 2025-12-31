@@ -23,6 +23,10 @@ The original company was ran by a man named [Edward Mazure](https://en.wikipedia
 ViaBTC is a global cryptocurrency mining pool and platform, but its corporate headquarters are located in
 Shenzhen, Guangdong, China, within the Nanshan District, at the Tianxia International Center. This is the parent company of coinex as far as I am aware. The CEO of coinex is [Haipo Yang](https://www.linkedin.com/in/haipo-yang-83518563) he has had many problems in china supposedly even being arrested with his whole family. Now I wonder why would people in China be using this name? 
 
+## New York Fed Case
+New York Attorney General Letitia James recovered more than $1.7 million from COINEX (CoinEx) for failing to register as a securities and commodities broker-dealer and for falsely representing itself as a crypto exchange.  
+[DOJ CASE](https://ag.ny.gov/press-release/2023/attorney-general-james-recovers-17-million-cryptocurrency-platform-operating)  
+
 ## Theory / Opinion
 One more interesting fact is that [AlphaBay got shut down](https://en.wikipedia.org/wiki/AlphaBay) in July 2017 following a major international law enforcement operation codenamed "Operation Bayonet". CoinEx was founded in December 2017 by Haipo Yang, an early Bitcoin investor, and is a professional cryptocurrency exchange that grew out of the ViaBTC ecosystem. Moore interesting coincidence would be Binance was founded in July of 2017. Kucoin was founded September 2017. Alameda Research was founded in September 2017. BitMart was founded in 2017 by Sheldon Xia, officially launching its global cryptocurrency exchange platform in 2018. OKX, which was formerly known as OKEx, was founded by Star Xu in 2017. The parent company, OK Group, was established earlier in 2013 (the [silk road was busted](https://en.wikipedia.org/wiki/Silk_Road_(marketplace)) in late 2013). 
 

@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/casper/cover.jpg"
-keywords: ["Casper Labs", "Casper Labs LLC", "Zugg 500 Testnet", "CSPR", "Epstein", "Brock Pierce", "Switzerland", "Zugg", "FBI", "DOJ"]
+keywords: ["Casper Labs", "Casper Labs LLC", "Zugg 500 Testnet", "CSPR", "Epstein", "Brock Pierce", "Massachusetts", "Switzerland", "Zugg", "Puerto Rico", "FBI", "DOJ"]
 ---
 ## Casper Labs   
 I want to start by saying that "I AM NOT ACCUSING THEM OF MONEY LAUNDERING" but it kinda does look like fraud and money laundering. I am just about 100% certain they were running a government operation. This is evidenced by the people around them going to jail / getting sued and they just walk away leaving a giant mess behind. They are now working with former USAF people and IBM. Those people are either helping the government or they are now in danger these people are like the wrecking crew. The go around causing all kinds of problems and maybe they were moving money for the Epstein people or someone in Massachussets.  
