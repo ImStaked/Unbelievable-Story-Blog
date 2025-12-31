@@ -1,5 +1,5 @@
 import Footer from "@/app/_components/footer";
-import { CMS_NAME, HOME_OG_IMAGE_URL, SITE_URL } from "@/lib/constants";
+import { HOME_OG_IMAGE_URL, SITE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import cn from "classnames";
@@ -7,6 +7,7 @@ import { ThemeSwitcher } from "./_components/theme-switcher";
 import Header from "./_components/header";
 import Container from "./_components/container";
 import { GoogleAnalytics } from '@next/third-parties/google'
+import Script from "next/script";
 
 import "./globals.css";
 
@@ -64,8 +65,6 @@ export default function RootLayout({
         />
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4402981439843792"
-     crossOrigin="anonymous"></script>
       </head>
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
@@ -79,9 +78,13 @@ export default function RootLayout({
           </Container>
         </div>
         <Footer />
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4402981439843792"
+          crossOrigin="anonymous"
+          strategy="lazyOnload"
+        />
       </body>
       <GoogleAnalytics gaId="G-R3FMP8JQD0" />
     </html>
   );
 }
-
