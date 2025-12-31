@@ -79,6 +79,21 @@ export default function RootLayout({
         </div>
         <Footer />
         <Script
+          id="defer-css"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              const stylesheets = document.querySelectorAll('link[rel="stylesheet"][href*="_next/static/css"]');
+              stylesheets.forEach(sheet => {
+                sheet.media = 'print';
+                sheet.onload = () => {
+                  sheet.media = 'all';
+                };
+              });
+            `,
+          }}
+        />
+        <Script
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4402981439843792"
           crossOrigin="anonymous"
           strategy="lazyOnload"
