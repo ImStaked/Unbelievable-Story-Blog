@@ -40,4 +40,4 @@ Fraud cases --> [FRAUD CASE 1](https://www.casemine.com/judgement/us/59146903add
 ## Opinion
 Fraud seems to be a trend here. It appears that there is a level of corruption or influence or Rackettering being excerted here that might go above and beyond normal. What is that RICO thing for? I have suspected this was an FBI / CIA project from the start so if that is true the I have hacked the feds.
 
-Interesting fact. Within 1 week of me publishing the information about these people [Myrtle Beach Caught on Fire](https://www.visitmyrtlebeach.com/myrtle-beach-area-wildfire-update-and-visitor-information)
+Interesting fact. I posted information about all of this on twitter right before [Myrtle Beach Caught on Fire](https://www.visitmyrtlebeach.com/myrtle-beach-area-wildfire-update-and-visitor-information). Unfortunatly I have deleted most of my twitter posts from the past. I stopped deleting my twitter posts the last time the government attacked me because I documented the physical torture live. They do not beat me with rubber hoses the government has a way of hurting people using electromagnetic energy.
