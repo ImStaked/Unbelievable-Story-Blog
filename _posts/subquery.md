@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/subquery/cover.jpg"
+keywords: ["Subquery", "New Zealand", "China", "Rug Pull", "Scam", "CIA", "FBI", "Pathrock", "Blaze", "Henry Tafolia"]
 ---
 
 ## Subquery  

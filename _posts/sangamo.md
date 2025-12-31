@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/sangamo/cover.jpg"
+keywords: ["MK-Ultra", "Sangamo", "Political Warfare", "Schlumberger", "Superfund", "EPA", "DARPA", "Houston", "CIA", "FBI", "Georgia", "Clayton", "Raybun Gap", "Texas", "Sprigfield", "Illinois"]
 ---
 
 ## MK-Ultra History

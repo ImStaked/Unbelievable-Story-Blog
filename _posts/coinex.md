@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
+keywords: ["Coinex", "ViaBTC", "Poland", "Vino Global Limited", "Hiapo Yang", "Exchange", "FBI", "DOJ"]
 ---
 
 ## Coinex Research  

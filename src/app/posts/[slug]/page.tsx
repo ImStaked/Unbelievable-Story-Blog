@@ -70,7 +70,7 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
   }
 
   const title = `${post.title} | Working in Crypto`;
-  const keywords = [
+  const baseKeywords = [
     "crypto",
     "cryptocurrency",
     "blockchain",
@@ -81,10 +81,13 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     post.author.name,
   ];
 
+  const postKeywords = post.keywords || [];
+  const combinedKeywords = [...new Set([...baseKeywords, ...postKeywords])];
+
   return {
     title,
     description: post.excerpt,
-    keywords: keywords,
+    keywords: combinedKeywords,
     openGraph: {
       title,
       description: post.excerpt,

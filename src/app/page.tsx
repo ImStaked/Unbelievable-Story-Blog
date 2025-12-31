@@ -6,20 +6,21 @@ export default function Home() {
           The Crypto World Has A Dark Underbelly
         </h1>
         <div className="max-w-3xl mx-auto">
-          <p className="text-lg md:text-xl leading-relaxed mb-6">
+          <p>
             Welcome to My Unbelievable Story. What you are about to read is the result of years of deep involvement in the cryptocurrency industry. This is a world of shadows, where things are rarely as they appear. Behind the lofty promises of decentralization and innovation lie intricate networks of influence, questionable ethics, and hidden agendas.
-          </p>
-          <p className="text-lg md:text-xl leading-relaxed mb-6">
+          </p><br></br>
+          <p>
             This blog is my effort to drag uncomfortable truths into the light. I will connect the dots between well-respected projects and intelligence agencies, powerful investors and alleged criminals. These are not mere theories; they are documented accounts of my personal experiences and exhaustive research into those who have been abusing me with electromagnetic energy weapons on a daily basis for over 4 years. 
-          </p>
-          <p className="text-lg md:text-xl leading-relaxed mb-6">
+          </p><br></br>
+          <p>
           My conclusion is the government has been abusing me in an effort to conceal their money laundering operations, hide their failed "pig butchering" attempt against me, destroy my business and me as part of a subversion operation againt the crypto industry, and I am not an expert but it seems like financial warfare.
-          </p>
-          <p className="text-lg md:text-xl leading-relaxed">
+          </p><br></br>
+          <p>
             I invite you to read the posts, scrutinize the evidence, and form your own conclusions. The truth is buried in the details.
-          </p>
+          </p><br></br>
         </div>
       </section>
     </div>
   );
+  // <p className="text-lg md:text-xl leading-relaxed mb-6">
 }

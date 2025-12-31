@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/mantra/cover.jpg"
+keywords: ["Mantra Chain", "Hong Kong", "Testnet", "OM", "John Patrick Mullin", "Switzerland", "Zugg", "China", "CIA", "FBI", "DOJ"]
 ---
 
 ## Mantra Funny Math  

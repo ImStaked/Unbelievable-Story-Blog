@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/deploi/cover.jpg"
+keywords: ["Oskars Jepsis", "leksandr Zeziulinskyi", "Ukraine", "Germany", "Pathrock", "Sweden", "Latvia", "CIA", "FBI", "DOJ"]
 ---
 
 ## Deploi

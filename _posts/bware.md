@@ -8,6 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/bware/cover.jpg"
+keywords: ["Bware Labs", "Blast API", "Houston Testnet", "INFRA", "Romania", "Ukraine", "Aerostar", "Pathrock", "CIA", "FBI", "DOJ"]
 ---
 
 ## Bware Labs 
