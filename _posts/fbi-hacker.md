@@ -8,10 +8,10 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/fbi/cover.jpg"
-keywords: ["FBI", "Arlene Gaylord", "Johnny Sharp Jr.", "Texas", "Epstein", "Brock Pierce", "Massachusetts", "Switzerland", "Zugg", "Puerto Rico", "FBI", "DOJ"]
+keywords: ["FBI", "Arlene Gaylord", "Johnny Sharp Jr.", "Texas", "Epstein", "Brock Pierce", "Massachusetts", "Switzerland", "Zugg", "Puerto Rico", "CIA", "DOJ", "Drugs", "Federal Cases", "Informants"]
 ---
 
-I did not ever work with the Feds on purpose. If they have told anyone anything that is different they are lying. I suspect everyone now knows that I did not agree to work with the Feds despite how they act like I am their little hacker boy that they dont have to pay. 
+I did not ever work with the Feds on purpose. If they have told anyone anything that is different they are lying. I suspect everyone now knows that I did not agree to work with the Feds despite how they act like I am their little hacker boy that they dont have to pay. They literally use me to collect information then steal it out of my hotel room then use it to put people in jail the whole time never paying me anything. 
 
 Why would the feds change my whole families information on the internet without ever giving me a new name? I looked myself up and found these are my relatives? I only know one of these names and that person has been dead a long tme.  
 ```Laura Tate, 76  Mark Cox, 53  Cheryl Cox, 78  Monica Eastridge, 47  Kellie Hecht, 70  Margaret Rickord, 93```  
