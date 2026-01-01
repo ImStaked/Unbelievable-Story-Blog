@@ -1,4 +1,4 @@
-import Container from "@/app/_components/container";
+
 import { EXAMPLE_PATH } from "@/lib/constants";
 import cn from "classnames";
 
@@ -14,33 +14,31 @@ const Alert = ({ preview }: Props) => {
         "bg-neutral-50 border-neutral-200": !preview,
       })}
     >
-      <Container>
-        <div className="py-2 text-center text-sm">
-          {preview ? (
-            <>
-              This page is a preview.{" "}
-              <a
-                href="/api/exit-preview"
-                className="underline hover:text-teal-300 duration-200 transition-colors"
-              >
-                Exit preview mode
-              </a>
-              .
-            </>
-          ) : (
-            <>
-              The source code for this blog is{" "}
-              <a
-                href={`https://github.com/ImStaked/Unbelievable-Story-Blog`}
-                className="underline hover:text-blue-600 duration-200 transition-colors"
-              >
-                available on GitHub
-              </a>
-              .
-            </>
-          )}
-        </div>
-      </Container>
+      <div className="py-2 text-center text-sm">
+        {preview ? (
+          <>
+            This page is a preview.{" "}
+            <a
+              href="/api/exit-preview"
+              className="underline hover:text-teal-300 duration-200 transition-colors"
+            >
+              Exit preview mode
+            </a>
+            .
+          </>
+        ) : (
+          <>
+            The source code for this blog is{" "}
+            <a
+              href={`https://github.com/ImStaked/Unbelievable-Story-Blog`}
+              className="underline hover:text-blue-600 duration-200 transition-colors"
+            >
+              available on GitHub
+            </a>
+            .
+          </>
+        )}
+      </div>
     </div>
   );
 };

@@ -18,7 +18,7 @@ Why would the feds change my whole families information on the internet without?
    
 Coincidence? My Uncle in Carrollton Texas is named [Greg Willis](https://www.linkedin.com/in/willis-greg-64a8a56b). The [Colin County Texas District Attorney is named Greg Willis](https://ballotpedia.org/Greg_Willis). Now it is easier to see which names are real right? I know the FBI and CIA both do things like this to confuse people. See the FBI Agent below with the same name as a hockey player. I have lots more examples, but most are informants not public figures, I get headaches if I post their info everywhere.  
   
-Obviously someone feels what I do is dangerous for those around me. Yet nobody will give me a new name, pay me, give me paying work, talk to me, or help in any way. I think this is because they have been trying to get me killed while at the same time trying to maintain plausible deniability.
+Obviously someone feels what I do is dangerous for those around me. Yet nobody will give me a new name, pay me, give me paying work, talk to me, or help in any way. I think this is because they have been trying to get me killed while at the same time trying to maintain plausible deniability and discredit me. This is how the government operates.
 
 How is it possible for this many fed cases to happen to people all around me? Not only that, I 'accidentially' got hooked up with people connected to Epstein, what looks like money laundering for Ukraine, and I keep finding what looks like CIA and Pentagon type operations. This is all just an accident right? Who believes that? 
 
