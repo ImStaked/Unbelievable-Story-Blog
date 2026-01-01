@@ -13,8 +13,10 @@ keywords: ["FBI", "Arlene Gaylord", "Johnny Sharp Jr.", "Texas", "Epstein", "Bro
 
 I did not ever work with the Feds on purpose. If they have told anyone anything that is different they are lying. I suspect everyone now knows that I did not agree to work with the Feds despite how they act like I am their little hacker boy that they dont have to pay. They literally use me to collect information then steal it out of my hotel room then use it to put people in jail the whole time never paying me anything. 
 
-Why would the feds change my whole families information on the internet without ever giving me a new name? I looked myself up and found these are my relatives? I only know one of these names and that person has been dead a long tme.  
-```Laura Tate, 76  Mark Cox, 53  Cheryl Cox, 78  Monica Eastridge, 47  Kellie Hecht, 70  Margaret Rickord, 93```  
+Why would the feds change my whole families information on the internet without? I looked myself up and compiled this list of relatives? I only know 3 of these names never heard of the rest. That is only 18.75% accurate weird.  
+```Laura Tate, 76  Mark Cox, 53  Cheryl Cox, 78  Monica Eastridge, 47  Kellie Hecht, 70  Margaret Rickord, 93 Toni Willis, Gregory Willis, Nancy Perrine, Ana Barbosa, Stuart Rice, Diane Washington, Keith Worsham, Louise Smith, Julienne Gore, Kevin Oman``` 
+   
+Coincidence? My Uncle in Carrollton Texas is named [Greg Willis](https://www.linkedin.com/in/willis-greg-64a8a56b). The [Colin County Texas District Attorney is named Greg Willis](https://ballotpedia.org/Greg_Willis). Now it is easier to see which names are real right? I know the FBI and CIA both do things like this to confuse people. See the FBI Agent below with the same name as a hockey player. I have lots more examples, but most are informants not public figures, I get headaches if I post their info everywhere.  
   
 Obviously someone feels what I do is dangerous for those around me. Yet nobody will give me a new name, pay me, give me paying work, talk to me, or help in any way. I think this is because they have been trying to get me killed while at the same time trying to maintain plausible deniability.
 
@@ -27,7 +29,7 @@ This is from one of my court case documents. It looks like it says CIA to me. Wh
 ![CIA or IA on my Court Document](/assets/blog/site/cia.jpg)
 
 ## FBI Agent Tyler Ludwig  
-First this is likely a stage name.  
+First this is likely a stage name. Tyler Ludwig is also a hockey player from Dallas.    
 Second I suspect he was involved with Amy's arrest.  
 I think him and his friends on various task forces worked to get me killed.   
 [Skip Lomax Texarkana](https://www.texarkanagazette.com/news/2016/mar/30/man-who-flipped-truck-after-chase-appears-court-we/)  
@@ -61,17 +63,17 @@ Romanian Mob?
 [FRAUD CASE](https://www.justice.gov/archives/opa/pr/man-sentenced-integral-role-sophisticated-international-fraud-scheme)
 
 ## Fed Case #7
-Coinex  
+**Coinex**  
 Letitia James  
 [SEC CASE](https://ag.ny.gov/press-release/2023/attorney-general-james-recovers-17-million-cryptocurrency-platform-operating)  
 
 ## Fed Case #8
-Louisville Kentucky  
+**Louisville Kentucky**  
 Kristen Clark  
 [Civil Rights Case](https://www.justice.gov/archives/opa/pr/justice-department-finds-civil-rights-violations-louisville-metro-police-department-and)
 
 ## Fed Case #9
-Minneapolis Minnesota  
+**Minneapolis Minnesota**  
 Kristen Clark  
 [Civil Rights Case](https://www.justice.gov/archives/opa/pr/justice-department-finds-civil-rights-violations-minneapolis-police-department-and-city)
 
