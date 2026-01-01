@@ -20,9 +20,26 @@ Obviously someone feels what I do is dangerous for those around me. Yet nobody w
 
 How is it possible for this many fed cases to happen to people all around me? Not only that, I 'accidentially' got hooked up with people connected to Epstein, what looks like money laundering for Ukraine, and I keep finding what looks like CIA and Pentagon type operations. This is all just an accident right? Who believes that? 
 
-I have not even posted the stuff about the FBI guy Tyler Ludwig from Texarkana or is in Indiana and January 6th. Nor have I posted the information about Johnny Sharp Jr. and Arlene Gaylord both of which retired right after Trump became president.
+I also have a notebook full of information that leads back to Bill Clinton which the feds stole out of my hotel room and copied now they are in a spot because they wont come speak to me but have been using all of the data I collect.  
 
-I also have a notebook full of information that leads back to Bill Clinton which the feds stole out of my hotel room and copied now they are in a spot because they wont come speak to me but have been using all of the data I collect.
+## CIA?
+This is from one of my court case documents. It looks like it says CIA to me. Why?
+![CIA or IA on my Court Document](/assets/blog/site/cia.jpg)
+
+## FBI Agent Tyler Ludwig  
+First this is likely a stage name.  
+Second I suspect he was involved with Amy's arrest.  
+I think him and his friends on various task forces worked to get me killed.   
+[Skip Lomax Texarkana](https://www.texarkanagazette.com/news/2016/mar/30/man-who-flipped-truck-after-chase-appears-court-we/)  
+[January 6th Fort Wayne](https://www.journalgazette.net/local/courts/2-fort-wayne-men-charged-for-rioting-at-u-s-capitol-on-jan-6-2021/article_2007c3be-9593-11ef-a650-c33357327482.html)  
+
+## FBI Johnny Sharp Jr.  
+Notice how he retired once Biden was out. I can't prove he was involved in what happened to me, but I heard he was incharge of the crypto subversion stuff for the FBI in some ways.    
+[Forced to Retire?](https://www.waff.com/2025/02/07/fbi-assistant-it-director-redstone-retires/)  
+
+## FBI Arlene Gaylord
+Notice how she retired once Biden was out. I can only say she had a strong negatve reaction to the words "God Damn", plus she is from Puerto Rico. Later I found out her husband is a preacher.   
+[Forced to Retire?](https://www.nbcnews.com/politics/national-security/senior-fbi-official-forcefully-resisted-trump-administration-firings-rcna190301)  
 
 ## Fed Case #1-3
 **Amy Darlene Bryant**  
