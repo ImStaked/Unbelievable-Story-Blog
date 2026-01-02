@@ -26,13 +26,7 @@ Alexandru is on the board of a company called [Aerostar S.A. Romania](https://en
 There is another business I located in South Dakota [Aerostar](https://aerostar.com/) their origins trace back to Raven Industries, founded in Sioux Falls, SD, in 1956 by four former General Mills engineers: J.R. Smith, Ed Yost, Duwayne Thon, and Joseph Kaliszewski. The dates these companies were founded are so similaryly close together that I can't help but think they are connected. I believe Kaliszewski is a Polish name which from my previous research I associate with CIA connections. I would guess at minimum that somehow this is connected to the war in Ukraine and military contractors most likely the CIA in my opinion. Funny enough one of the guys name is Smith so...
 
 Third, In 2022, discussions and scrutiny regarding Hunter Biden's past business dealings in Romania intensified, primarily driven by ongoing Republican-led congressional investigations and media reports based on leaked or subpoenaed documents. Around May 2023 [House Republicans allege Biden family members received millions in payments from foreign entities in new bank records report](https://www.cnn.com/2023/05/10/politics/comer-bank-records-biden-family-members-payments-foreign-entities) Sometime around August 2024 there are allegations [Hunter Biden allegedly paid in Romanian 'influence' plot](https://www.bbc.com/news/articles/cz9wpdwnelno). Oct. 7, 2025 [Hunter Biden Pursued a Deal to Sell Land Around the U.S. Embassy in Romania](https://www.hoover.org/research/hunter-biden-pursued-deal-sell-land-around-us-embassy-romania)  
-
-Fourth,  
-
-*July 2021*  
-I think this Romanian dead billionaire is relavent.   
-[Romanian bitcoin billionaire dead](https://www.businessinsider.com/bitcoin-billionaire-mircea-popescu-drowns-leaving-behind-fortune-2021-7)   
-
+ 
 ## People involved
 
 - **Flavian Manea (CEO)** - Military Technical Academy "Ferdinand I"  
@@ -52,7 +46,7 @@ December 14th, 2023, the [Board appointed Mr. Alexandru Filip](https://www.marke
     
 I can say for certain that [Alchemy bought bware labs](https://www.alchemy.com/blog/alchemy-acquires-bware-labs) for an undisclosed sum of money. Reid Hoffman was an angel investor in Alchemy. The founders of Alchemy are [Nikil Viswanathan (CEO)](https://www.linkedin.com/in/nikilster) and [Joe Lau (CTO)](https://www.linkedin.com/in/josephlau) both went to Stanford University. Why would they buy a useless business that literally adds no value for an "undisclosed" sum of money?
 
-I can also say for certain that one of the founders of Bware works with a defense contractor that appears to be supporting the war in Ukraine. I can also say I did not agree to donate 100,000$ to the war effort while receiving nothing for my work. 
+I can also say for certain that one of the founders of Bware works with a defense contractor that appears to be supporting the war in Ukraine. I can also say I did not agree to donate 100,000$ to the war effort while receiving nothing for my work. No one notified me of any requirment to receive the rewards for my work until after the work was completed. This is fraud.  
 
-Why they would refuse to pay me? I don't know. I can speculate that Alexandru works for the CIA or FBI. If either agency or Romania is mad about this contact me about my money and I will be happy to sign a Non Disclosure.   
+Why they would refuse to pay me? I don't know. I can speculate that Alexandru works for the CIA or FBI. If either the agency or Romania or anyone else is mad about this I suggest somoeone contact me about my money and I will be happy to sign a Non Disclosure.   
 
