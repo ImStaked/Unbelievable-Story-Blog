@@ -54,7 +54,5 @@ I can say for certain that [Alchemy bought bware labs](https://www.alchemy.com/b
 
 I can also say for certain that one of the founders of Bware works with a defense contractor that appears to be supporting the war in Ukraine. I can also say I did not agree to donate 100,000$ to the war effort while receiving nothing for my work. 
 
+Why they would refuse to pay me? I don't know. I can speculate that Alexandru works for the CIA or FBI. If either agency or Romania is mad about this contact me about my money and I will be happy to sign a Non Disclosure.   
 
-Why they would refuse to pay me? I don't know. 
-
-Likely it is so classified they felt they could get away with it. Why would I go after CIA people? I hope to make them kill me or make the government come speak to me.
