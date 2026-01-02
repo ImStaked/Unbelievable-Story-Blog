@@ -43,6 +43,7 @@ Notice how he retired once Biden was out. I can't prove he was involved in what 
 Notice how she retired once Biden was out. I can only say she had a strong negatve reaction to the words "God Damn", plus she is from Puerto Rico. Later I found out her husband is a preacher.   
 [Forced to Retire?](https://www.nbcnews.com/politics/national-security/senior-fbi-official-forcefully-resisted-trump-administration-firings-rcna190301)  
 
+- All of these fed cases are connected to people I know, people I worked with, or happened in cities I visited.  
 ## Fed Case #1-3
 **Amy Darlene Bryant**  
 [Drug Trafficking](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute)  
@@ -88,4 +89,10 @@ Kristen Clark
 
 - **Jeffery Eric Torrico**  
 [Obituary](https://www.houstonjewishfunerals.com/obituaries/Jeffrey-Torrico/#!/Obituary)  
+
+
+
+
+
+
 
