@@ -1,5 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://www.myunbelievablestory.info/sitemap.xml
-Sitemap: https://myunbelievablestory.info/sitemap.xml
+Sitemap: https://www.myunbelievablestory.info/sitemap2.xml
