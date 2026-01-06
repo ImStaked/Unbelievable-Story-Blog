@@ -28,7 +28,9 @@ I also have a notebook full of information that leads back to Bill Clinton which
 
 ## CIA?
 This is from one of my court case documents. It looks like it says CIA to me. Why?
-![CIA or IA on my Court Document](/assets/blog/site/cia.jpg)
+![CIA or IA on my Court Document](/assets/blog/site/cia.jpg)  
+
+In this same court case I was assigned a lawyer that used to be a city councilwoman for Dallas County as my public defender. Her name was [Vonceil Jones Hill](https://dallascityhall.com/government/citycouncil/district3/Pages/biography.aspx) The judge in the case even issued an order to not pay her fully because she did a bad job. From 2020 until mid 2021 this black guy in a charger followed me everywhere sometimes in his dodge Charger sometimes on the greyhound bus. I called him D-Town because he was from Dallas. His wife was a bigger lady and he was supposedly doing church work while travelling. He rode the bus with me and I was spying on him while he was following me. Did you know Vonceil Jones Hill is the Pastor or Deakon of a church? Thats right, Vonceil Joes Hill was a Senior Pastor of Mt. Zion African Methodist Episcopal Church in the Dallas Area. 
 
 ## FBI Agent Tyler Ludwig  
 First this is likely a stage name. Tyler Ludwig is also a hockey player from Dallas.    
