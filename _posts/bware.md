@@ -50,3 +50,14 @@ I can also say for certain that one of the founders of Bware works with a defens
 
 Why they would refuse to pay me? I don't know. I can speculate that Alexandru works for the CIA or FBI. If either the agency or Romania or anyone else is mad about this I suggest somoeone contact me about my money and I will be happy to sign a Non Disclosure.   
 
+## Alchemy Purchase
+- **Transaction Overview**  
+On August 29, 2024, Web3 development platform Alchemy announced its acquisition of Bware Labs, also a Web3 development platform that provides blockchain infrastructure and API services, for an undisclosed amount.  
+
+- **Target: Bware Labs**  
+In 2023, Bware Labs launched the $INFRA token.. The fully diluted market cap of $INFRA as of 9/1/2024 was $21.8M and the total circulating supply of 100M. Key allocations include 12.2M for the seed round, 12M for a Series A round, 20M for treasury, and 25M for protocol incentives.  
+
+Bware Labs was founded in Romania in 2021 by Flavian Manea, Alexandru Minulescu, Matei Popp, and Radu Enoiu, and now has over 45 employees, mostly developers/engineers. The company raised a total of $6.9M in token and equity funding, with $900K in a Seed round led by Ascensive Assets and $6M in a Series A round with investors such as The Spartan Group, Woodstock Fund, Nexo, and Nabais Capital. Bware was last valued at $50M post-money in their Series A.
+ 
+- **Buyer: Alchemy** 
+Alchemy was founded in 2013 by Nikil Viswanathan and Joe Lau and now has over 280 employees. The company has raised $564M over five funding rounds in April 2019, December 2019, April 2021, October 2021, and February 2022, from lead investors such as Lightspeed Venture Partners, Silver Lake, a16z, Coatue, and Addition, as well as angel investors like Peter Thiel, Will Smith, and Reid Hoffman. Alchemy was valued at $10.2B post-money in their last funding round.
