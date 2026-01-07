@@ -44,7 +44,7 @@ December 14th, 2023, the [Board appointed Mr. Alexandru Filip](https://www.marke
     
 ## What is this  
     
-I can say for certain that [Alchemy bought bware labs](https://www.alchemy.com/blog/alchemy-acquires-bware-labs) for an undisclosed sum of money. Reid Hoffman was an angel investor in Alchemy. The founders of Alchemy are [Nikil Viswanathan (CEO)](https://www.linkedin.com/in/nikilster) and [Joe Lau (CTO)](https://www.linkedin.com/in/josephlau) both went to Stanford University. Why would they buy a useless business that literally adds no value for an "undisclosed" sum of money?
+I can say for certain that [Alchemy bought bware labs](https://www.alchemy.com/blog/alchemy-acquires-bware-labs) for an undisclosed sum of money. Reid Hoffman, Peter Theil, ad Will Smith appear to be investors in Alchemy. The founders of Alchemy are [Nikil Viswanathan (CEO)](https://www.linkedin.com/in/nikilster) and [Joe Lau (CTO)](https://www.linkedin.com/in/josephlau) both went to Stanford University. Why would they buy a useless business that literally adds no value for an "undisclosed" sum of money?
 
 I can also say for certain that one of the founders of Bware works with a defense contractor that appears to be supporting the war in Ukraine. I can also say I did not agree to donate 100,000$ to the war effort while receiving nothing for my work. No one notified me of any requirment to receive the rewards for my work until after the work was completed. This is fraud.  
 
