@@ -63,3 +63,18 @@ Bware Labs was founded in Romania in 2021 by Flavian Manea, Alexandru Minulescu,
  
 - **Buyer: Alchemy** 
 Alchemy was founded in 2013 by Nikil Viswanathan and Joe Lau and now has over 280 employees. The company has raised $564M over five funding rounds in April 2019, December 2019, April 2021, October 2021, and February 2022, from lead investors such as Lightspeed Venture Partners, Silver Lake, a16z, Coatue, and Addition, as well as angel investors like Peter Thiel, Will Smith, and Reid Hoffman. Alchemy was valued at $10.2B post-money in their last funding round.
+
+## World Economic Forum
+- **Reid Hoffman** Alchemy Investor   
+engages with the World Economic Forum (WEF) through content, discussions on technology's societal impact, and by hosting his own office/initiatives on the WEF platform, focusing on innovation, responsible tech, future of work, and building better networks.
+
+- **Andreessen Horowitz** Alchemy Investor   
+Members of Andreessen Horowitz (a16z) have attended and spoken at events associated with the World Economic Forum (WEF) in Davos, Switzerland, and related conferences, such as the "Davos in the Desert" event in Saudi Arabia. 
+Participation at Davos (WEF) Megan Holston-Alexander, a Partner and Head of the Cultural Leadership Fund at a16z, was a speaker at a Fast Company event during the 2024 Davos meeting. In January 2025, a16z's Cultural Leadership Fund team indicated they would be in Davos to "celebrate Hip Hop's undeniable influence on the global stage". The firm has also been noted for its strong presence in discussions around cryptocurrency at Davos events  
+[Link from WEF website](https://www.weforum.org/stories/2017/01/business-advice-from-14-successful-ceos-and-entrepreneurs/)
+
+- **Peter Thiel** Alchemy Investor   
+Has been a notable figure at the World Economic Forum (WEF) in Davos over the years, participating in panels, giving interviews, and offering various controversial opinions on topics like globalization, technology, and politics. 
+Key points regarding his involvement and statements in Davos include. 
+
+Globalization Critic: In a 2017 appearance, Thiel declared that "Globalization is over" and referred to Davos attendees as "a group of people who messed up the world," suggesting that the era of a single, homogenized global state was ending and that nationalism was a necessary "corrective". Technology's Role: During the 2013 WEF, he stated his belief that the increasing use of social media was making the world a "better place". Democracy and Power: In 2025, Spanish Prime Minister Pedro Sánchez referenced Thiel in a special address at Davos, accusing "techno-billionaires" of wanting to "overthrow democracy" and quoting Thiel's past comment that "freedom and democracy are compatible". Company Presence: His company Palantir has also maintained a presence at the forum; in 2024, Palantir hosted an event for the families of Hamas hostages in Davos. Other Engagements: He has participated in discussions about education technology, such as Massive Open Online Courses (MOOCs), and the general state of the global economy. 
