@@ -82,6 +82,8 @@ Kristen Clark
 Kristen Clark  
 [Civil Rights Case](https://www.justice.gov/archives/opa/pr/justice-department-finds-civil-rights-violations-minneapolis-police-department-and-city)
 
+## Federal Government Censoring my Information. To hide the fact they are involved in my stolen money
+![My Account Being Censored](/assets/blog/site/censored-twitter.jpg)
 
 ## Dead People
 
