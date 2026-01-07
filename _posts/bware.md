@@ -51,6 +51,8 @@ I can also say for certain that one of the founders of Bware works with a defens
 Why they would refuse to pay me? I don't know. I can speculate that Alexandru works for the CIA or FBI. If either the agency or Romania or anyone else is mad about this I suggest somoeone contact me about my money and I will be happy to sign a Non Disclosure.   
 
 ## Alchemy Purchase
+![Alchemy Investors List](/assets/blog/site/alchemy-investors.jpg)  
+
 - **Transaction Overview**  
 On August 29, 2024, Web3 development platform Alchemy announced its acquisition of Bware Labs, also a Web3 development platform that provides blockchain infrastructure and API services, for an undisclosed amount.  
 
