@@ -1,6 +1,6 @@
 ---
 title: "Mantra"
-excerpt: "MANTRA Chain's first official testnet, an incentivized Phase 1, launched on November 8, 2023, focusing on security, network refinement, and validator feedback. The cryptocurrency world has been shaken by a colossal scandal involving Mantra ($OM) and its co-founder, John Patrick Mullin."
+excerpt: "MANTRA Chain's first official testnet, an incentivized Phase 1, launched on November 8, 2023, focusing on security, network refinement, and validator feedback. The cryptocurrency world has been shaken by a colossal 6 Billion dollar scandal involving Mantra ($OM) and its co-founder, John Patrick Mullin."
 coverImage: "/assets/blog/mantra/cover.jpg"
 date: "2023-11-08T07:35:07.322Z"
 author:

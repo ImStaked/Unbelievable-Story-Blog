@@ -1,6 +1,6 @@
 ---
 title: "Subquery"
-excerpt: "The SubQuery Kepler Network, which served as a pre-mainnet test network, was first announced to the community with a launch date and location in April 2023. Public access was later expanded in October 2023"
+excerpt: "The SubQuery Kepler Network, which served as a pre-mainnet test network, was first announced to the community with a launch date and location in April 2023. Public access was later expanded in October 2023. I helped with alot of this. Got virtually nothing and the whole project appears to be a rug pull by people reselling the services they get for basically free"
 coverImage: "/assets/blog/subquery/cover.jpg"
 date: "2023-04-05T07:35:07.322Z"
 author:

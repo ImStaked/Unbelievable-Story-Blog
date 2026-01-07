@@ -1,6 +1,6 @@
 ---
 title: "Casper Labs"
-excerpt: "This is how I got close to the people from Casper Labs, helped them by contributing work and resources, and how I found all of the information about them"
+excerpt: "This is how I got close to the people from Casper Labs, helped them by contributing work and resources, and how I found all of the information about them. They owed me 377,000 tokens which at the time would have brought me near 50,000$ over time. Now the token is virtually worthless"
 coverImage: "/assets/blog/casper/cover.jpg"
 date: "2020-03-31T05:35:07.322Z"
 author:

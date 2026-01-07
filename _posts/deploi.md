@@ -1,6 +1,6 @@
 ---
 title: "Deploi"
-excerpt: "The company focuses on decentralized finance (DeFi), tokenization, private credit, and other aspects of Web3 and digital assets. I was helping them run a node on Canton Network and was helping get their developer up to speed."
+excerpt: "The company focuses on decentralized finance (DeFi), tokenization, private credit, and other aspects of Web3 and digital assets. I was helping them run a node on Canton Network and was helping get their developer up to speed. In return they wasted 2 months of my time while delaying my payment until I turned off their services"
 coverImage: "/assets/blog/deploi/cover.jpg"
 date: "2025-06-10T09:35:07.322Z"
 author:
