@@ -28,8 +28,8 @@ export default function Donate() {
             <Image
                 src="/assets/blog/donate/btc-donate-address.jpg"
                 alt="BTC Donation Adddres"
-                width={400}
-                height={400}
+                width={300}
+                height={300}
                 className="square-full"
             />
             <p className="text-lg leading-relaxed mb-4 text-center">
@@ -41,8 +41,8 @@ export default function Donate() {
             <Image
                 src="/assets/blog/donate/btc-donate-address.jpg"
                 alt="BTC Donation Adddres"
-                width={400}
-                height={400}
+                width={300}
+                height={300}
                 className="square-full"
             />
             <p className="text-lg leading-relaxed mb-4 text-center">
