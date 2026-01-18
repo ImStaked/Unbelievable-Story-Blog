@@ -17,10 +17,10 @@ export function Footer() {
                 </a>
               </li>
           </div>
-          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2 mb-10 lg:mb-0 space-y-4 lg:space-y-0">
+          <div className="flex flex-col lg:flex-row text-center justify-center items-center lg:pl-4 lg:w-1/2 mb-10 lg:mb-0 space-y-4 lg:space-y-0">
             <a
               href={`https://twitter.com/ImStaked`}
-              className="mx-3 hover:text-blue-500 transition-colors duration-200"
+              className="mx-3 hover:text-blue-500 transition-colors duration-200 flex lg:flex-col items-center gap-2"
               aria-label="Twitter"
             >
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
@@ -30,7 +30,7 @@ export function Footer() {
             </a>
             <a
               href={`https://github.com/imstaked`}
-              className="mx-3 hover:text-gray-700 transition-colors duration-200 text-center justify-center items-center"
+              className="mx-3 hover:text-gray-700 transition-colors duration-200 flex lg:flex-col items-center gap-2"
               aria-label="GitHub"
             >
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
@@ -39,7 +39,7 @@ export function Footer() {
               Github
             </a>
           </div>
-          <div className="text-lg font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
+          <div className="text-lg font-bold tracking-tighter leading-tight text-center lg:text-right mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
           <br className="hidden lg:block" />
             © Copyright 2025
           </div>
