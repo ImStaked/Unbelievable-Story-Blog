@@ -24,7 +24,7 @@ export default function Donate() {
             </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 justify-items-center">
-            <div className="md:col-span-1">
+            <div className="md:col-span-1 flex flex-col items-center">
             <Image
                 src="/assets/blog/donate/btc-donate-address.jpg"
                 alt="BTC Donation Adddres"
@@ -37,7 +37,7 @@ export default function Donate() {
                 bc1q0wn7qf5m6u7sy7gkp6nl30l8f2kel3ucn5fkzq
             </p>
             </div>
-            <div className="md:col-span-1">
+            <div className="md:col-span-1 flex flex-col items-center">
             <Image
                 src="/assets/blog/donate/btc-donate-address.jpg"
                 alt="BTC Donation Adddres"
