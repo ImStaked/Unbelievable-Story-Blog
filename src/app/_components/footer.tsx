@@ -17,7 +17,7 @@ export function Footer() {
                 </a>
               </li>
           </div>
-          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
+          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2 mb-10 lg:mb-0 space-y-4 lg:space-y-0">
             <a
               href={`https://twitter.com/ImStaked`}
               className="mx-3 hover:text-blue-500 transition-colors duration-200"
