@@ -32,7 +32,7 @@ export default function Donate() {
                 height={300}
                 className="square-full"
             />
-            <p className="text-lg leading-relaxed mb-4 text-center">
+            <p className="text-lg leading-relaxed mb-4 text-center break-all">
                 Donate BTC: <br />
                 bc1q0wn7qf5m6u7sy7gkp6nl30l8f2kel3ucn5fkzq
             </p>
@@ -45,7 +45,7 @@ export default function Donate() {
                 height={300}
                 className="square-full"
             />
-            <p className="text-lg leading-relaxed mb-4 text-center">
+            <p className="text-lg leading-relaxed mb-4 text-center break-all">
                 Donate ETH: <br />
                 0x16bf976cA6EAb9e9Cb01EBD14977cBc10E371831
             </p>
