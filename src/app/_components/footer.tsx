@@ -1,15 +1,21 @@
 import Container from "@/app/_components/container";
-import { EXAMPLE_PATH } from "@/lib/constants";
 
 export function Footer() {
   return (
     <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800">
       <Container>
-        <div className="py-28 flex flex-col lg:flex-row items-center">
+        <div className="py-20 flex flex-col lg:flex-row items-center">
           <div className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            Crypto Drama 
-            <br className="hidden lg:block" />
-            © Copyright 2025
+              <li className="text-4xl list-none">
+                <a
+                  href="/donate"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:underline"
+                >
+                  Donate Here
+                </a>
+              </li>
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
@@ -30,6 +36,10 @@ export function Footer() {
                 <path fillRule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.47.087.677-.233.677-.522 0-.257-.009-1.04-.015-2.042-2.782.601-3.37-1.34-3.37-1.34-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.004.07 1.532 1.03 1.532 1.03.892 1.53 2.341 1.088 2.91.832.091-.647.35-1.088.636-1.338-2.22-.253-4.555-1.116-4.555-4.949 0-1.092.39-1.984 1.029-2.682-.103-.253-.446-1.27.098-2.65 0 0 .84-.269 2.75 1.025.799-.223 1.64-.335 2.48-.339.84.004 1.682.116 2.48.339 1.908-1.294 2.748-1.025 2.748-1.025.546 1.38.202 2.398.099 2.65.64.698 1.028 1.59 1.028 2.682 0 3.841-2.339 4.691-4.566 4.94.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .289.208.61.684.522C21.137 20.195 24 16.44 24 12.017 24 6.484 19.522 2 14 2h-2z" clipRule="evenodd"/>
               </svg>
             </a>
+          </div>
+          <div className="text-lg font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
+          <br className="hidden lg:block" />
+            © Copyright 2025
           </div>
         </div>
       </Container>
