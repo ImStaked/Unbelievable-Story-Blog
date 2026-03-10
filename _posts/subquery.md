@@ -4,7 +4,7 @@ excerpt: "The SubQuery Kepler Network, which served as a pre-mainnet test networ
 coverImage: "/assets/blog/subquery/cover.jpg"
 date: "2023-04-05T07:35:07.322Z"
 author:
-  name: Jason
+  name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/subquery/cover.jpg"

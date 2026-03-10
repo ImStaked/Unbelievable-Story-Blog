@@ -4,7 +4,7 @@ excerpt: "The company focuses on decentralized finance (DeFi), tokenization, pri
 coverImage: "/assets/blog/deploi/cover.jpg"
 date: "2025-06-10T09:35:07.322Z"
 author:
-  name: Jason
+  name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/deploi/cover.jpg"

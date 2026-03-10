@@ -4,7 +4,7 @@ excerpt: "This is how I got close to the people from Casper Labs, helped them by
 coverImage: "/assets/blog/casper/cover.jpg"
 date: "2020-03-31T05:35:07.322Z"
 author:
-  name: Jason
+  name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/casper/cover.jpg"

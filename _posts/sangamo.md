@@ -4,7 +4,7 @@ excerpt: "The goverment is using me basically as a hacker but refuses to pay me.
 coverImage: "/assets/blog/sangamo/cover.jpg"
 date: "2025-12-28T09:35:07.322Z"
 author:
-  name: Jason
+  name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/sangamo/cover.jpg"
@@ -29,7 +29,7 @@ My family can not explain in any reasonable way how they came to be in possessio
 All of this got me to thinking about how I came to be with them as a child. One possible explaination is the govoernment was using in-vitro fertilization to create a bunch of babies to experiment on. This would be the ideal situation for them because if a child has no parents there is no one to really complain if they get caught. The government seems to prefer vulnerable populations to abuse and research on like homeless people, orphans, and the "mentally ill". Remember when [Ronald Reagan emptied the asylums](https://capitolweekly.net/the-republican-who-emptied-the-asylums/) why do you think he did that?
 
 ## Is The Government is Involved?
-If you google my name "Jason Rickord" and try to find my family what you will find is a WHOLE BUNCH of people I have never heard of. The only way for that to happen is if the government is scrambling the data on purpose. They are not concerned with protecting me they are trying to protect my supposed family. But why?  
+If you google my name, which I have redacted for my own safety however it is not a secret, and try to find my family what you will find is a WHOLE BUNCH of people I have never heard of. The only way for that to happen is if the government is scrambling the data on purpose. They are not concerned with protecting me they are trying to protect my supposed family. But why?  
 
 ## Timeline
 

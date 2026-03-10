@@ -4,7 +4,7 @@ excerpt: "I lost a lot of money here when the market crashed right before the FT
 coverImage: "/assets/blog/coinex/cover.jpg"
 date: "2022-11-15T07:35:07.322Z"
 author:
-  name: Jason
+  name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"

@@ -4,7 +4,7 @@ excerpt: "MANTRA Chain's first official testnet, an incentivized Phase 1, launch
 coverImage: "/assets/blog/mantra/cover.jpg"
 date: "2023-11-08T07:35:07.322Z"
 author:
-  name: Jason
+  name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/mantra/cover.jpg"

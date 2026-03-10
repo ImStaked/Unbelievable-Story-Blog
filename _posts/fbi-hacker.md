@@ -4,7 +4,7 @@ excerpt: "The FBI and the goverment set me up to look like an informant then let
 coverImage: "/assets/blog/fbi/cover.jpg"
 date: "2025-12-31T05:35:07.322Z"
 author:
-  name: Jason
+  name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/fbi/cover.jpg"

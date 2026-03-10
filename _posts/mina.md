@@ -4,7 +4,7 @@ excerpt: "I was invited to participate in the Mina Protocol Adversarial Test Net
 coverImage: "/assets/blog/mina/cover.jpg"
 date: "2020-12-17T05:35:07.322Z"
 author:
-  name: Jason
+  name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/mina/cover.jpg"

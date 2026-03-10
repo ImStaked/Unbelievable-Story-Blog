@@ -4,7 +4,7 @@ excerpt: "I helped with these people from Romania with their 'Houston' testnet s
 coverImage: "/assets/blog/bware/cover.jpg"
 date: "2022-08-16T09:35:07.322Z"
 author:
-  name: Jason
+  name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/bware/cover.jpg"

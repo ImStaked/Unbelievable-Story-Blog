@@ -19,7 +19,7 @@ export default function About() {
         <div className="md:col-span-1">
           <Image
             src="/assets/blog/authors/jj.jpeg"
-            alt="Jason, the author"
+            alt="JJ, the author"
             width={200}
             height={200}
             className="rounded-full"
@@ -27,7 +27,7 @@ export default function About() {
         </div>
         <div className="md:col-span-2">
           <p className="text-lg leading-relaxed mb-4">
-            My name is Jason, and I'm the author of "My Unbelievable Story." I'm a blockchain enthusiast and developer based in Texas. For years, I have been deeply involved in the cryptocurrency space, contributing to various projects and exploring the technology's potential.
+            My name is JJ, and I'm the author of "My Unbelievable Story." I'm a blockchain enthusiast and developer based in Texas. For years, I have been deeply involved in the cryptocurrency space, contributing to various projects and exploring the technology's potential.
           </p>
           <p className="text-lg leading-relaxed mb-4">
             This blog is where I document my journey through the crypto world – the good, the bad, and the unbelievable. My goal is to shed light on the complexities and controversies that often remain hidden behind the hype. I believe in the power of transparency and a healthy dose of skepticism.
