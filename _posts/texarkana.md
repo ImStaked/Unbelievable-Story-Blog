@@ -17,7 +17,7 @@ While reading this article please remember that I am currently located about 80 
 I just want to make it very clear that I have never in my life agreed to be an informant for the police or the feds. If I had I would not be legally allowed to publish this information. I can publish this because I never signed any paperwork for the police or the govornment. Now they are trying to kill me.
 
 ## The Beginning / Overview
-I think this all started way back in 2015. I was living in Texarkana, Texas with a girl who had ties to some local police I suspect. The police probably suspected I was doing illegal stuff but couldn't prove it because I was not doing anything illegal. They never found substantial amounts of drugs despite illegal searches of my property.   
+I think this all started way back in 2015. I was living in Texarkana, Texas with a girl who had ties to some local police I suspect. Her name was Amanda but last I checked she was in prison for child neglect. The police probably suspected I was doing illegal stuff but couldn't prove it because I was not doing anything illegal. They never found substantial amounts of drugs despite illegal searches of my property.   
 
 A friend of mine that I had know for 20+ years then got arrested by a federal task force for Conspiracy to Distribute Methamphetamine. For anyone interested here is a [link to the DOJ website](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute) with the story. Her name was Amy. She recently died which I found to be unusual because she was just approved for very expensive medication that is only given after a thorough health review. Here is a [link to her obituary](https://everloved.com/life-of/amy-bryant/obituary/). 
 
