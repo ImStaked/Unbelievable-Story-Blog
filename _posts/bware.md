@@ -1,10 +1,10 @@
 ---
 title: "Bware Labs Blast API"
-excerpt: "I helped with these people from Romania with their 'Houston' testnet starting in August of 2022. I was unaware at the time but it would have been best to just find something else to work on. They never paid me the large amount of tokens I was owed. It turns out one of them work for a Romanian Defense contractor. I did not agree to donate my money to the Ukraine war"
+excerpt: "I helped with these people from Romania with their 'Houston' testnet starting in August of 2022. They never paid me the large amount of tokens I was owed. It turns out one of them work for a Romanian Defense contractor. I did not agree to donate my money to the Ukraine war"
 coverImage: "/assets/blog/bware/cover.jpg"
 date: "2022-08-16T09:35:07.322Z"
 author:
-  name: JJ
+  name: Jason
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/bware/cover.jpg"
@@ -17,30 +17,37 @@ I was working with them on their Houston Testnet. I was supposed to received 100
 ## Problems
 First, guess who hooked me up with this project? Pathrock aka [Patrick Hofmeister](https://www.linkedin.com/in/patrick-hofmeister-0433b0166?originalSubdomain=de)
 
-Second, with so many military and Romania government people and the war in Ukraine combined with the DOJ case that includes someone with an almost identical name as Alexandru Catalin Filip. [Alexandru Catalin Filip's last X post](https://x.com/Alexand12748036) was 4-20-2022. Ionut-Razvan Sandu, 35, of Romania, pleaded guilty in April 2022 of the below DOJ case.  
-I think this DOJ case might be related due to the fact of a shared name Alexandru Catalin. I checked with the Federal Bureau of Prisons for an inmate with both names and every variation but could not find an inmate. We can all see the DOJ case. We can see the guy stopped posting on twitter around the same time and we can all check to verify the person in the DOJ case is not in jail. However I can find Ionut-Razvan Sandu who has a Release Date: 10/23/2027.  
-[DOJ Case](https://www.justice.gov/archives/opa/pr/man-sentenced-integral-role-sophisticated-international-fraud-scheme)  
 
-Alexandru is on the board of a company called [Aerostar S.A. Romania](https://en.wikipedia.org/wiki/Aerostar_(Romanian_company)) was founded in 1953 in Bacău, Romania, initially as an aircraft maintenance plant for the Romanian Air Force, growing into a leading aerospace and defense company involved in manufacturing, assembly, and MRO (Maintenance, Repair, and Overhaul) for aviation and ground defense systems
+In 2022, discussions and scrutiny regarding Hunter Biden's past business dealings in Romania intensified, primarily driven by ongoing Republican-led congressional investigations and media reports based on leaked or subpoenaed documents. 
 
-There is another business I located in South Dakota [Aerostar](https://aerostar.com/) their origins trace back to Raven Industries, founded in Sioux Falls, SD, in 1956 by four former General Mills engineers: J.R. Smith, Ed Yost, Duwayne Thon, and Joseph Kaliszewski. The dates these companies were founded are so similaryly close together that I can't help but think they are connected. I believe Kaliszewski is a Polish name which from my previous research I associate with CIA connections. I would guess at minimum that somehow this is connected to the war in Ukraine and military contractors most likely the CIA in my opinion. Funny enough one of the guys name is Smith so...
-
-Third, In 2022, discussions and scrutiny regarding Hunter Biden's past business dealings in Romania intensified, primarily driven by ongoing Republican-led congressional investigations and media reports based on leaked or subpoenaed documents. Around May 2023 [House Republicans allege Biden family members received millions in payments from foreign entities in new bank records report](https://www.cnn.com/2023/05/10/politics/comer-bank-records-biden-family-members-payments-foreign-entities) Sometime around August 2024 there are allegations [Hunter Biden allegedly paid in Romanian 'influence' plot](https://www.bbc.com/news/articles/cz9wpdwnelno). Oct. 7, 2025 [Hunter Biden Pursued a Deal to Sell Land Around the U.S. Embassy in Romania](https://www.hoover.org/research/hunter-biden-pursued-deal-sell-land-around-us-embassy-romania)  
+Around May 2023 [House Republicans allege Biden family members received millions in payments from foreign entities in new bank records report](https://www.cnn.com/2023/05/10/politics/comer-bank-records-biden-family-members-payments-foreign-entities) Sometime around August 2024 there are allegations [Hunter Biden allegedly paid in Romanian 'influence' plot](https://www.bbc.com/news/articles/cz9wpdwnelno). Oct. 7, 2025 [Hunter Biden Pursued a Deal to Sell Land Around the U.S. Embassy in Romania](https://www.hoover.org/research/hunter-biden-pursued-deal-sell-land-around-us-embassy-romania)  
  
 ## People involved
 
-- **Flavian Manea (CEO)** - Military Technical Academy "Ferdinand I"  
-[Here is someone](https://www.linkedin.com/in/flavian-manea) with the same name, same country, who went to school in london, but different picture doing medical application development.
+- **Flavian Manea (CEO)** -   *Romania /  Alchemy*
+  - Military Technical Academy "Ferdinand I" 
+  - [Linkedin 1](https://www.linkedin.com/in/maneaflavian/) Site Lead at Alchemy
+  - [Linkedin 2](https://www.linkedin.com/in/flavian-manea) Same name, Same country, who went to school in london, but different picture doing medical application development.
 
-- **Alexandru Minulescu (CTO)** - Politehnica University of Bucharest
+- **Alexandru Minulescu (CTO)** 
+  - Politehnica University of Bucharest
 
-- **Matei Popp** - Politehnica University of Bucharest
+- **Matei Popp** 
+  - Politehnica University of Bucharest
 
-- **Radu Enoiu** - The Military Technical Academy, Bucharest
+- **Radu Enoiu** - *Romania /  Alchemy*
+  - The Military Technical Academy, Bucharest
+  - [Linkedin](https://www.linkedin.com/in/radu-enoiu-b76b566a/)
 
-- **Alexandru Catalin Filip** - His linkdin says University of Cambridge. The wall street journall says he received his MBA from the University of Warwick. Which is true?   
-
-December 14th, 2023, the [Board appointed Mr. Alexandru Filip](https://www.marketscreener.com/insider/ALEXANDRU-CATALIN-FILIP-A3NEPI/) for the position of General Director of [Aerostar SA](https://en.wikipedia.org/wiki/Aerostar_(Romanian_company)) he supposedly has worked there for 15 years. Aerostar SA, a major Romanian aerospace and defense manufacturer, is heavily involved in supporting Ukraine through defense cooperation, including training pilots and potentially supplying military hardware, with official agreements for security cooperation and enhanced air force coordination, building on existing use of Romanian defense products by Ukraine's forces. 
+- **Alexandru Catalin Filip** 
+  - His linkdin says University of Cambridge. The wall street journall says he received his MBA from the University of Warwick. Which is true?
+  - [Linkedin](https://www.linkedin.com/in/alexandru-catalin-filip-bb2809184/)
+  - [Lawyer?](https://filipandcompany.com/team/catalin-alexandru/) Catalin heads the Dispute Resolution department of Filip & Company.
+  - [Board appointed Mr. Alexandru Filip](https://www.marketscreener.com/insider/ALEXANDRU-CATALIN-FILIP-A3NEPI/)  on December 14th, 2023, the for the position of General Director of Aerostar SA. Supposedly has worked Aerostar SA for 15 years. 
+  - [Aerostar SA](https://en.wikipedia.org/wiki/Aerostar_(Romanian_company)) is a major Romanian aerospace and defense manufacturer, is heavily involved in supporting Ukraine through defense cooperation, including training pilots and potentially supplying military hardware, with official agreements for security cooperation and enhanced air force coordination, building on existing use of Romanian defense products by Ukraine's forces. 
+  - [Aerostar](https://aerostar.com/) South Dakota business that appears connected.
+  - [Alexandru Catalin Filip's last X post](https://x.com/Alexand12748036) was 4-20-2022. Ionut-Razvan Sandu, 35, of Romania, pleaded guilty in April 2022 of the below DOJ case. 
+  - [DOJ Federal RICO Case](https://www.justice.gov/archives/opa/pr/man-sentenced-integral-role-sophisticated-international-fraud-scheme) I think this DOJ case might be related due to the fact of a shared name Alexandru Catalin. I checked with the Federal Bureau of Prisons for an inmate with both names and every variation but could not find an inmate. We can all see the DOJ case. We can see the guy stopped posting on twitter around the same time and we can all check to verify the person in the DOJ case is not in jail. However I can find Ionut-Razvan Sandu who has a Release Date: 10/23/2027.
     
 ## What is this  
     
@@ -51,20 +58,18 @@ I can also say for certain that one of the founders of Bware works with a defens
 Why they would refuse to pay me? I don't know. I can speculate that Alexandru works for the CIA or FBI. If either the agency or Romania or anyone else is mad about this I suggest somoeone contact me about my money and I will be happy to sign a Non Disclosure.   
 
 ## Alchemy Purchase
-![Alchemy Investors List](/assets/blog/site/alchemy-investors.jpg)  
-
 - **Transaction Overview**  
 On August 29, 2024, Web3 development platform Alchemy announced its acquisition of Bware Labs, also a Web3 development platform that provides blockchain infrastructure and API services, for an undisclosed amount.  
 
 - **Target: Bware Labs**  
-In 2023, Bware Labs launched the $INFRA token.. The fully diluted market cap of $INFRA as of 9/1/2024 was $21.8M and the total circulating supply of 100M. Key allocations include 12.2M for the seed round, 12M for a Series A round, 20M for treasury, and 25M for protocol incentives.  
+In 2023, Bware Labs launched the INFRA token.
 
-Bware Labs was founded in Romania in 2021 by Flavian Manea, Alexandru Minulescu, Matei Popp, and Radu Enoiu, and now has over 45 employees, mostly developers/engineers. The company raised a total of $6.9M in token and equity funding, with $900K in a Seed round led by Ascensive Assets and $6M in a Series A round with investors such as The Spartan Group, Woodstock Fund, Nexo, and Nabais Capital. Bware was last valued at $50M post-money in their Series A.
+Bware Labs was founded in Romania in 2021 by Flavian Manea, Alexandru Minulescu, Matei Popp, and Radu Enoiu, and now has over 45 employees, mostly developers/engineers. The company raised a total of 6.9M in token and equity funding, with 900K in a Seed round led by Ascensive Assets and 6M in a Series A round with investors such as The Spartan Group, Woodstock Fund, Nexo, and Nabais Capital. Bware was last valued at $50M post-money in their Series A.
  
 - **Buyer: Alchemy** 
-Alchemy was founded in 2013 by Nikil Viswanathan and Joe Lau and now has over 280 employees. The company has raised $564M over five funding rounds in April 2019, December 2019, April 2021, October 2021, and February 2022, from lead investors such as Lightspeed Venture Partners, Silver Lake, a16z, Coatue, and Addition, as well as angel investors like Peter Thiel, Will Smith, and Reid Hoffman. Alchemy was valued at $10.2B post-money in their last funding round.
+Alchemy was founded in 2013 by Nikil Viswanathan and Joe Lau and now has over 280 employees. The company has raised 564M over five funding rounds in April 2019, December 2019, April 2021, October 2021, and February 2022, from lead investors such as Lightspeed Venture Partners, Silver Lake, a16z, Coatue, and Addition, as well as angel investors like Peter Thiel, Will Smith, and Reid Hoffman. Alchemy was valued at $10.2B post-money in their last funding round.
 
-## World Economic Forum
+## World Economic Forum Connection
 - **Reid Hoffman** Alchemy Investor   
 engages with the World Economic Forum (WEF) through content, discussions on technology's societal impact, and by hosting his own office/initiatives on the WEF platform, focusing on innovation, responsible tech, future of work, and building better networks.
 
@@ -77,4 +82,3 @@ Participation at Davos (WEF) Megan Holston-Alexander, a Partner and Head of the 
 Has been a notable figure at the World Economic Forum (WEF) in Davos over the years, participating in panels, giving interviews, and offering various controversial opinions on topics like globalization, technology, and politics. 
 Key points regarding his involvement and statements in Davos include. 
 
-Globalization Critic: In a 2017 appearance, Thiel declared that "Globalization is over" and referred to Davos attendees as "a group of people who messed up the world," suggesting that the era of a single, homogenized global state was ending and that nationalism was a necessary "corrective". Technology's Role: During the 2013 WEF, he stated his belief that the increasing use of social media was making the world a "better place". Democracy and Power: In 2025, Spanish Prime Minister Pedro Sánchez referenced Thiel in a special address at Davos, accusing "techno-billionaires" of wanting to "overthrow democracy" and quoting Thiel's past comment that "freedom and democracy are compatible". Company Presence: His company Palantir has also maintained a presence at the forum; in 2024, Palantir hosted an event for the families of Hamas hostages in Davos. Other Engagements: He has participated in discussions about education technology, such as Massive Open Online Courses (MOOCs), and the general state of the global economy. 

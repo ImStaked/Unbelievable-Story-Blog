@@ -1,28 +1,23 @@
 ---
 title: "Casper Labs"
-excerpt: "This is how I got close to the people from Casper Labs, helped them by contributing work and resources, and how I found all of the information about them. They owed me 377,000 tokens which at the time would have brought me near 50,000$ over time. Now the token is virtually worthless"
+excerpt: "This is how I helped the people from Casper Labs launch their network by contributing work and resources. I researched them because they owe me 377,000 CSPR tokens at the time valued around 50,000$. Now the token is virtually worthless"
 coverImage: "/assets/blog/casper/cover.jpg"
 date: "2020-03-31T05:35:07.322Z"
 author:
-  name: JJ
+  name: Jason
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/casper/cover.jpg"
 keywords: ["Casper Labs", "Casper Labs LLC", "Zugg 500 Testnet", "CSPR", "Epstein", "Brock Pierce", "Massachusetts", "Switzerland", "Zugg", "Puerto Rico", "FBI", "DOJ"]
 ---
 ## Casper Labs   
-I want to start by saying that "I AM NOT ACCUSING THEM OF MONEY LAUNDERING" but it kinda does look like fraud and money laundering. I am just about 100% certain they were running a government operation. This is evidenced by the people around them going to jail / getting sued and they just walk away leaving a giant mess behind. They are now working with former USAF people and IBM. Those people are either helping the government or they are now in danger these people are like the wrecking crew. The go around causing all kinds of problems and maybe they were moving money for the Epstein people or someone in Massachussets.  
+I am just about 100% certain they were running a government operation with some amount of connection to Jeffery Epstein. This is evidenced by the people around them going to jail, being sued, getting pardoned by President Trump, and nobody ever ends up in any real trouble. They are now working with former USAF people at hedera hashgraph and IBM. Maybe they were moving money for the Epstein people and/or someone in Massachussets to Switzerland.  
   
-I started working with them to help with the Zugg 500 test network. Zugg, Switzerland seems to be where alot of the money either went or came from. They had me submit a resume and everything. It turns out they didn't want to hire me after they found out who I was. That didn't prevent them from working with me. They were supposed to pay me 377,000 CSPR tokens when mainnet was started but I was never paid.  
+I started working with them to help with the Zugg 500 test network before the main network launch. Casper even interviewed me for a job. They had me submit a resume and everything. It turns out they didn't want to hire me after they found out my real name and history. That didn't prevent them from working with me. They were supposed to pay me 377,000 CSPR tokens when mainnet was started but I was never paid.  
 
-Casper labs had an office located in [Cambridge, Massachusetts](https://www.zoominfo.com/c/casperlabs/464535978). After some research I found that the building is connected to the Oxford Group. The oxford people are a whole other issue that I wont get into here. Then I find they are in Puerto Rico and Switzerland also. What does a business with 10 people working for it need companies located in multiple countries for? Also since they started in Massachusetts we can be almost certain Elizebeth Warren was helping them.  
+Casper labs had an office located at [25 1st St, Fl 2, Cambridge, MA 02141](https://www.zoominfo.com/c/casperlabs/464535978). After some research I found that the building is connected to the Oxford Group. The oxford people are a whole other issue that I wont get into here. Then I find they are in Puerto Rico and Switzerland also. What does a business with 10 people working for it need multiple companies located in multiple countries for? I wonder who in Massachusetts sent them on this mission isn't that were Sam Bankman Fried went to school?
 
-They received money from [Terren Peizer](https://en.wikipedia.org/wiki/Terren_Peizer) who is now in jail on the first of its kind case from the SEC. You can read about it here.  
-[Insider Trading Sentence former Protege of Michael Milken](https://nypost.com/2025/06/23/business/terren-peizer-protege-of-michael-milken-gets-3-1-2-years-prison-for-insider-trading/). 
 
-They also likely received money from [Brock Pierce](https://en.wikipedia.org/wiki/Brock_Pierce) who probably at minimum knew Epstein.  
-[Strange Saga of Epstein and Brock Pierce](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/strange-saga-jeffrey-epstein-s-link-brock-pierce-1240462/)  
-[Epstein and Brock emails](https://finance.yahoo.com/news/epstein-emails-reference-bitcoin-meeting-230701467.html)  
 
 ## China Connection
 Medha had me work with a guy from [Waterdrip Capitol](https://waterdrip.io/) which is a VC firm from China. I suspect she and Mrinal are FBI or CIA so why was she working with money people from China? They had me train the best friend of the founder of Waterdrip Capitol. Waterdrip Capital was founded in 2017 by the most forward-thinking Chinese blockchain pioneers. Yushan Zheng Founder, Jademont Zheng Co-founder, Peicai Li Founder, Jialing Liu Founder.
@@ -37,31 +32,48 @@ Leemon Baird and Mance Harmon founded Hedera. Leemon Baird is a strange name and
 
 ## People Involved
   
-- **Mrinal Manohar (CEO)** - Carnegie Mellon University - Master of Science 2006 - 2007   
-[Linkedin](https://www.linkedin.com/in/mrinal-manohar-84422a9)   
-  Mrinal was an intern for the FBI and his role specilized in subverting online identities. After he finished doing that he went to bain capitol. The funny thing is... [Bain Capitol had a federal Antitrust case](https://www.justice.gov/atr/case/us-v-bain-capital-llc-et-al) about Clear Channel Communications. Mar 27, 2008 — Clear Channel Communications and the private-equity firms that want to buy the company were claiming a legal victory. Mrinal started working there in April 2008 primarily in a due diligence type role. 
+- **Mrinal Manohar (CEO)** - *FBI Intern /  ?*
+  - [Linkedin](https://www.linkedin.com/in/mrinal-manohar-84422a9)   
+  - His FBI intern role specilized in subverting online identities ended December 2007. 
+  - April 2008 he went to Bain Capitol in a due diligence type role. [Bain Capitol had a federal Antitrust case](https://www.justice.gov/atr/case/us-v-bain-capital-llc-et-al) about Clear Channel Communications. which was "resolved" on Mar 27, 2008.
 
-- **Medha Parlikar (CTO)** - Puerto Rico?   
-[Linkedin](https://www.linkedin.com/in/mparlikar)   
-[Blackbelt in Blockchain](https://www.lmgpr.com/post/blockchain-with-medha-parlikar) Hows that black belt treating you?   
+- **Medha Parlikar (CTO)** - *Puerto Rico / ???*   
+  - [Linkedin](https://www.linkedin.com/in/mparlikar)   
+  - [Blackbelt in Blockchain](https://www.lmgpr.com/post/blockchain-with-medha-parlikar) Hows that black belt treating you?   
 
-**This looks strange**
-[Manohar Parrikar](https://en.wikipedia.org/wiki/Manohar_Parrikar) the former Minister of Defence of India wifes name was Medha Parrikar (died 2001)​ look at her pictures.  
+- **Manohar Parrikar** - *Combine the above names*
+  - [Wiki](https://en.wikipedia.org/wiki/Manohar_Parrikar)
+  - Former Minister of Defence of India 
+  - Wifes name was Medha Parrikar (died 2001)​ 
+  - Look at her pictures.
 
-- **Arlene Gaylord** - Puerto Rico / FBI   
+- **Terren Peizer** - *Puerto Rico / Financing*
+  - [Wiki](https://en.wikipedia.org/wiki/Terren_Peizer)
+  - [Linkedin](https://www.linkedin.com/in/terren-peizer-390b59a/)
+  - [Federal Case - Insider Trading](https://www.justice.gov/opa/pr/former-chairman-and-ceo-publicly-traded-health-care-company-sentenced-42-months-prison)
+  - [Pardoned By President Trump](https://www.justice.gov/pardon/media/1424236/dl?inline)
+
+- **Brock Pierce** - *Puerto Rico / Financing*
+  - [Wiki](https://en.wikipedia.org/wiki/Brock_Pierce)  
+  - [Linkedin](https://linkedin.com/in/brockpierce)
+  - [Strange Saga of Epstein and Brock Pierce](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/strange-saga-jeffrey-epstein-s-link-brock-pierce-1240462/)  
+  - [Epstein and Brock emails](https://finance.yahoo.com/news/epstein-emails-reference-bitcoin-meeting-230701467.html)
+  - [Political Career](https://ballotpedia.org/Brock_Pierce)
+
+- **Arlene Gaylord** - *Puerto Rico / FBI*   
 I think she helped them do this to me.   
- [Background](https://fbijobs.gov/sites/default/files/2022-08/hip_testimonial.pdf)  
- [Entrepreneur Story](https://www.fbiaia.org/post/fbi-aia-entrepreneurs-series-arlene-gaylord)
+  - [Background](https://fbijobs.gov/sites/default/files/2022-08/hip_testimonial.pdf)  
+  - [Entrepreneur Story](https://www.fbiaia.org/post/fbi-aia-entrepreneurs-series-arlene-gaylord)
 
-- **Sean Inggs** -  Was a Director of Adaptive Holding Ltd., the predecessor company of CasperLabs Holdings AG   
-[Cayman Islands-based, South African “independent director” Sean Inggs is being sued](https://www.offshorealert.com/south-african-professional-director-sean-inggs-sued-in-cayman-by-former-employer-imsl/?srsltid=AfmBOorkgK-oZ_fVErBK203juyqjcXBec6bCSkHcUUwD6cMgnGPTybOv)   
+- **Sean Inggs** - *Cayman Islands / South Africa*
 
-- **Patrick Storchenegger** - Included becaue the guy from Germany was named Patrick.   
-[Linkedin](https://www.linkedin.com/in/patrick-storchenegger-161b34254)   
+  - Former Director of Adaptive Holding Ltd., the predecessor company of CasperLabs Holdings AG   
+  - [“Independent Director” Sean Inggs is being sued](https://www.offshorealert.com/south-african-professional-director-sean-inggs-sued-in-cayman-by-former-employer-imsl/?srsltid=AfmBOorkgK-oZ_fVErBK203juyqjcXBec6bCSkHcUUwD6cMgnGPTybOv)   
 
-- **Cathy Zhu - Managing Director** - Singapore ?
+- **Patrick Storchenegger** 
+  - Included becaue the guy from Germany was named Patrick.   
+  - [Linkedin](https://www.linkedin.com/in/patrick-storchenegger-161b34254)   
 
-- **Sunnio Zeng - Manager, Marketing** - ?
 
 ## Legal Cases
 [Coordination Technology Ltd. v. CasperLabs LLC ](https://www.courtlistener.com/docket/60071481/coordination-technology-ltd-v-casperlabs-llc/)   
