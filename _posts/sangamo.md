@@ -2,7 +2,7 @@
 title: "Sangamo"
 excerpt: "The goverment is using me basically as a hacker but refuses to pay me. Political Warfare? MK-Ultra? This is a little different version of history."
 coverImage: "/assets/blog/sangamo/cover.jpg"
-date: "2025-12-28T09:35:07.322Z"
+date: "1978-12-28T09:35:07.322Z"
 author:
   name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
