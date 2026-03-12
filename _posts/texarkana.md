@@ -53,7 +53,7 @@ I was trying to rebuild my life and one day in Febuary Amy shows up telling me t
 
 Here is a [federal civil rights lawsuit](https://www.pacermonitor.com/public/case/21991823/Rasheed_v_Texarkana,_Arkansas,_City_of_et_al) filed by one of the  co-defendants in Amy's federal case which lists some of the parties involved in this mess. I assume the police here are trying to discredit or kill me to hide all of this info. 
 
-After doing 1 year and 1 day or something like that Amy was released her co-defendants got about 10 years each. Why did she only get one year if she didn't provide substantial assistance? Very soon after she became friends with a guy named Paul. He was released from jail under very suspicious circumstances as detailed by this document. Danny Russell I think was the Sherrif of Little River county in Arkansas which would support the fact that they worked with the Federal Task force. [Danny Russell is now dead](https://www.maddenfuneralservice.com/obituaries/Danny-Russell-8/#!/TributeWall)  ![informant?](/assets/blog/site/paul.jpeg) 
+After doing 1 year and 1 day or something like that Amy was released her co-defendants got about 10 years each. Why did she only get one year if she didn't provide substantial assistance? Very soon after she became friends with a guy named Paul. He was released from jail under very suspicious circumstances as detailed by this document. Danny Russell I think was the Sherrif of Little River county in Arkansas which would support the fact that they worked with the Federal Task force. [Danny Russell is now dead](https://www.maddenfuneralservice.com/obituaries/Danny-Russell-8/#!/TributeWall)  ![informant?](/assets/blog/site/paul.jpeg) [This is the resteraunt Pauls dad used to own](https://www.texarkanagazette.com/news/2016/aug/22/italian-restaurant-opens-wine-bar/). The new owner [Paul Estes](https://www.linkedin.com/in/paul-estes-823614269/" I found something weird with this resteruant too but I am not going to spend much time on this.
 
 I had gotten into a housing program here probably around 2017 called [Doorways](https://www.txkhc.org/doorways-home). My case managers name was [Emily Jade Bredenburg](https://www.linkedin.com/in/emily-jade-bredenberg-46598b1a5/) who later went on to found some police charity or something called [Beyond The Badge](https://www.ksla.com/2021/05/03/non-profit-group-texarkana-looking-support-law-enforcement-officers/). They appeared to be scamming the government out of money with the Doorways program. They would get a homeless person a place to live and pay the rent for up to 1 year. But at the same time someone was working to get the homeless people kicked out of the apartments and then the Doorways program would pay the landloard a giant bonus which they claimed was to ensure the next person had a place to stay. Fraud? 
 
@@ -104,4 +104,16 @@ It affects the cognitive capacities of individuals through the use of technologi
 [40 mind control patents](https://ia600304.us.archive.org/16/items/40MindControlPatents_201703/40-Mind-Control-Patents.pdf)
 
 [2002 - Mind Controller Patent](https://patents.google.com/patent/US20030171688A1/en)
+
+
+
+## List of Potiential and Confirmed Informants
+- Amy Darlene Bryant
+- James Ruble Little
+- Paul Douglas Baird II
+- Darien Hatcher
+- Gregory Jackson
+- David Michael "Mike" Akin 
+- Ricky Kimmel
+
 
