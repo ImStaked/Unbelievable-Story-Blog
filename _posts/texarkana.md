@@ -19,7 +19,7 @@ I just want to make it very clear that I have never in my life agreed to be an i
 ## The Beginning / Overview
 I think this all started way back in 2015. I was living in Texarkana, Texas with a girl who had ties to some local police I suspect. Her name was [Amanda Nicole Weeks, AKA Amanda Nicole Vaughn](https://www.facebook.com/groups/metrotxk/posts/3160749770667821/). She was in prison but is probably out by now. The police probably suspected I was doing illegal stuff but couldn't prove it because I was not doing anything illegal. They never found substantial amounts of drugs despite illegal searches of my property that I caught on camera.   
 
-A friend of mine that I had know for 20+ years then got arrested by a federal task force for Conspiracy to Distribute Methamphetamine. For anyone interested here is a [link to the DOJ website](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute) with the story. Her name was Amy. She recently died which I found to be unusual because she was just approved for very expensive medication that is only given after a thorough health review. Here is a [link to her obituary](https://everloved.com/life-of/amy-bryant/obituary/). 
+A friend of mine that I had know for 20+ years then got arrested by a federal task force for Conspiracy to Distribute Methamphetamine. For anyone interested here is a [link to the DOJ website](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute) with the story. Her name was Amy. She recently died which I found to be unusual because she was just approved for very expensive medication that is only given after a thorough health review. Here is a [link to her obituary](https://everloved.com/life-of/amy-bryant/obituary/). She told me the person that snitched on her was [Jay Doolin](https://www.fbi.gov/contact-us/field-offices/dallas/news/press-releases/texarkana-drug-traffickers-arrested-in-operation-flashback-meth-investigation). Prior to this arrest, Doolin was also [arrested in May of 2015](https://www.kltv.com/story/35016767/etx-man-among-group-of-people-sentenced-for-2015-drug-trafficking/) with possession of more than 41 firearms, which were seized from his home. He used to own the [Harley Davidson](https://www.texarkanagazette.com/news/2008/mar/30/harley-davidsstore-revs-business/) shop in Texarkana. Amy also told me that a girl they called "Bear" was the person that was filming them.
 
 I had nothing to do with their meth business, had no idea what they were doing, and did my best to stay away from them at the time. Its just weird this all happened around the same time. Almost like the police decided I was guilty of something and have been coming after me ever since.
 
@@ -112,6 +112,8 @@ It affects the cognitive capacities of individuals through the use of technologi
 ## List of Potiential and Confirmed Informants
 - Amy Darlene Bryant
 - James Ruble Little
+- Jay Doolin
+- Girl called "Bear"
 - Paul Douglas Baird II
 - Darien Hatcher
 - Gregory Jackson
