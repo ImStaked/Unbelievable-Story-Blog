@@ -14,8 +14,10 @@ keywords: ["Informants", "Snitches"]
 ## List of Potiential Informants
 - Amy Darlene Bryant
 - James Ruble Little
+- Jay Doolin
+- Girl called "Bear"
 - Paul Douglas Baird II
 - Darien Hatcher
 - Gregory Jackson
-- David Michael "Mike" Akin
+- David Michael "Mike" Akin 
 - Ricky Kimmel
