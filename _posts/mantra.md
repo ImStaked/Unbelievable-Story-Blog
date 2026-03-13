@@ -13,7 +13,7 @@ keywords: ["Mantra Chain", "Hong Kong", "Testnet", "OM", "John Patrick Mullin", 
 
 ## Mantra Funny Math  
  
-This is what happened from my perspective. I helped them with the Phase 1 of the test network. I completed that phase and stopped participating because they were acting weird. After the main network launch the price was inflated to over 6$ per coin. Using this inflated price and after many delays they finally allocated about 8800 tokens valued near 50,000$. Then the price collapsed and the value of the same amount of tokens is now 704$. To acheive the same value they would have had to allocate 625,000 tokens.  
+This is what happened from my perspective. I helped them with the Phase 1 of the test network. [This is my github repo](https://github.com/ImStaked/MantraChain-Testnet) from when I was working on this project. I completed that phase and stopped participating because they were acting weird. After the main network launch the price was inflated to over 6$ per coin. Using this inflated price and after many delays they finally allocated about 8800 tokens valued near 50,000$. Then the price collapsed and the value of the same amount of tokens is now 704$. To acheive the same value they would have had to allocate 625,000 tokens.  
   
 I did some digging on John Patrick Mullin and it seems possible this is not the first time he has been involved in fraud. I also find that Mantra and John Patrick Mullin are closely linked to China and Zugg Switzerland. Casper Labs also was sending money to Zugg Switzerland. This leads me to believe they are working for the same people. Casper Labs was also connected to Epstein which makes sense. 
 

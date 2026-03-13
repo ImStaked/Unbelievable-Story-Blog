@@ -11,7 +11,7 @@ ogImage:
 keywords: ["Casper Labs", "Casper Labs LLC", "Zugg 500 Testnet", "CSPR", "Epstein", "Brock Pierce", "Massachusetts", "Switzerland", "Zugg", "Puerto Rico", "FBI", "DOJ"]
 ---
 ## Casper Labs   
-I am just about 100% certain they were running a government operation with some amount of connection to Jeffery Epstein. This is evidenced by the people around them going to jail, being sued, getting pardoned by President Trump, and nobody ever ends up in any real trouble. They are now working with former USAF people at hedera hashgraph and IBM. Maybe they were moving money for the Epstein people and/or someone in Massachussets to Switzerland.  
+I am just about 100% certain they were running a government operation with some amount of connection to Jeffery Epstein. I have an email from them the proves they owed me 377,000 CSPR tokens saved. This is evidenced by the people around them going to jail, being sued, getting pardoned by President Trump, and nobody ever ends up in any real trouble. They are now working with former USAF people at hedera hashgraph and IBM. Maybe they were moving money for the Epstein people and/or someone in Massachussets to Switzerland.  
   
 I started working with them to help with the Zugg 500 test network before the main network launch. Casper even interviewed me for a job. They had me submit a resume and everything. It turns out they didn't want to hire me after they found out my real name and history. That didn't prevent them from working with me. They were supposed to pay me 377,000 CSPR tokens when mainnet was started but I was never paid.  
 

@@ -1,6 +1,6 @@
 ---
-title: "List of Potiential and Confirmed Informants in Texarkana"
-excerpt: "This is a list of possible and confirmed informants. I generally would not add a name to this list unless I had a convincing amount of information however many times it is only possible to spot the symptoms."
+title: "List of Potiential and Confirmed Informants"
+excerpt: "This is a list of possible and confirmed informants. I generally would not add a name to this list unless I had a convincing amount of information however many times it is only possible to spot the symptoms. I have reviewed the list and determined I don't care what happens to these people."
 coverImage: "/assets/blog/fbi/jrpolicebadge.jpg"
 date: "2026-03-12T09:35:07.322Z"
 author:
@@ -11,7 +11,7 @@ ogImage:
 keywords: ["Informants", "Snitches"]
 ---
 
-## List of Potiential / Confirmed Informants in Texarkana
+## List of Potiential Informants
 - Amy Darlene Bryant
 - James Ruble Little
 - Paul Douglas Baird II
