@@ -35,3 +35,4 @@ keywords: ["Informants", "Snitches"]
 - Nikolai Mushegian [Reddit Post](https://www.reddit.com/r/ethereum/comments/yj0gq3/the_strange_death_of_makerdao_cofounder_nikolai/)
 - Eduardo Romero Flores [News Article](https://kfdm.com/news/local/driver-of-18-wheeler-charged-after-killing-teen-getting-off-livingston-isd-bus)
 - Danny Russell [Obituary](https://www.maddenfuneralservice.com/obituaries/Danny-Russell-8/#!/TributeWall)
+- Charles Hill [husband of the Reverend Vonciel Jones Hill, Esq.](https://www.facebook.com/AMECFIC/posts/it-is-with-sadness-that-we-share-the-passing-of-bro-charles-hill-the-husband-of-/923612083146867/)
