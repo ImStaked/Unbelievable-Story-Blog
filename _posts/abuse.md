@@ -1,18 +1,21 @@
 ---
-title: "Havanna Syndrom Weapon Attacks"
-excerpt: "I am currently being harmed in Texarkana by police who have access to havana syndrom type weapons."
-coverImage: "/assets/blog/texarkana/cover.jpeg"
-date: "2026-02-16T09:35:07.322Z"
+title: "Havana Syndrome Weapon Attacks"
+excerpt: "I am currently being harmed in Texarkana by police who have access to Havana Syndrome type weapons. The CIA and FBI used to be the only ones that had these but in recent years the police have aquired them which is what is causing all of the problems in our country as a whole in my opinion."
+coverImage: "/assets/blog/sangamo/cover.jpeg"
+date: "2026-03-14T09:35:07.322Z"
 author:
   name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/texarkana/cover.jpeg"
+  url: "/assets/blog/sangamo/cover.jpeg"
 keywords: ["Texarkana", "Non-lethal", "Microwave", "Weapons", "Abuse", "FBI", "Police", "Informants", "Homeland Security"]
 ---
 
 ## Descriptions
-They have been utilizing a tool that excerts a type of force on the human body to cause pain for the last few weeks. Every day I am forced to endure pain that I know is being inflicted upon me. This has been going on for 6 straight years. 
+They have been utilizing a tool that excerts a type of force on the human body to cause pain for the last few weeks. Every day I am forced to endure pain that I know is being inflicted upon me. This has been going on for 6 straight years. In reality this tech has been in development since the 1950's.
+
+## Havana Syndrome
+[Youtube Video](https://www.youtube.com/watch?v=C1jmAj9OUOs)
 
 ## Headaches
 They can give you headaches with their equiptment. You can not see electromagnetic energy but you know it exists because your wifi or cell phone work right? The headaches feel like someone is squishing your brain. It feels like pressure because the electromagnetic energy does produce a force upon solid objects. You will also sometimes feel like your skin is very hot which is another symptom of being under attack. If you get a headache use a book or a cookie sheet to try to block the pain. If the sheild helps to reduce the amount of pain you feel then you are being shot with a weapon 100% of the time. They use an AI to aim this weapon and it is programmed not to shoot people in the eyeballs. So using a pair of glasses you can trick the machine and you can detect it that way also. This AI in texarkana is a junky one and takes 3 seconds to adjust its aim. The feds machine is much faster.
