@@ -12,7 +12,7 @@ keywords: ["Texarkana", "Non-lethal", "Microwave", "Weapons", "Abuse", "FBI", "P
 ---
 
 ## Descriptions
-They have been utilizing a tool that excerts a type of force on the human body to cause pain for the last few weeks. Every day I am forced to endure pain that I know is being inflicted upon me. This has been going on for 6 straight years. In reality this tech has been in development since the 1950's.
+They have been utilizing a tool that excerts a type of force on the human body to cause pain for the last few weeks. Every day I am forced to endure pain that I know is being inflicted upon me. This has been going on for 6 straight years. In reality this tech has been in development since the 1950's. I was told someone called the police to tell them I am having a mental episode or something. I can assure you this is real and everything I say I have enough evidence of to convince any reasonable person.
 
 ## Havana Syndrome
 [Youtube Video](https://www.youtube.com/watch?v=C1jmAj9OUOs)
