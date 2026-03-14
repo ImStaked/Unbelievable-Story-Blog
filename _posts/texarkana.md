@@ -25,7 +25,7 @@ Amy told me the person that snitched on her was [Jay Doolin](https://www.fbi.gov
 
 On October 19, 2016, Little’s bond was revoked in his federal case after he attempted suicide after learning that he was under investigation for the sexual assault of minors while he was working as an informant.  [On May 21, 2018, Little pled guilty to state charges of Rape in Miller County Circuit Court in Miller County, Arkansas](https://caseinfo.arcourts.gov/opad/case/46CR-16-736)
 
-After all of this Amy started depositing large sums of cash like close to 10,000$ at a time in the bank for her Aunt. I never seen so much cash money before. I have lots more information.
+After all of this Amy started depositing large sums of cash like close to 10,000$ always under 10,000$ at a time in the bank for her [Aunt Beatrice Curd](https://nationalpublicdata.com/people/c/bea-curd/) like monthly or more frequently. I never seen so much cash money before. I thought it was curious the cash was always in a [Regions Bank](https://www.regions.com/locator/ar/texarkana/full-service-branch-2800-north-state-line-ave) envelope as they were depositing it into a Regions Bank.
 
 I had nothing to do with their meth business, had no idea what they were doing, and did my best to stay away from them at the time. Its just weird this all happened around the same time. Almost like the police decided I was guilty of something and have been coming after me ever since.
 

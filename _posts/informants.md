@@ -11,13 +11,18 @@ ogImage:
 keywords: ["Informants", "Snitches"]
 ---
 
-## List of Potiential Informants
-- Amy Darlene Bryant
-- James Ruble Little
-- Jay Doolin
-- Girl called "Bear"
-- Paul Douglas Baird II
-- Darien Hatcher
-- Gregory Jackson
-- David Michael "Mike" Akin 
-- Ricky Kimmel
+## List of Potiential Informants / CIA / FBI / Police
+- Amy Darlene Bryant / Texarkana
+- James Ruble Little / Texarkana
+- Jay Doolin / Texarkana
+- Girl called "Bear" / Texarkana
+- Paul Douglas Baird II / Texarkana
+- Darien Hatcher / Texarkana
+- Gregory Jackson / Texarkana
+- David Michael "Mike" Akin / Texarkana 
+- Ricky Kimmel / Texarkana
+- Alexandru Catalin Filip / Romania RICO case
+- Mrinal Manohar / FBI Intern
+- Medha Parlikar / CIA?
+- Michael Steuer / FBI or CIA?
+- John Patrick Mullin / FBI?
