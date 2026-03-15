@@ -16,7 +16,7 @@ keywords: ["Informants", "Snitches"]
 - James Ruble Little / Texarkana
 - Jay Doolin / Texarkana
 - Girl called "Bear" / Texarkana
-- Paul Douglas Baird II / Texarkana
+- Paul Douglas Baird II / Texarkana 
 - Darien Hatcher / Texarkana
 - Gregory Jackson / Texarkana
 - David Michael "Mike" Akin / Texarkana 
