@@ -12,9 +12,9 @@ keywords: ["Informants", "Snitches"]
 ---
 
 ## List of Potiential Informants / CIA / FBI / Police / Operatives
-- Amy Darlene Bryant / Texarkana
-- James Ruble Little / Texarkana
-- Jay Doolin / Texarkana
+- Amy Darlene Bryant / Texarkana / [Fed Case](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute)
+- James Ruble Little / Texarkana / [Fed Case](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute)
+- Jay Doolin / Texarkana / [Fed Case](https://www.justice.gov/usao-edtx/pr/texarkana-drug-traffickers-arrested-operation-flashback-meth-investigation)
 - Girl called "Bear" / Texarkana
 - Paul Douglas Baird II / Texarkana 
 - Ronnie Lee Mellott, Jr. / Texarkana
