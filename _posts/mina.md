@@ -19,10 +19,12 @@ Like everything else in my life they refused to give me credit for my work, refu
 ## Mina Protocol People
 
 - **Evan Shaprio (CEO)** - Carnegie Mellon University (2011-2015)  
-In 2014 researchers at Carnegie Mellon University's (CMU) Software Engineering Institute (SEI) developed a technique to de-anonymize users of the Tor network, and this data was subsequently used by law enforcement. The SEI is a U.S. Department of Defense federally funded research and development center (FFRDC) based at Carnegie Mellon. Looks suspect to me but I'm paranoid from people trying to kill me for 5 years.  
+Shapiro is a prominent Ashkenazi Jewish surname.  
+
+In 2014 researchers at Carnegie Mellon University's (CMU) Software Engineering Institute (SEI) developed a technique to de-anonymize users of the Tor network, and this data was subsequently used by law enforcement. The SEI is a U.S. Department of Defense federally funded research and development center (FFRDC) based at Carnegie Mellon. Looks suspect to me but I'm paranoid from people trying to kill me for 5 years.  [link](https://www.nbcnews.com/tech/security/carnegie-mellon-denies-it-was-paid-1m-fbi-hack-tor-n465956)
 
 - **Izaak Meckler (CTO)** -  
-I heard he is promoting socialism stuff in california now. I don't have a problem with him.
+I heard he is promoting socialism stuff in california now. The surname Meckler is of North German and Jewish (Ashkenazic) origin,. He probably works with the FBI or CIA somehow [Weird side job for a mathmatician](https://theblockchainsocialist.com/techno-utopianism-vs-class-struggle-technologism/) 
   
 ## Mina Foundation
 2023-12-19 Mina Foundation has completed a move to Geneva Switzerland. This would have been after I started publishing info about the Nadi family and how they are connected. I was forced to remove everything from X several times. What is now on my X account is just the latest time. I have published the data lots of times.  
@@ -30,7 +32,7 @@ I heard he is promoting socialism stuff in california now. I don't have a proble
 - **Malalai Nadi** - President Mina Foundation   
 My research suggests she came to the USA in the mid 80's after her or her family helped with the Russians in Afganastan making them possibly connected to the CIA. If I am wrong I would be happy to correct this.  
   
-- **Urzala Weiss** -  Weiss Asset Management (WAM) Foundation  
+- **Urzala Weiss** -  Weiss is a common Ashkenazi Jewish surname. Weiss Asset Management (WAM) Foundation  
   
 - **Ahmad Nadi** - Malalai's husband? Within 10 years of arriving in the USA Ahmed gets setup by the FBI for fraud on a DOD contract for salt and pepper --> [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)   
   
@@ -40,5 +42,7 @@ Fraud cases --> [FRAUD CASE 1](https://www.casemine.com/judgement/us/59146903add
 
 ## Opinion
 Fraud seems to be a trend here. It appears that there is a level of corruption or influence or Rackettering being excerted here that might go above and beyond normal. What is that RICO thing for? I have suspected this was an FBI / CIA project from the start so if that is true the I have hacked the feds.
+
+Question. Why are Afganastan people who generally will be islamic people working with these people that have names that are frequently Ashkenazi Jewish.
 
 Interesting fact. I posted information about all of this on twitter right before [Myrtle Beach Caught on Fire](https://www.visitmyrtlebeach.com/myrtle-beach-area-wildfire-update-and-visitor-information). Unfortunatly I have deleted most of my twitter posts from the past. I stopped deleting my twitter posts the last time the government attacked me because I documented the physical torture live. They do not beat me with rubber hoses the government has a way of hurting people using electromagnetic energy.

@@ -33,6 +33,7 @@ keywords: ["Informants", "Snitches"]
 - Ahmad Nadi / CIA or FBI
 - Evan Shaprio / FBI [link](https://www.nbcnews.com/tech/security/carnegie-mellon-denies-it-was-paid-1m-fbi-hack-tor-n465956)
 - Izaak Meckler / FBI 
+- Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
