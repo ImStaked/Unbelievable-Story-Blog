@@ -17,8 +17,9 @@ keywords: ["Informants", "Snitches"]
 - Jay Doolin / Texarkana
 - Girl called "Bear" / Texarkana
 - Paul Douglas Baird II / Texarkana 
-- Darien Hatcher / Texarkana
-- Gregory Jackson / Texarkana
+- Ronnie Lee Mellott, Jr. / Texarkana 
+- Darien Hatcher / Texarkana 
+- Gregory Jackson / Texarkana 
 - David Michael "Mike" Akin / Texarkana 
 - Ricky Kimmel / Texarkana
 - Alexandru Catalin Filip / Romania RICO case

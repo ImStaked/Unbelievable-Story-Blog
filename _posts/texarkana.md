@@ -134,8 +134,9 @@ It affects the cognitive capacities of individuals through the use of technologi
 - James Ruble Little
 - Jay Doolin
 - Girl called "Bear"
-- Paul Douglas Baird II
-- Darien Hatcher
+- Paul Douglas Baird II 
+- Ronnie Lee Mellott, Jr. / Texarkana / [15 years in prison in 2010](https://cullmantimes.com/2010/06/14/53-plead-guilty-to-various-charges-in-circuit-courTexarkana) [3 years later](https://alabama.arrests.org/Arrests/Ronnie_Mellott_13791262/)
+- Darien Hatcher / Texarkana / [Case](https://caselaw.findlaw.com/court/tx-court-of-appeals/1664308.html)
 - Gregory Jackson
 - David Michael "Mike" Akin 
 - Ricky Kimmel
