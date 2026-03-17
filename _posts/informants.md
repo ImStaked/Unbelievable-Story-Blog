@@ -27,6 +27,10 @@ keywords: ["Informants", "Snitches"]
 - Medha Parlikar / CIA?
 - Michael Steuer / FBI or CIA?
 - John Patrick Mullin / FBI?
+- Malalai Nadi / CIA or FBI
+- Ahmad Nadi / CIA or FBI
+- Evan Shaprio / FBI [link](https://www.nbcnews.com/tech/security/carnegie-mellon-denies-it-was-paid-1m-fbi-hack-tor-n465956)
+- Izaak Meckler / FBI 
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
