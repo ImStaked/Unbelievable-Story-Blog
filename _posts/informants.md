@@ -11,7 +11,7 @@ ogImage:
 keywords: ["Informants", "Snitches"]
 ---
 
-## List of Potiential Informants / CIA / FBI / Police
+## List of Potiential Informants / CIA / FBI / Police / Operatives
 - Amy Darlene Bryant / Texarkana
 - James Ruble Little / Texarkana
 - Jay Doolin / Texarkana
@@ -20,6 +20,7 @@ keywords: ["Informants", "Snitches"]
 - Ronnie Lee Mellott, Jr. / Texarkana
 - Darien Hatcher / Texarkana
 - Errin Dixon / Longview Texas - Coincidence? [Aaron Dixon](https://en.wikipedia.org/wiki/Aaron_Dixon)
+- Vonceil Jones Hill / Dallas Texas
 - Gregory Jackson / Texarkana 
 - David Michael "Mike" Akin / Texarkana 
 - Ricky Kimmel / Texarkana
