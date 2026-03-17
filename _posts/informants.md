@@ -25,14 +25,14 @@ keywords: ["Informants", "Snitches"]
 - David Michael "Mike" Akin / Texarkana 
 - Ricky Kimmel / Texarkana
 - Alexandru Catalin Filip / Romania RICO case
+- John Patrick Mullin / FBI?
 - Mrinal Manohar / FBI Intern
 - Medha Parlikar / CIA?
 - Michael Steuer / FBI or CIA?
-- John Patrick Mullin / FBI?
-- Malalai Nadi / CIA or FBI
-- Ahmad Nadi / CIA or FBI
 - Evan Shaprio / FBI [link](https://www.nbcnews.com/tech/security/carnegie-mellon-denies-it-was-paid-1m-fbi-hack-tor-n465956)
 - Izaak Meckler / FBI 
+- Malalai Nadi aka Malalai Hachimi Weiss / CIA / Myrtle Beach
+- Ahmad Nadi / CIA or FBI / Myrtle Beach
 - Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
 
 ## Dead People
