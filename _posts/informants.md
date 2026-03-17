@@ -24,7 +24,7 @@ keywords: ["Informants", "Snitches"]
 - Gregory Jackson / Texarkana 
 - David Michael "Mike" Akin / Texarkana 
 - Ricky Kimmel / Texarkana
-- Alexandru Catalin Filip / Romania RICO case
+- Alexandru Catalin Filip / Romania / [RICO case](https://www.justice.gov/archives/opa/pr/man-sentenced-integral-role-sophisticated-international-fraud-scheme)
 - John Patrick Mullin / FBI?
 - Mrinal Manohar / FBI Intern
 - Medha Parlikar / CIA?
@@ -32,7 +32,7 @@ keywords: ["Informants", "Snitches"]
 - Evan Shaprio / FBI [link](https://www.nbcnews.com/tech/security/carnegie-mellon-denies-it-was-paid-1m-fbi-hack-tor-n465956)
 - Izaak Meckler / FBI 
 - Malalai Nadi aka Malalai Hachimi Weiss / CIA / Myrtle Beach / [Link](https://www.searchpeoplefree.com/find/malalai-h-nadi)
-- Ahmad Nadi / CIA or FBI / Myrtle Beach
+- Ahmad Nadi / CIA or FBI / [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)
 - Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
 
 ## Dead People
