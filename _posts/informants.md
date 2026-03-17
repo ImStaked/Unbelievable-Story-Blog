@@ -31,7 +31,7 @@ keywords: ["Informants", "Snitches"]
 - Michael Steuer / FBI or CIA?
 - Evan Shaprio / FBI [link](https://www.nbcnews.com/tech/security/carnegie-mellon-denies-it-was-paid-1m-fbi-hack-tor-n465956)
 - Izaak Meckler / FBI 
-- Malalai Nadi aka Malalai Hachimi Weiss / CIA / Myrtle Beach
+- Malalai Nadi aka Malalai Hachimi Weiss / CIA / Myrtle Beach / [Link](https://www.searchpeoplefree.com/find/malalai-h-nadi)
 - Ahmad Nadi / CIA or FBI / Myrtle Beach
 - Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
 

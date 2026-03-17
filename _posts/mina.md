@@ -30,7 +30,7 @@ I heard he is promoting socialism stuff in california now. The surname Meckler i
 2023-12-19 Mina Foundation has completed a move to Geneva Switzerland. This would have been after I started publishing info about the Nadi family and how they are connected. I was forced to remove everything from X several times. What is now on my X account is just the latest time. I have published the data lots of times.  
 
 - **Malalai Nadi** - President Mina Foundation   
-My research suggests she came to the USA in the mid 80's after her or her family helped with the Russians in Afganastan making them possibly connected to the CIA. If I am wrong I would be happy to correct this.  
+My research suggests she came to the USA in the mid 80's after her or her family helped with the Russians in Afganastan making them possibly connected to the CIA. If I am wrong I would be happy to correct this.  [Link](https://www.searchpeoplefree.com/find/malalai-h-nadi)
   
 - **Urzala Weiss** -  Weiss is a common Ashkenazi Jewish surname. Weiss Asset Management (WAM) Foundation  
   
