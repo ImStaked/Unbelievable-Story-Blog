@@ -17,8 +17,9 @@ keywords: ["Informants", "Snitches"]
 - Jay Doolin / Texarkana
 - Girl called "Bear" / Texarkana
 - Paul Douglas Baird II / Texarkana 
-- Ronnie Lee Mellott, Jr. / Texarkana 
-- Darien Hatcher / Texarkana 
+- Ronnie Lee Mellott, Jr. / Texarkana
+- Darien Hatcher / Texarkana
+- Errin Dixon / Longview Texas - Coincidence? [Aaron Dixon](https://en.wikipedia.org/wiki/Aaron_Dixon)
 - Gregory Jackson / Texarkana 
 - David Michael "Mike" Akin / Texarkana 
 - Ricky Kimmel / Texarkana
