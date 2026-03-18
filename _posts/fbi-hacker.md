@@ -56,6 +56,10 @@ Notice how he retired once Biden was out. I can't prove he was involved in what 
 Notice how she retired once Biden was out. I can only say she had a strong negatve reaction to the words "God Damn", plus she is from Puerto Rico. Later I found out her husband is a preacher.   
 [Forced to Retire?](https://www.nbcnews.com/politics/national-security/senior-fbi-official-forcefully-resisted-trump-administration-firings-rcna190301)  
 
+## Tracy Thompson of the Richardson Texas Police  
+[Linkdin](https://www.linkedin.com/in/tracy-thompson-73290130/)
+
+
 - All of these fed cases are connected to people I know, people I worked with, or happened in cities I visited.  
 ## Fed Case #1-3
 **Amy Darlene Bryant**  
@@ -65,6 +69,7 @@ Notice how she retired once Biden was out. I can only say she had a strong negat
 ## Fed Case #4
 **Terren Peizer**  
 [Insider Trading - former Protege of Michael Milken](https://nypost.com/2025/06/23/business/terren-peizer-protege-of-michael-milken-gets-3-1-2-years-prison-for-insider-trading/)  
+[Pardoned by President Trump](https://www.justice.gov/pardon/media/1424236/dl?inline)  
 
 ## Fed Case #5
 **Dawer Nadi**  
