@@ -19,8 +19,9 @@ keywords: ["Informants", "Snitches"]
 - Paul Douglas Baird II / Texarkana 
 - Ronnie Lee Mellott, Jr. / Texarkana
 - Darien Hatcher / Texarkana
-- Errin Dixon / Longview Texas - Coincidence? [Aaron Dixon](https://en.wikipedia.org/wiki/Aaron_Dixon)
+- Errin Dixon / Longview Highway 80 Rescue Mission Case Worker - Coincidence? [Aaron Dixon](https://en.wikipedia.org/wiki/Aaron_Dixon) / [Highway 80 Rescue Mission Program Graduate](https://en.wikipedia.org/wiki/Robert_Morris_(pastor))
 - Vonceil Jones Hill / Dallas Texas
+- Tracy Thompson / Richardson Texas [Linkdin](https://www.linkedin.com/in/tracy-thompson-73290130/)
 - Gregory Jackson / Texarkana 
 - David Michael "Mike" Akin / Texarkana 
 - Ricky Kimmel / Texarkana
