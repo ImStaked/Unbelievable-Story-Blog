@@ -37,3 +37,5 @@ Examples:
 - AM / FM
 - VHF / UHF
 
+## Frequency of Painful Attacks
+I just returned to texarkana about 5 weeks ago. I have had pain inflicted upon me in the form of headache or making my mouth hurt every single day. Is anyone of the opinion that hurting someone every single day for 5 weeks is reasonable? 35 days in a row someone has hurt me using police / military grade electronic weapons. 
