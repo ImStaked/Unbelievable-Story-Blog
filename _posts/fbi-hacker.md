@@ -57,8 +57,7 @@ Notice how she retired once Biden was out. I can only say she had a strong negat
 [Forced to Retire?](https://www.nbcnews.com/politics/national-security/senior-fbi-official-forcefully-resisted-trump-administration-firings-rcna190301)  
 
 ## Tracy Thompson of the Richardson Texas Police  
-[Linkdin](https://www.linkedin.com/in/tracy-thompson-73290130/)
-
+[Linkdin](https://www.linkedin.com/in/tracy-thompson-73290130/)  
 
 - All of these fed cases are connected to people I know, people I worked with, or happened in cities I visited.  
 ## Fed Case #1-3

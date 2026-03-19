@@ -16,7 +16,7 @@ keywords: ["Informants", "Snitches"]
 - James Ruble Little / Texarkana / [Fed Case](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute)
 - Jay Doolin / Texarkana / [Fed Case](https://www.justice.gov/usao-edtx/pr/texarkana-drug-traffickers-arrested-operation-flashback-meth-investigation)
 - Girl called "Bear" / Texarkana
-- Paul Douglas Baird II / Texarkana 
+- Paul Douglas Baird II / Texarkana [Look at the Appearance documents](https://caseinfo.arcourts.gov/opad/case/46AW-20-737)
 - Ronnie Lee Mellott, Jr. / Texarkana
 - Darien Hatcher / Texarkana
 - Errin Dixon / Longview Highway 80 Rescue Mission Case Worker - Coincidence? [Aaron Dixon](https://en.wikipedia.org/wiki/Aaron_Dixon) / [Highway 80 Rescue Mission Program Graduate](https://en.wikipedia.org/wiki/Robert_Morris_(pastor))
