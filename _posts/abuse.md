@@ -41,3 +41,7 @@ Examples:
 
 ## Frequency of Painful Attacks
 I just returned to texarkana about 5 weeks ago. I have had pain inflicted upon me in the form of headache or making my mouth hurt every single day. Is anyone of the opinion that hurting someone every single day for 5 weeks is reasonable? 35 days in a row someone has hurt me using police / military grade electronic weapons. 
+
+## Log of pain
+March the 20th.  
+Until 3:30pm everything was fine today but around this time someone started giving me a headache. Now they are shooting me in my mouth. Today is 35 consecutive days that I have been hurt with energy weapons by what I can only assume is the police. This proves that the FBI and the CIA are likely not involved but it is the Texas Department of Public safety and a task force in Texarkana causing this pain. So please be advised that it is not just the feds that are hurting people it is the police.
