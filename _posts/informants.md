@@ -18,7 +18,7 @@ keywords: ["Informants", "Snitches"]
 - Girl called "Bear" / Texarkana
 - Paul Douglas Baird II / Texarkana [Look at the Appearance documents](https://caseinfo.arcourts.gov/opad/case/46AW-20-737)
 - Ronnie Lee Mellott, Jr. / Texarkana / Cullman Alabama / [15 Years in Prison on June 14, 2010](https://cullmantimes.com/2010/06/14/53-plead-guilty-to-various-charges-in-circuit-court/) / [Arrested 09/03/2013 how?](https://alabama.arrests.org/Arrests/Ronnie_Mellott_13791262/)
-- Darien Hatcher / Texarkana
+- Darien Hatcher / Texarkana / [Murder Case](https://caselaw.findlaw.com/court/tx-court-of-appeals/1664308.html)
 - Errin Dixon / Longview Highway 80 Rescue Mission Case Worker - Coincidence? [Aaron Dixon](https://en.wikipedia.org/wiki/Aaron_Dixon) / [Highway 80 Rescue Mission Program Graduate](https://en.wikipedia.org/wiki/Robert_Morris_(pastor))
 - Vonceil Jones Hill / Dallas Texas
 - Tracy Thompson / Richardson Texas [Linkdin](https://www.linkedin.com/in/tracy-thompson-73290130/)
