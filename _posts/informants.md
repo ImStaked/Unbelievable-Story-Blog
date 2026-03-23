@@ -20,7 +20,7 @@ keywords: ["Informants", "Snitches"]
 - Ronnie Lee Mellott, Jr. / Texarkana / Cullman Alabama / [15 Years in Prison on June 14, 2010](https://cullmantimes.com/2010/06/14/53-plead-guilty-to-various-charges-in-circuit-court/) / [Arrested 09/03/2013 how?](https://alabama.arrests.org/Arrests/Ronnie_Mellott_13791262/)
 - Darien Hatcher / Texarkana / [Murder Case](https://caselaw.findlaw.com/court/tx-court-of-appeals/1664308.html)
 - Errin Dixon / Longview Highway 80 Rescue Mission Case Worker - Coincidence? [Aaron Dixon](https://en.wikipedia.org/wiki/Aaron_Dixon) / [Highway 80 Rescue Mission Program Graduate](https://en.wikipedia.org/wiki/Robert_Morris_(pastor))
-- Vonceil Jones Hill / Dallas Texas / [Dirty Lawyer](https://dallascityhall.com/government/citycouncil/district3/Pages/biography.aspx)
+- Vonceil Jones Hill / Dallas Texas / [Dirty Lawyer assigned as my Public Defender](https://dallascityhall.com/government/citycouncil/district3/Pages/biography.aspx)
 - Tracy Thompson / Richardson Texas [Linkdin](https://www.linkedin.com/in/tracy-thompson-73290130/)
 - Gregory Jackson / Texarkana 
 - David Michael "Mike" Akin / Texarkana / [Child Molestor](https://www.ksla.com/story/34457835/texarkana-ar-fire-captain-accused-of-sexually-assaulting-child/) / [Red River Wrecker Service](https://www.yelp.com/biz/red-river-wrecker-service-texarkana-4)
