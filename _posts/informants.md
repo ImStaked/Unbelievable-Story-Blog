@@ -22,7 +22,7 @@ keywords: ["Informants", "Snitches"]
 - Errin Dixon / Longview Highway 80 Rescue Mission Case Worker - Coincidence? [Aaron Dixon](https://en.wikipedia.org/wiki/Aaron_Dixon) / [Highway 80 Rescue Mission Program Graduate](https://en.wikipedia.org/wiki/Robert_Morris_(pastor))
 - Vonceil Jones Hill / Dallas Texas / [Dirty Lawyer assigned as my Public Defender](https://dallascityhall.com/government/citycouncil/district3/Pages/biography.aspx)
 - Tracy Thompson / Richardson Texas [Linkdin](https://www.linkedin.com/in/tracy-thompson-73290130/)
-- Gregory Jackson / Texarkana 
+- Gregory Jackson / Texarkana / [Trucking Accident / Neighbor ](https://www.wlbt.com/2023/12/09/truck-driver-charged-connection-with-death-student/)
 - David Michael "Mike" Akin / Texarkana / [Child Molestor](https://www.ksla.com/story/34457835/texarkana-ar-fire-captain-accused-of-sexually-assaulting-child/) / [Red River Wrecker Service](https://www.yelp.com/biz/red-river-wrecker-service-texarkana-4)
 - Ricky Kimmel / Texarkana
 - Alexandru Catalin Filip / Romania / [RICO case](https://www.justice.gov/archives/opa/pr/man-sentenced-integral-role-sophisticated-international-fraud-scheme)
