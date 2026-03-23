@@ -17,7 +17,7 @@ keywords: ["Informants", "Snitches"]
 - Jay Doolin / Texarkana / [Fed Case](https://www.justice.gov/usao-edtx/pr/texarkana-drug-traffickers-arrested-operation-flashback-meth-investigation)
 - Girl called "Bear" / Texarkana
 - Paul Douglas Baird II / Texarkana [Look at the Appearance documents](https://caseinfo.arcourts.gov/opad/case/46AW-20-737)
-- Ronnie Lee Mellott, Jr. / Texarkana
+- Ronnie Lee Mellott, Jr. / Texarkana / Alabama
 - Darien Hatcher / Texarkana
 - Errin Dixon / Longview Highway 80 Rescue Mission Case Worker - Coincidence? [Aaron Dixon](https://en.wikipedia.org/wiki/Aaron_Dixon) / [Highway 80 Rescue Mission Program Graduate](https://en.wikipedia.org/wiki/Robert_Morris_(pastor))
 - Vonceil Jones Hill / Dallas Texas
@@ -36,6 +36,12 @@ keywords: ["Informants", "Snitches"]
 - Ahmad Nadi / CIA or FBI / [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)
 - Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
 
+## Unconfirmed 
+- Jessica R Abbott / Lufkin / Texarkana
+- Cherie Elaine Parker / Texarkana
+- Amanda Nicole Vaughn / Texarkana
+- Jeffrey Erick Torrico / Dallas
+
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
 - Monikayla Marie Roberts [Obituary](https://www.carriganmemorial.com/obituary/monikayla-roberts)
@@ -45,3 +51,4 @@ keywords: ["Informants", "Snitches"]
 - Eduardo Romero Flores [News Article](https://kfdm.com/news/local/driver-of-18-wheeler-charged-after-killing-teen-getting-off-livingston-isd-bus)
 - Danny Russell [Obituary](https://www.maddenfuneralservice.com/obituaries/Danny-Russell-8/#!/TributeWall)
 - Charles Hill [husband of the Reverend Vonciel Jones Hill, Esq.](https://www.facebook.com/AMECFIC/posts/it-is-with-sadness-that-we-share-the-passing-of-bro-charles-hill-the-husband-of-/923612083146867/)
+
