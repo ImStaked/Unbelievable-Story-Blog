@@ -13,8 +13,8 @@ keywords: ["Informants", "Snitches"]
 
 ## List of Potiential Informants / CIA / FBI / Police / Operatives
 - Amy Darlene Bryant / Texarkana / [Fed Case](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute)
-- James Ruble Little / Texarkana / [Fed Case](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute)
-- Jay Doolin / Texarkana / [Fed Case](https://www.justice.gov/usao-edtx/pr/texarkana-drug-traffickers-arrested-operation-flashback-meth-investigation)
+- James Ruble Little / Texarkana / [Fed Case](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute) [Mugshot](https://texas.arrests.org/Arrests/James_Little_42323137/)
+- Jay Doolin / Texarkana / [Fed Case](https://www.justice.gov/usao-edtx/pr/texarkana-drug-traffickers-arrested-operation-flashback-meth-investigation) [Picture](https://majorleaguefishing.com/press-releases/2002-04-13-doolin-wins-wal-mart-bfl-arkie-division-tourney/)
 - Girl called "Bear" / Texarkana
 - Paul Douglas Baird II / Texarkana [Look at the Appearance documents](https://caseinfo.arcourts.gov/opad/case/46AW-20-737)
 - Ronnie Lee Mellott, Jr. / Texarkana / Cullman Alabama / [15 Years in Prison on June 14, 2010](https://cullmantimes.com/2010/06/14/53-plead-guilty-to-various-charges-in-circuit-court/) / [Arrested 09/03/2013 how?](https://alabama.arrests.org/Arrests/Ronnie_Mellott_13791262/)
