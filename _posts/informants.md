@@ -36,6 +36,12 @@ keywords: ["Informants", "Snitches"]
 - Ahmad Nadi / CIA or FBI / [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)
 - Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
 
+## Unconfirmed
+- Jessica R Abbott / Lufkin / Texarkana
+- Cherie Elaine Parker / Texarkana
+- Amanda Nicole Vaughn / Texarkana
+- Jeffrey Erick Torrico / Dallas
+
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
 - Monikayla Marie Roberts [Obituary](https://www.carriganmemorial.com/obituary/monikayla-roberts)
