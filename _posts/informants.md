@@ -36,12 +36,6 @@ keywords: ["Informants", "Snitches"]
 - Ahmad Nadi / CIA or FBI / [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)
 - Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
 
-## Unconfirmed
-- Jessica R Abbott / Lufkin / Texarkana / [Mugshot](https://bowietx.mugshots.zone/abbott-jessica-rechaell-mugshot-03-01-2022/)
-- Cherie Elaine Parker / Texarkana / [Mugshot](https://texas.arrests.org/Arrests/Cherie_Parker_42336974/)
-- Amanda Nicole Weeks AKA Amanda Nicole Vaughn / Texarkana / [Mugshot](https://www.facebook.com/groups/metrotxk/posts/3160749770667821/)
-- Jeffrey Erick Torrico / Dallas / [Obituary](https://www.houstonjewishfunerals.com/obituaries/Jeffrey-Torrico/#!/TributeWall)
-- Shaina Renea Kaufman / Dallas / DEA / [Mugshot](https://kaufmantx.mugshots.zone/kaufman-shaina-rene-mugshot-01-13-2024/)
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
