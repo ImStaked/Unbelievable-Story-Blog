@@ -50,10 +50,22 @@ I just returned to texarkana about 5 weeks ago. I have had pain inflicted upon m
 Until 3:30pm everything was fine today but around this time someone started giving me a headache. Now they are shooting me in my mouth. Today is 35 consecutive days that I have been hurt with energy weapons by what I can only assume is the police. This proves that the FBI and the CIA are likely not involved but it is the Texas Department of Public safety and a task force in Texarkana causing this pain. So please be advised that it is not just the feds that are hurting people it is the police. 
   
 - **March 21st**  
-Headaches and a fake cough and shooting me in my mouth making it hurt
+Headaches and a fake cough and shooting me in my mouth making it hurt, attacks on my lungs.
   
 - **March 22nd**  
-Headaches and a fake cough and shooting me in my mouth making it hurt
+Headaches and a fake cough and shooting me in my mouth making it hurt, attacks on my lungs.
   
 - **March 23rd**  
-Woke up with headache. It went away by 10am after I started sending messages to the feds.
+Woke up with headache, attacks on my lungs. It went away by 10am after I started sending messages to the feds.
+
+- **March 24** 
+Headaches and mouth pain, attacks on my lungs.
+
+- **March 25** 
+I was shot in the mouth for 1 hour. Popping in my ears and attacks on my lungs.
+
+- **March 26** 
+Only popping in my ears minor lung issues
+
+- **March 27** 
+I notice that I am mostly only coughing when I am sleeping in the facility I am forced to sleep in. I have not had many problems so far today.

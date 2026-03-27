@@ -12,6 +12,7 @@ keywords: ["Informants", "Snitches"]
 ---
 
 ## List of Potiential Informants / CIA / FBI / Police / Operatives
+- Tyler Ludwig / FBI Agent / [Texarkana ATF FBI Case](https://www.nwaonline.com/news/2016/may/22/texarkana-man-faces-six-count-indictment/) and [Fort Wayne Indiana January 6th Case](https://www.journalgazette.net/local/courts/federal-charges-dropped-for-2-fort-wayne-men-who-participated-in-capitol-riot/article_fc64e304-d9dc-11ef-ad39-87ef38535ae5.html)
 - Amy Darlene Bryant / Texarkana / [Fed Case](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute)
 - James Ruble Little / Texarkana / [Fed Case](https://www.justice.gov/usao-wdar/pr/texas-drug-traffickers-sentenced-19-years-federal-prison-conspiring-distribute) / [Mugshot](https://texas.arrests.org/Arrests/James_Little_42323137/)
 - Jay Doolin / Texarkana / [Fed Case](https://www.justice.gov/usao-edtx/pr/texarkana-drug-traffickers-arrested-operation-flashback-meth-investigation) / [Picture](https://majorleaguefishing.com/press-releases/2002-04-13-doolin-wins-wal-mart-bfl-arkie-division-tourney/)
@@ -35,7 +36,6 @@ keywords: ["Informants", "Snitches"]
 - Malalai Nadi aka Malalai Hachimi Weiss / CIA / Myrtle Beach / [Link](https://www.searchpeoplefree.com/find/malalai-h-nadi)
 - Ahmad Nadi / CIA or FBI / [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)
 - Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
-
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
