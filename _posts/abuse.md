@@ -71,4 +71,4 @@ Only popping in my ears minor lung issues
 I notice that I am mostly only coughing when I am sleeping in the facility I am forced to sleep in. For several hours in the evening I was shot in the mouth. I am able to block it using my hand. In the evening time I was hearing a popping sound in my ear.
 
 - **March 28** 
-Woke up with a headache that only lasted 15 minutes. More issues with my lungs.
+Woke up with a headache that only lasted 15 minutes. More issues with my lungs. 10am the headache is starting again. 
