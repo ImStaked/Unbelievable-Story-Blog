@@ -12,6 +12,8 @@ export function Intro() {
         <br />
           Also it looks like someone in the government has been using me in their operations without my knowledge or consent.
         <br />
+          I have also been working the last 3 or 4 years and have yet to be paid for any of it, the total amount owed is over 100,000 dollars.
+        <br />
           It is not possible to be involved with this many high profile things at random.
         <br />
           Now I think they have been trying to kill me to cover up for what they have been doing to me.
