@@ -73,4 +73,4 @@ Only popping in my ears minor lung issues
 I notice that I am mostly only coughing when I am sleeping in the facility I am forced to sleep in. For several hours in the evening I was shot in the mouth. I am able to block it using my hand. In the evening time I was hearing a popping sound in my ear.
 
 - **March 28** 
-Woke up with a headache that only lasted 15 minutes. More issues with my lungs. 10am the headache is starting again. 
+Woke up with a headache that only lasted 15 minutes. More issues with my lungs. 10am the headache is starting again. 12:30pm I am going to take pain reliever to make the headache stop. Pain Relievers do lessen pain however they also create a situation where you can be harmed more without being able to detect the harm. Lets assume this weapon is affecting the brain in some way pain reliever would create a situation where the brain could be harmed worse without the warning sign which is pain.
