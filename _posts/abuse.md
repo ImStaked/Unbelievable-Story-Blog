@@ -68,4 +68,7 @@ I was shot in the mouth for 1 hour. Popping in my ears and attacks on my lungs.
 Only popping in my ears minor lung issues
 
 - **March 27** 
-I notice that I am mostly only coughing when I am sleeping in the facility I am forced to sleep in. I have not had many problems so far today.
+I notice that I am mostly only coughing when I am sleeping in the facility I am forced to sleep in. For several hours in the evening I was shot in the mouth. I am able to block it using my hand.
+
+- **March 28** 
+Woke up with a headache that only lasted 15 minutes. More issues with my lungs.
