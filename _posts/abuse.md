@@ -74,3 +74,12 @@ I notice that I am mostly only coughing when I am sleeping in the facility I am 
 
 - **March 28** 
 Woke up with a headache that only lasted 15 minutes. More issues with my lungs. 10am the headache is starting again. 12:30pm I am going to take pain reliever to make the headache stop. Pain Relievers do lessen pain however they also create a situation where you can be harmed more without being able to detect the harm. Lets assume this weapon is affecting the brain in some way pain reliever would create a situation where the brain could be harmed worse without the warning sign which is pain. It is now 2:30pm and even after ibuprofin the headache is worse. I can say that I have been focusing on the black people (Democrats) that set me up and that might be the reason it is getting worse. Did you know the lawyer that was on my set up case was a pastor at a African Episcopal Methodist Church and they heavily supported Joe Biden she was also licensed to argue in front of the Supreme Court. Remember when Hunter Biden had problems in Romania? I also ended up working with some Romanians. Their business was purchased by one of Reid Hoffmans businesses for an undisclosed sum. They were possibly connected to some arms dealer in Romania or a RICO case involving romanians and kentucky? Coincidence?
+
+- **March 30** 
+Woke up with a headache that only lasted 15 minutes. More issues with my lungs. Phone restarted itself over and over from 1pm - 10pm . I saw someone else with a headache yesterday and told them its possible that the headache isn't normal and told them how to block it with a book or their hands and that seemed to make the headache better for them too. 
+
+- **March 31** 
+Woke up with a headache that did not last long.Phone worked fine all day. Still occassional lung issues at the facility where I have to sleep.
+
+- **April 1**
+No problems yet. I had to expose 24 informants and government operatives to make them stop but they have stopped. Now who is going to help me fix my life that has been destroyed?
