@@ -1,13 +1,13 @@
 ---
 title: "Arkansas"
 excerpt: "Book and More"
-coverImage: "/assets/blog/arkansas/cover.jpg"
+coverImage: "/assets/blog/arkansas/cover.jpeg"
 date: "2026-04-01T09:35:07.322Z"
 author:
   name: JJ
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/arkansas/cover.jpg"
+  url: "/assets/blog/arkansas/cover.jpeg"
 keywords: ["Arkansas", "Black Book"]
 ---
 
