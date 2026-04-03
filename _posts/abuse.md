@@ -88,4 +88,4 @@ No problems yet. I had to expose 24 informants and government operatives to make
 They used the tool that causes cramps to attack the left side of my mouth. It lasted almost 8 hours and causes swelling and pain. It is now the next day and that problem is almost resolved. The longer these weapons are pointed at you the longer it takes to heal from the damages
 
 - **April 3**
-Today I woke up with a headache again and had to take ibuprofin however the headache continues despite medication it is almost noon now.
+Today I woke up with a headache again and had to take ibuprofin however the headache continues despite medication. I waited for the medicine to wear off and I am still being attacked by the governments weapon. It has now been over 8 hours straight. Does this device cause permananent brain injury similar to a concussion? If so how many concusion type injuries can the brain withstand before there is permanent injury?
