@@ -26,10 +26,10 @@ They can give you headaches with their equiptment. You can not see electromagnet
 If your teeth are not perfect they enjoy aggrevating existing injuries for plausible deniability. I have been having an alternating tooth / headache problem for 30 straight days. Every single day someone hurts me using these tools and I can't get anyone to do anything about it. Once again if I put my hand in front of my mouth the pain stops. I can also feel that it is pulsing which is typing of pulsed electromagnetic weapons. 100% of the time using a sheild like a book or cookie sheet will alliviate all symptoms until you move your sheild. 
 
 ## Cramps 
-They can cause a charlie horse or cramps that are strong enough to bend a toe backwards. I suspect it is the same machine that causes the headaches.
+They can cause a charlie horse or cramps that are strong enough to bend a toe backwards. I have reason to believe it is the same machine that causes the headaches. How do muscles work? Using electricity right? Yes, muscles use electricity to function. The brain sends electrical signals (action potentials) through the nervous system to stimulate muscle contraction. These impulses cause ion shifts across cell membranes, triggering muscles to move instantly. Muscles also use ATP for energy, but electricity controls the timing of contractions. What if the signals the brain sends can be copied by some equiptment?
 
-## Tooth Abcess
-By attacking the nerves in your face it is possible to cause the symptoms of a Tooth Abcess. After repeated eletromagnetic energy attacks on a nerve in your face the nerve gets irritated and swells with all of the symptoms of an infection. Repeated injury to nerves or tissue will tend to show infection symptoms as the body will keep sending white blood cells to heal the affected body part.
+## Mouth Pain
+By attacking the nerves in your face it is possible to cause the symptoms of a Tooth Abcess. After repeated eletromagnetic energy attacks on a nerve in your face the nerve gets irritated and swells with all of the symptoms of an infection. Repeated injury to nerves or tissue will tend to show infection symptoms as the body will keep sending white blood cells to heal the affected body part. 
 
 ## Fake Cough
 A cough is triggered when irritants stimulate nerves in the lining of your airways (larynx, trachea, and bronchi). These sensitized nerves send signals to the brain, which in turn causes chest and abdominal muscles to contract, forcing air out to expel the irritant. This can be triggered by energy weapons. When your airways (trachea and bronchi) get irritated, they swell up and fill with mucus regardless of the cause. The body can not distiguish an illness from an energy weapon. 
