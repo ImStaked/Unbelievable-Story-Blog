@@ -36,7 +36,8 @@ keywords: ["Informants", "Snitches"]
 - Malalai Nadi aka Malalai Hachimi Weiss / CIA / Myrtle Beach / [Link](https://www.searchpeoplefree.com/find/malalai-h-nadi)
 - Ahmad Nadi / CIA or FBI / [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)
 - Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
-- Shaina Renea Kaufman / DEA  [Mugshot](https://kaufmantx.mugshots.zone/kaufman-shaina-rene-mugshot-01-13-2024/) testified for DEA in heroin case
+- Shaina Renea Kaufman / Dalls / DEA  [Mugshot](https://kaufmantx.mugshots.zone/kaufman-shaina-rene-mugshot-01-13-2024/) testified for DEA in heroin case
+- Jessica R. Abbott / Lufkin / Texarkana / TxDPS / [Mugshot](https://bowietx.mugshots.zone/abbott-jessica-rechaell-mugshot-03-01-2022/) Identity traced back to a template
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
