@@ -35,7 +35,7 @@ keywords: ["Informants", "Snitches"]
 - Izaak Meckler / FBI 
 - Malalai Nadi aka Malalai Hachimi Weiss / CIA / Myrtle Beach / [Link](https://www.searchpeoplefree.com/find/malalai-h-nadi)
 - Ahmad Nadi / CIA or FBI / [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)
-- Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
+- Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork) [Pathrock OÜ](https://ariregister.rik.ee/est/company/16674404/PathrockNetwork-O%C3%9C?search_id=f951f9f&pos=1)
 - Shaina Renea Kaufman / Dalls / DEA  [Mugshot](https://kaufmantx.mugshots.zone/kaufman-shaina-rene-mugshot-01-13-2024/) testified for DEA in heroin case
 
 ## Possible Victims / Unconfirmed as Informants

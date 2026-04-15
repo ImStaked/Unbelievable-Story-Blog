@@ -20,7 +20,7 @@ The founders of the Swedish blockchain company deploi are Oskars Jepsis and Olek
 
 Deploi is supposedly based in Stockholm, Sweden but they operate a lot like the FBI people I have ran across especially in how they use weird names. The company focuses on decentralized finance (DeFi), tokenization, private credit, and other aspects of Web3 and digital assets. 
 
-Pathrock aka [Patrick Hofmeister](https://www.linkedin.com/in/patrick-hofmeister-0433b0166?originalSubdomain=de) hooked me up with these people.
+[Pathrock](https://ariregister.rik.ee/est/company/16674404/PathrockNetwork-O%C3%9C?search_id=f951f9f&pos=1) aka [Patrick Hofmeister](https://www.linkedin.com/in/patrick-hofmeister-0433b0166?originalSubdomain=de) hooked me up with these people.
 
 ## Problems
 These people just wasted my time. There was a guy named Paul who was suppsoed to be a developer there but I think it was the guy from Ukraine using the name of someone I used to know. I worked for 3 weeks then when I started asking about money first the Deploi people and Pathrock kept pointing at each other for who was supposed to pay me. It seemed they were paying Pathrock but not me. 

@@ -12,7 +12,7 @@ keywords: ["Subquery", "New Zealand", "China", "Rug Pull", "Scam", "CIA", "FBI",
 ---
 
 ## Subquery  
-I started out helping [Pathrock](https://pathrocknetwork.org/) (Patrick Hofmeister) when the network was the pre-mainnet test network Kepler. Fun fact... If you break down the name Hof meister in German means Court master. I think it is a fake name but he supposedly works for the railroad in Germany called [Deutsche Bahn](https://www.linkedin.com/in/patrick-hofmeister-0433b0166). He is the one who set me up to work with many of the prior blockchains on this blog.  
+I started out helping [Pathrock OÜ](https://ariregister.rik.ee/est/company/16674404/PathrockNetwork-O%C3%9C?search_id=f951f9f&pos=1) (Patrick Hofmeister) when the network was the pre-mainnet test network Kepler. Fun fact... If you break down the name Hof meister in German means Court master. I think it is a fake name but he supposedly works for the railroad in Germany called [Deutsche Bahn](https://www.linkedin.com/in/patrick-hofmeister-0433b0166). He is the one who set me up to work with many of the prior blockchains on this blog.  
 
 When I was working on Near Protocol one of the other people there told me I should try working with Pathrock and that person was called [Blaze aka Henry Tafolla](https://www.linkedin.com/in/henrytafolla/) It turns out all of them seem to be working on projects that in some way end up financially supporting the war in Ukraine.
 

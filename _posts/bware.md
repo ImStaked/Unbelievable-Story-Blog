@@ -15,7 +15,7 @@ keywords: ["Bware Labs", "Blast API", "Houston Testnet", "INFRA", "Romania", "Uk
 I was working with them on their Houston Testnet. I was supposed to received 100,000 - 150,000 INFRA tokens. I received nothing. [This is my github repo](https://github.com/ImStaked/BlastAPI) from when I was working on this project. This project alone owes me in my estimation over 100,000 dollars. However I can not get anyone to help me with it. When I go to lawyers they refuse to talk to me. I can not get any help with anything no matter what and I am certain trying to take people to court without a lawyer is a bad idea. Even when I had money to pay a lawyer which I no longer have not a single lawyer out of all of the lawyers I tried to contact would speak to me about anything. How is this possible?
 
 ## Problems
-First, guess who hooked me up with this project? Pathrock aka [Patrick Hofmeister](https://www.linkedin.com/in/patrick-hofmeister-0433b0166?originalSubdomain=de)
+First, guess who hooked me up with this project? Pathrock aka [Patrick Hofmeister](https://www.linkedin.com/in/patrick-hofmeister-0433b0166?originalSubdomain=de) aka [Pathrock](https://ariregister.rik.ee/est/company/16674404/PathrockNetwork-O%C3%9C?search_id=f951f9f&pos=1)
 
 
 In 2022, discussions and scrutiny regarding Hunter Biden's past business dealings in Romania intensified, primarily driven by ongoing Republican-led congressional investigations and media reports based on leaked or subpoenaed documents. 
