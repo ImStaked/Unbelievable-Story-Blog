@@ -44,7 +44,7 @@ keywords: ["Informants", "Snitches"]
 - Monikayla Marie Roberts / Arkansas / She told me they are trying to take my "dragons". kids? 
 - Jeffrey Erick Torrico / Dallas / He got a highly reduced sentence
 - Cherie Elaine Parker/ Texarkana / [Mugshot](https://texas.arrests.org/Arrests/Cherie_Parker_42336974/) She was working with Amy somehow
-- Amanda Nicole Weeks, AKA Amanda Nicole Vaughn [Mugshot](https://www.facebook.com/groups/metrotxk/posts/3160749770667821/)
+- Amanda Nicole Weeks AKA Amanda Nicole Vaughn [Mugshot](https://www.facebook.com/groups/metrotxk/posts/3160749770667821/)
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
