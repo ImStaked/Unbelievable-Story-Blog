@@ -22,4 +22,6 @@ provides a universal data indexing framework, allowing developers to easily orga
 ## OnFinality
 The network was founded by Sam Zou and Ian He who also founded the company OnFinality from New Zealand. They look like they are affiliated with China in some way. I only lost about 2,000$ on this project. The project was never designed to be successful. The price has only went down the whole time it has existed. OnFinality, a New Zealand-based company, provides essential blockchain infrastructure services (like scalable APIs and dedicated nodes) and developer tools that help web3 builders easily deploy, run, and scale decentralized applications (dApps) across networks like Polkadot, Cosmos, and Ethereum, essentially making blockchain development faster and less complex. 
 
+James Bayly is a key leader and co-founder at SubQuery Network, acting as the Head of Business Development and formerly as COO. If I remember correctly his father was looking suspicious but much of this data is stored on another hard drive.
+
 I wonder if they are using the services from the providers on the subquery network to provide business services to the onfinality customer base? While at the same time paying the providers with virtually useless tokens that loose more value every single day?

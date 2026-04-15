@@ -43,7 +43,8 @@ keywords: ["Informants", "Snitches"]
 - Melissa Sue Hall / Arkansas [Mugshot](https://www.hotsr.com/news/2024/feb/24/traffic-stop-leads-to-passengers-arrest-on/)
 - Monikayla Marie Roberts / Arkansas / She told me they are trying to take my "dragons". kids? 
 - Jeffrey Erick Torrico / Dallas 
-
+- Cherie Elaine Parker/ Texarkana / She was working with Amy somehow
+- Amanda Nicole Weeks, AKA Amanda Nicole Vaughn [Mugshot](https://www.facebook.com/groups/metrotxk/posts/3160749770667821/)
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
