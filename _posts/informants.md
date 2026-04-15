@@ -37,7 +37,13 @@ keywords: ["Informants", "Snitches"]
 - Ahmad Nadi / CIA or FBI / [FRAUD CASE](https://case-law.vlex.com/vid/u-s-v-nadi-884510525)
 - Patrick Hoffmeister / CIA or BND / Germany / [Pathrock](https://tracxn.com/d/companies/pathrocknetwork/__7rlBSVzIlTCNkW_2x28vOcLHNG-6N3g3hZjXkoO6a0I#about-the-company)
 - Shaina Renea Kaufman / Dalls / DEA  [Mugshot](https://kaufmantx.mugshots.zone/kaufman-shaina-rene-mugshot-01-13-2024/) testified for DEA in heroin case
+
+## Unconfirmed
 - Jessica R. Abbott / Lufkin / Texarkana / TxDPS / [Mugshot](https://bowietx.mugshots.zone/abbott-jessica-rechaell-mugshot-03-01-2022/) Identity traced back to a template. get it Jessica Rabbit?
+- Melissa Sue Hall / Arkansas [Mugshot](https://www.hotsr.com/news/2024/feb/24/traffic-stop-leads-to-passengers-arrest-on/)
+- Monikayla Marie Roberts / Arkansas / She told me they are trying to take my "dragons". kids? 
+- Jeffrey Erick Torrico / Dallas 
+
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
