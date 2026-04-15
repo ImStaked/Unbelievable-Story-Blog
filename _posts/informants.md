@@ -42,8 +42,8 @@ keywords: ["Informants", "Snitches"]
 - Jessica R. Abbott / Lufkin / Texarkana / TxDPS / [Mugshot](https://bowietx.mugshots.zone/abbott-jessica-rechaell-mugshot-03-01-2022/) Identity traced back to a template. get it Jessica Rabbit?
 - Melissa Sue Hall / Arkansas [Mugshot](https://www.hotsr.com/news/2024/feb/24/traffic-stop-leads-to-passengers-arrest-on/)
 - Monikayla Marie Roberts / Arkansas / She told me they are trying to take my "dragons". kids? 
-- Jeffrey Erick Torrico / Dallas 
-- Cherie Elaine Parker/ Texarkana / She was working with Amy somehow
+- Jeffrey Erick Torrico / Dallas / He got a highly reduced sentence
+- Cherie Elaine Parker/ Texarkana / [Mugshot](https://texas.arrests.org/Arrests/Cherie_Parker_42336974/) She was working with Amy somehow
 - Amanda Nicole Weeks, AKA Amanda Nicole Vaughn [Mugshot](https://www.facebook.com/groups/metrotxk/posts/3160749770667821/)
 
 ## Dead People
