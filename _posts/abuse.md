@@ -1,5 +1,5 @@
 ---
-title: "Havana Syndrome Weapon Attacks"
+title: "Abusive Control System for dummies"
 excerpt: "I am currently being harmed in Texarkana by police who have access to Havana Syndrome type weapons. The CIA and FBI used to be the only ones that had these but in recent years the police have aquired them which is what is causing all of the problems in our country as a whole in my opinion."
 coverImage: "/assets/blog/sangamo/cover.jpg"
 date: "2026-03-14T09:35:07.322Z"
@@ -12,12 +12,26 @@ keywords: ["Texarkana", "Non-lethal", "Microwave", "Weapons", "Abuse", "FBI", "P
 ---
 
 ## Description
-They have been utilizing a tool that excerts a type of force on the human body to cause pain for the last few weeks. Every day I am forced to endure pain that I know is being inflicted upon me. This has been going on for 6 straight years. In reality this tech has been in development since the 1950's. I was told someone called the police to tell them I am having a mental episode or something. I can assure you this is real and everything I say I have enough evidence of to convince any reasonable person. 
+The government has traditionally used various systems of control to maintain control of the people such as the Legal System, Financial system, Religion, Surveillance, Administrative and Bureaucratic Control, Security systems, distribution of essential services, and Coercion. Coercion is usually supposed to be a last resort because if that fails then one has effectivly created an enemy. 
+
+Imagine if you will an AI system that is fed a persons complete data profile from the NSA, FBI, CIA, social media, health records, behavioral anylysis information, finance records, religious information, just everything available including DNA. Then this process is repeated for every living person into a giant modeling database like the kind used for modeling global weather data for example. Then all of this data which is continuously updated is used to simulate the future and decisions about how to proceed are made based on the desired outcomes on both large and small scale. I am not sure of the official name but lets say its called "Project Looking Glass". The system has access not only to all of the physical data but also has been weaponized using electromagnetic energy and has ability to cause pain and it keeps a score for each person lets call it a social credit score. 
+
+Based on all of this information depending on how the operators of the system have you classified the system can appear harmless or it can be biased either against an individual or for an individual. It works on probabilities. Since the machine knows all of the choices you have made recently it can within a certain amount of accuracy predict how you will respond in a particular situation. Lets say the persons social credit score is low the system might actually bias against them and make the problem worse. If it can reduce the probability of a favorable outcome then a certain set of actions could be taken to reduce that option from happening. I won't be describing the whole system in detail so nobody kills me but that is the system that is being used on me to destroy me and my life.
+
+Please keep in mind these are nation state level tools designed for actual warfare. Using actual bullets and bombs is usually a last resort like Coercion in warfare. There is monetary warfare, information warfare or propeganda, and pysical war just to name a few. But the financial system is especially attacked and used as a tool of war. You would not want to fight a giant when it is a full strength right?
+
+Lets say due to a low social credit score and being classified as an enemy of the government the financial tools have been turned against an individual. Access to all funds is slowly depleted, any possible help is cut off, weird stuff starts appearing on credit reports, anyone who tries to help is attacked. If someone employs me their business is attacked with the same tools. Credit dries up, things start breaking, and over a long enough period of time this is effective.
+
+The probability of obtaining monetary resources has been reduced to a point where it is very difficult, all social support has been destroyed, and now they are using coercion to try to make me shut up about it.
+
+The last form of control is Coercion and is generally recognized as the most dangrous form of control. This whole system has been weaponized and is being used against me and probably many others. That is what is being used on me a form of Coercive control that involves trauma and abuse. They have been utilizing a tool that excerts a type of force on the human body to cause pain or illness. This tool would be incredibly useful in convincing people that they should buy headache medicine which costs money for example. Every day I am forced to endure pain that I know is being inflicted upon me. This has been going on for 6 straight years. In reality this tech has been in development since the 1950's. I was told someone called the police to tell them I am having a mental episode or something. I can assure you this is real and everything I say I have enough evidence of to convince any reasonable person. 
 
 From 2020 onward I was counting every day that someone hurt me with one of these weapons and I got up to ~870 then lost count. There are 2112 days in 6 years and I would say someone has hurt me 2000 of those days. This is unreasonable by anyone rational humans standards.
 
 ## Havana Syndrome
 [Youtube Video](https://www.youtube.com/watch?v=C1jmAj9OUOs)
+
+# Coercive Control Tools
 
 ## Headaches
 They can give you headaches with their equiptment. You can not see electromagnetic energy but you know it exists because your wifi or cell phone work right? The headaches feel like someone is squishing your brain. It feels like pressure because the electromagnetic energy does produce a force upon solid objects. You will also sometimes feel like your skin is very hot which is another symptom of being under attack. If you get a headache use a book or a cookie sheet to try to block the pain. If the sheild helps to reduce the amount of pain you feel then you are being shot with a weapon 100% of the time. They use an AI to aim this weapon and it is programmed not to shoot people in the eyeballs. So using a pair of glasses you can trick the machine and you can detect it that way also. This AI in texarkana is a junky one and takes 3 seconds to adjust its aim. The feds machine is much faster.
@@ -43,7 +57,7 @@ Examples:
 - VHF / UHF
 
 ## Frequency of Painful Attacks
-I just returned to texarkana about 5 weeks ago. I have had pain inflicted upon me in the form of headache or making my mouth hurt every single day. Is anyone of the opinion that hurting someone every single day for 5 weeks is reasonable? 35 days in a row someone has hurt me using police / military grade electronic weapons. 
+Out of the last 60 days I have been attacked 60 days with abusive non lethal weapons almost 24 hours per day. I have had pain inflicted upon me in the form of headache or making my mouth hurt every single day. Is anyone of the opinion that hurting someone every single day for 5 weeks is reasonable? 35 days in a row someone has hurt me using police / military grade electronic weapons. They are even obvious about it by rotating the pain daily one day it will be a headache, the next my mouth, the next my back, then back to a headache, with my ears popping the whole time 24 hours a day every single day.
 
 ## Log of pain  
 As anyone can see someone is abusing me daily. How would you go about working or concentrating on fixing your life after being abused when the abuse is still ongoing on a daily basis? This is why I say the government is trying to kill me. At what point would you decide to get a gun or make a bomb or something to fight back because no matter who you contact everyone acts like your a crazy person? I believe this is what happened in many of the mass shooting cases happening around our country.
