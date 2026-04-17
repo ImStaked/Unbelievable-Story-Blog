@@ -38,7 +38,7 @@ The last form of control is Coercion and is generally recognized as the most dan
 
 Abuse verses Punishment. Assuming the individual does not understand what is being done and some amount of reason and oversight is employed then one could argue that Coercion is not abuse but a tool of control. Like corporal punishment of children you tell your child what they did wrong and perhaps spank them as a punishment is reasonable on occasion. However once a person is 100% aware of what is going on and the method is used on a daily basis many times per day then the use of Coercive control becomes abuse. For example, if you didn't tell your child what they did wrong but slapped them every single day 10 times a day nobody would argue that would be abuse. That is what is happening to me for years.
 
-From 2020 onward I was counting every day that someone hurt me with one of these weapons and I got up to ~870 then lost count. There are 2112 days in 6 years and I would say someone has hurt me 2000 of those days. This is unreasonable by anyone rational humans standards.
+From 2020 onward I was counting every day that someone hurt me with one of these weapons and I got up to ~870 then lost count. There are 2112 days in 6 years and I would say someone has hurt me 2000 of those days. This is unreasonable by anyone rational humans standards. All of this is being used on me and has been for years. This is what I would describe as the weaponization of the government against its own people.
 
 ## Havana Syndrome
 [Youtube Video](https://www.youtube.com/watch?v=C1jmAj9OUOs)
