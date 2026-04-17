@@ -11,7 +11,7 @@ ogImage:
 keywords: ["Texarkana", "Non-lethal", "Microwave", "Weapons", "Abuse", "FBI", "Police", "Informants", "Homeland Security"]
 ---
 
-## Description
+## Description of AI Control System
 The government has traditionally used various systems of control to maintain control of the people such as the Legal System, Financial system, Religion, Surveillance, Administrative and Bureaucratic Control, Security systems, distribution of essential services, and Coercion. Coercion is usually supposed to be a last resort because if that fails then one has effectivly created an enemy.
 
 Imagine if you will an AI system that is fed a persons complete data profile from the NSA, FBI, CIA, social media, health records, behavioral anylysis information, finance records, religious information, just everything available including DNA. Here is an article titled [FBI is buying data that can be used to track people](https://www.politico.com/news/2026/03/18/fbi-buying-data-track-people-patel-00834080), maybe in addition to tracking it can be used in predictive modeling?
