@@ -1,6 +1,6 @@
 ---
 title: "Arkansas"
-excerpt: "Book and More"
+excerpt: "I am publishing this black book that I think someone stole from me and has been using information out of without telling anyone where the information came from. No one ever pays me or gives me credit for the investigative work I do."
 coverImage: "/assets/blog/arkansas/cover.jpeg"
 date: "2026-04-01T09:35:07.322Z"
 author:
@@ -12,7 +12,7 @@ keywords: ["Arkansas", "Black Book"]
 ---
 
 ## Hot Springs
-
+I have lots of info about people in hot springs. That is where this book came from.
 
 ## The Book
 The first thing I am going to publish is this black book that I did not write. A girl with fake boobs wrote it and it appears to have some important peoples information in it, I do know that fake tits are not free apparently a bunch of people in her family died in a car accident or something I forget the details. In fact it looks similar to my research as it contains a Deaths section. Her name is in the book. I have only looked into the data a small amount and once I found a connection to Bill Clinton I just put it up. Please keep in mind I got this book in Hot Springs, Arkansas. According to google, Bill Clinton spent his formative childhood years in Hot Springs, Arkansas, moving there around age seven and living at 1011 Park Avenue from 1954 to 1961. He attended local schools, including Hot Springs High School, and frequently highlights the town as his hometown. 
