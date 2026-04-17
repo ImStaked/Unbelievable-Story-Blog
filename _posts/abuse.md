@@ -11,8 +11,10 @@ ogImage:
 keywords: ["Texarkana", "Non-lethal", "Microwave", "Weapons", "Abuse", "FBI", "Police", "Informants", "Homeland Security"]
 ---
 
-## Description of AI Control System
-The government has traditionally used various systems of control to maintain control of the people such as the Legal System, Financial system, Religion, Surveillance, Administrative and Bureaucratic Control, Security systems, distribution of essential services, and Coercion. Coercion is usually supposed to be a last resort because if that fails then one has effectivly created an enemy. The following is a description of the likely experimental system of control that I have been dealing with for many years against my will.
+## Description of the AI Control System
+The government has traditionally used various systems of control to maintain control of the people such as the Legal System, Financial system, Religion, Surveillance, Administrative and Bureaucratic Control, Security systems, distribution of essential services, and Coercion. Coercion is usually supposed to be a last resort because if that fails then one has effectivly created an enemy. 
+
+The following is a description of the likely experimental system of control that I have been dealing with for many years against my will. Please note that many of these things involve behavior modification which is a medical procedure and requires informed consent. Informed consent is a process in which a healthcare professional educates a patient about the risks, benefits, and alternatives of a given procedure or intervention. In the context of mental health and informed consent, a procedure (or intervention) is defined as any planned clinical activity, assessment, evaluation, or treatment approach proposed by a professional (e.g., psychologist, therapist, psychiatrist) that the client must agree to undergo.
 
 Imagine if you will an AI system that is fed a persons complete data profile from the NSA, FBI, CIA, social media, health records, behavioral anylysis information, finance records, religious information, just everything available including DNA. Here is an article titled [FBI is buying data that can be used to track people](https://www.politico.com/news/2026/03/18/fbi-buying-data-track-people-patel-00834080), maybe in addition to tracking it can be used in predictive modeling?
 
@@ -121,3 +123,5 @@ They used the tool that causes cramps to attack the left side of my mouth. It la
 
 - **April 3**
 Today I woke up with a headache again and had to take ibuprofin however the headache continues despite medication. I waited for the medicine to wear off and I am still being attacked by the governments weapon. It has now been over 8 hours straight. Does this device cause permananent brain injury similar to a concussion? If so how many concusion type injuries can the brain withstand before there is permanent injury?
+
+I stopped logging the pain that I have been giving on a daily basis. I can assure everyone that this has continued almost every single hour of every single day since April the 3rd it is now April the 17th.
