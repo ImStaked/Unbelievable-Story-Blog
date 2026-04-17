@@ -12,7 +12,7 @@ keywords: ["Texarkana", "Non-lethal", "Microwave", "Weapons", "Abuse", "FBI", "P
 ---
 
 ## Description of the AI Control System
-The government has traditionally used various systems of control to maintain control of the people such as the Legal System, Financial system, Religion, Surveillance, Administrative and Bureaucratic Control, Security systems, distribution of essential services, and Coercion. Coercion is usually supposed to be a last resort because if that fails then one has effectivly created an enemy. 
+The government has traditionally used various systems of control to maintain control of the people such as the Legal System, Financial system, Religion, Surveillance, Administrative and Bureaucratic Control, Security systems, distribution of essential services, and Coercion. Coercion is usually supposed to be a last resort because if that fails then one has effectivly created an enemy
 
 The following is a description of the likely experimental system of control that I have been dealing with for many years against my will. Please note that many of these things involve behavior modification which is a medical procedure and requires informed consent. Informed consent is a process in which a healthcare professional educates a patient about the risks, benefits, and alternatives of a given procedure or intervention. In the context of mental health and informed consent, a procedure (or intervention) is defined as any planned clinical activity, assessment, evaluation, or treatment approach proposed by a professional (e.g., psychologist, therapist, psychiatrist) that the client must agree to undergo.
 
