@@ -1,5 +1,5 @@
 ---
-title: "Texarkana Abuses"
+title: "Texarkana Issues"
 excerpt: "Since I am currently being harmed in this city I decided to post this information. It details why the police are likely coming after me and some of the other people involved. In every other city I visit mostly I am not harmed terribly bad but here in Texarkana the police are trying to kill me or cause me to hurt someone else. Remember this city is 80 miles from Mena Arkansas"
 coverImage: "/assets/blog/texarkana/cover.jpeg"
 date: "2026-02-16T09:35:07.322Z"
