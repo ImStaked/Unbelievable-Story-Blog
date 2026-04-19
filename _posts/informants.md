@@ -46,8 +46,8 @@ keywords: ["Informants", "Snitches"]
 - Jeffrey Erick Torrico / Dallas / He got a highly reduced sentence
 - Cherie Elaine Parker/ Texarkana / [Mugshot](https://texas.arrests.org/Arrests/Cherie_Parker_42336974/) She was working with Amy somehow
 - Amanda Nicole Weeks AKA Amanda Nicole Vaughn [Mugshot](https://www.facebook.com/groups/metrotxk/posts/3160749770667821/)
-- Christina Masood / Possible CIA or FBI parents from Virginia / [Linkedin](https://www.linkedin.com/in/christina-massood)
-
+- Christina Luanne Massood / Possible CIA or FBI parents from Virginia / Texas / [Linkedin](https://www.linkedin.com/in/christina-massood)
+- Rodney McCreless aka Rodney Gibbs / Unknown / Texas 
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
