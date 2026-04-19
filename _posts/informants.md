@@ -49,7 +49,7 @@ keywords: ["Informants", "Snitches"]
 - Christina Luanne Massood / Possible CIA or FBI parents from Virginia / Texas / [Linkedin](https://www.linkedin.com/in/christina-massood)
 - Rodney McCreless aka Rodney Gibbs / Unknown / Texas 
 - Gregory A Willis / Carrollton Texas / Father worked for Bell Helicopter possible CIA 
-- Toni Willis aka Toni Rickord / Carrollton Texas / Father my grandfather had CIA contacts
+- Toni Willis aka Toni Rickord / Carrollton Texas / Possible CIA / FBI or knows some
 
 ## Dead People
 - Amy Darlene Bryant [Obituary](https://www.legacy.com/us/obituaries/name/amy-bryant-obituary?id=60026144)
