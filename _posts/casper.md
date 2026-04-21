@@ -17,8 +17,7 @@ I started working with them to help with the Zugg 500 test network before the ma
 
 Casper labs had an office located at [25 1st St, Fl 2, Cambridge, MA 02141](https://www.zoominfo.com/c/casperlabs/464535978). After some research I found that the building is connected to the Oxford Group. The oxford people are a whole other issue that I wont get into here. Then I find they are in Puerto Rico and Switzerland also. What does a business with 10 people working for it need multiple companies located in multiple countries for? I wonder who in Massachusetts sent them on this mission isn't that were Sam Bankman Fried went to school?
 
-
-
+![Email](/assets/blog/casper/non-payment_email.jpg)
 ## China Connection
 Medha had me work with a guy from [Waterdrip Capitol](https://waterdrip.io/) which is a VC firm from China. I suspect she and Mrinal are FBI or CIA so why was she working with money people from China? They had me train the best friend of the founder of Waterdrip Capitol. Waterdrip Capital was founded in 2017 by the most forward-thinking Chinese blockchain pioneers. Yushan Zheng Founder, Jademont Zheng Co-founder, Peicai Li Founder, Jialing Liu Founder.
 
@@ -73,7 +72,6 @@ I think she helped them do this to me.
 - **Patrick Storchenegger** 
   - Included becaue the guy from Germany was named Patrick.   
   - [Linkedin](https://www.linkedin.com/in/patrick-storchenegger-161b34254)   
-
 
 ## Legal Cases
 [Coordination Technology Ltd. v. CasperLabs LLC ](https://www.courtlistener.com/docket/60071481/coordination-technology-ltd-v-casperlabs-llc/)   
