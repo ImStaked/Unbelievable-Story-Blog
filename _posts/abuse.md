@@ -1,6 +1,6 @@
 ---
 title: "Abusive Control System for dummies"
-excerpt: "I am currently being harmed in Texarkana by police who have access to Havana Syndrome type weapons. The CIA and FBI used to be the only ones that had these but in recent years the police have aquired them which is what is causing all of the problems in our country as a whole in my opinion."
+excerpt: "Social control system hooked up to Havana Syndrome type weapons. The CIA and FBI used to be the only ones that had these but in recent years the police have aquired access which is what is causing all of the problems in our country as a whole in my opinion."
 coverImage: "/assets/blog/site/Trump_We_can_do_whatever_we_want.png"
 date: "2026-03-14T09:35:07.322Z"
 author:
