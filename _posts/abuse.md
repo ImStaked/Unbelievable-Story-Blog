@@ -1,5 +1,5 @@
 ---
-title: "Abusive Control System for dummies"
+title: "Americas Social Control System"
 excerpt: "Social control system hooked up to Havana Syndrome type weapons. The CIA and FBI used to be the only ones that had these but in recent years the police have aquired access which is what is causing all of the problems in our country as a whole in my opinion."
 coverImage: "/assets/blog/site/Trump_We_can_do_whatever_we_want.png"
 date: "2026-03-14T09:35:07.322Z"
@@ -128,4 +128,4 @@ They used the tool that causes cramps to attack the left side of my mouth. It la
 - **April 3**
 Today I woke up with a headache again and had to take ibuprofin however the headache continues despite medication. I waited for the medicine to wear off and I am still being attacked by the governments weapon. It has now been over 8 hours straight. Does this device cause permananent brain injury similar to a concussion? If so how many concusion type injuries can the brain withstand before there is permanent injury?
 
-I stopped logging the pain that I have been giving on a daily basis. I can assure everyone that this has continued almost every single hour of every single day since April the 3rd it is now April the 17th.
+I stopped logging the pain that I have been giving on a daily basis. I can assure everyone that this has continued almost every single hour of every single day since April the 3rd it is now April the 22nd. Only 1 day out of the last 70+ days have been without being tortured by the governments abuse system. In the last 6 years I have had less than 100 days where I have not been abused. They want to say I am dangerous but who would not be after being tortured for almost 2200 days in a row?
