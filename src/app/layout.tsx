@@ -15,7 +15,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: "Working in Crypto",
+  title: "Government Hacker's Unbelievable Story",
   description: "A blog about working in the cryptocurrency industry",
   keywords: ["crypto", "cryptocurrency", "blockchain", "web3", "conspiracy", "drama", "scandal"],
   alternates: {
