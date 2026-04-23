@@ -19,7 +19,9 @@ export function Intro() {
           Now I think they have been trying to kill me to cover up for what they have been doing to me.
         <br /> 
           The information I have on this site is less than 20% of what I have available. I published this data to prove I have access to information that should require an NDA to access.
-    <br />
+        <br />
+          Please consider <a href="/donate">donating some funding</a> because I am currently blocked from almost any form of work that provides an income and I will no longer have a place to sleep in 2 weeks.
+        <br />
     </center>
     </section>
   );
