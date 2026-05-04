@@ -70,17 +70,45 @@ They can cause a charlie horse or cramps that are strong enough to bend a toe ba
 By attacking the nerves in your face it is possible to cause the symptoms of a Tooth Abcess. After repeated eletromagnetic energy attacks on a nerve in your face the nerve gets irritated and swells with all of the symptoms of an infection. Repeated injury to nerves or tissue will tend to show infection symptoms as the body will keep sending white blood cells to heal the affected body part. 
 
 ## Fake Cough
-A cough is triggered when irritants stimulate nerves in the lining of your airways (larynx, trachea, and bronchi). These sensitized nerves send signals to the brain, which in turn causes chest and abdominal muscles to contract, forcing air out to expel the irritant. This can be triggered by energy weapons. When your airways (trachea and bronchi) get irritated, they swell up and fill with mucus regardless of the cause. The body can not distiguish an illness from an energy weapon. 
+A cough is triggered when irritants stimulate nerves in the lining of your airways (larynx, trachea, and bronchi). These sensitized nerves send signals to the brain, which in turn causes chest and abdominal muscles to contract, forcing air out to expel the irritant. This can be triggered by energy weapons. When your airways (trachea and bronchi) get irritated, they swell up and fill with mucus regardless of the cause. From google. Can certain frequencies of energy cause coughing in humans? Yes, specific frequencies of energy—particularly acoustic vibrations and mechanical stimulation—can induce coughing in humans by stimulating nerves in the throat, chest, or ears. High-frequency chest percussion can trigger coughs, especially in individuals with respiratory infections. Additionally, vibrations can stimulate the Vagus Nerve Stimulation (VNS), causing a cough reflex. Stimulation of the auricular branch of the vagus nerve (Arnold's nerve) in the ear can trigger reflex coughing, often seen in cases of chronic cough. These things are not impossible. Repeated, chronic irritation of the sinuses and airways can cause chronic airway inflammation, lasting 12+ weeks. Key symptoms include persistent nasal congestion, thick nasal drainage (green/yellow), facial pressure, postnasal drip, coughing, reduced sense of smell/taste, and fatigue.
 
-## What is Electromagnetic Energy
-It is engergy that travels in waves through the air and sometimes solids depending on the type.  
-Examples:
-- Wifi
-- Cell Phone
-- AM / FM
-- VHF / UHF
+## Potential Long Term Effects
+Years of abuse cause profound, long-term impacts, including chronic physical illnesses (cardiovascular disease, diabetes, chronic pain), severe mental health issues (PTSD, depression, anxiety, suicidality), and deep interpersonal struggles. Survivors frequently suffer from distorted self-perception, intense shame, memory issues, and substance abuse as a coping mechanism. Long-term abuse can lead to chronic health conditions.
 
-## Frequency of Painful Attacks
+**Physical Health Consequences**
+- Chronic Pain: Headaches, pelvic, abdominal, and back pain.
+- Chronic Diseases: Increased risk of cancer, diabetes, cardiovascular disease, and hypertension.
+- Body Dysregulation: Disruption of nervous system functions, leading to over- or under-sensitivity to sensory stimuli.
+- Physical Conditions: Increased incidence of obesity, malnutrition, and sexual health issues.
+
+**Mental and Emotional Health Consequences**
+- Complex PTSD (C-PTSD): Often resulting from prolonged abuse, leading to flashbacks, nightmares, and chronic emotional distress.
+- Mental Disorders: Chronic depression, severe anxiety disorders, and dissociation.
+- Self-Perception: Deep-seated feelings of shame, guilt, worthlessness, and self-blame.
+- Emotional Dysregulation: Inability to manage emotional responses, chronic apathy, or severe anger.
+
+## Possible Treatment
+Treating long-term torture victims requires a holistic, interdisciplinary, and trauma-informed approach that addresses complex physical, psychological, and social needs, with a primary focus on rebuilding trust and safety. Effective rehabilitation often includes a combination of medical care, mental health counseling, physical therapy, and social support to help survivors regain control and function.
+
+**Core Principles of Treatment**
+- Establish Safety and Stabilization: This is the critical first step, helping the survivor feel secure in their environment and body.
+- Trust and Empowerment: Victims have had their trust violated by authorities; therefore, the treatment provider must be worthy of trust and ensure all actions are consensual.
+- Culturally Sensitive Care: Treatment should be tailored to the individual's cultural background, including the use of interpreters or cultural mediators.Avoid Re-traumatisation: Be aware that certain environments, equipment, or questioning techniques can trigger memories of torture
+
+**Key Therapeutic Approaches**  
+- Psychological Care: Specialized, trauma-focused therapies are used to treat PTSD, depression, and severe anxiety. 
+- Narrative Exposure Therapy (NET): Helping patients process their traumatic memories.
+- Eye Movement Desensitization and Reprocessing (EMDR).
+- Trauma-focused Cognitive Behavioral Therapy (CBT).
+
+**Physical Rehabilitation (Physiotherapy)**  
+Focuses on treating chronic pain, injuries, and the physical manifestations of trauma.
+- Relaxation Techniques: Diaphragmatic breathing and, in some cases, gentle, consensual massage.
+- Body Awareness: Yoga-based practices can help survivors reconnect with their bodies in a safe way.
+- **Social and Legal Support**: Assisting with practical needs like housing, food, asylum claims, and legal documentation.
+- Testimony: For many, giving testimony about their experience can be a powerful, healing act of justice
+
+## Frequency of My Painful Attacks
 Out of the last 60 days I have been attacked 60 days with abusive non lethal weapons almost 24 hours per day. I have had pain inflicted upon me in the form of headache or making my mouth hurt every single day. Is anyone of the opinion that hurting someone every single day for 5 weeks is reasonable? 35 days in a row someone has hurt me using police / military grade electronic weapons. They are even obvious about it by rotating the pain daily one day it will be a headache, the next my mouth, the next my back, then back to a headache, with my ears popping the whole time 24 hours a day every single day.
 
 ## Log of pain  
@@ -128,4 +156,5 @@ They used the tool that causes cramps to attack the left side of my mouth. It la
 - **April 3**
 Today I woke up with a headache again and had to take ibuprofin however the headache continues despite medication. I waited for the medicine to wear off and I am still being attacked by the governments weapon. It has now been over 8 hours straight. Does this device cause permananent brain injury similar to a concussion? If so how many concusion type injuries can the brain withstand before there is permanent injury?
 
-I stopped logging the pain that I have been giving on a daily basis. I can assure everyone that this has continued almost every single hour of every single day since April the 3rd it is now April the 22nd. Only 1 day out of the last 70+ days have been without being tortured by the governments abuse system. In the last 6 years I have had less than 100 days where I have not been abused. They want to say I am dangerous but who would not be after being tortured for almost 2200 days in a row?
+I stopped logging the pain that I have been giving on a daily basis. I can assure everyone that this has continued almost every single hour of every single day since April the 3rd it is now May 4th. Only 2 days out of the last 70+ days have been without being tortured by the governments abuse system. In the last 6 years I have had less than 100 days where I have not been abused. They want to say I am dangerous but who would not be after being tortured for almost 2200 days in a row?
+
