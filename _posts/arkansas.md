@@ -2,7 +2,7 @@
 title: "Arkansas"
 excerpt: "I am publishing this black book that I think someone stole from me and has been using information out of without telling anyone where the information came from. No one ever pays me or gives me credit for the investigative work I do."
 coverImage: "/assets/blog/arkansas/cover.jpeg"
-date: "2026-04-01T09:35:07.322Z"
+date: "2026-03-01T09:35:07.322Z"
 author:
   name: JJ
   picture: "/assets/blog/authors/jj.jpeg"

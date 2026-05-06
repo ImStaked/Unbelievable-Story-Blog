@@ -1,6 +1,6 @@
 ---
 title: "Americas Social Control System"
-excerpt: "Social control system hooked up to Havana Syndrome type weapons. The CIA and FBI used to be the only ones that had these but in recent years the police have aquired access which is what is causing all of the problems in our country as a whole in my opinion."
+excerpt: "Social control system hooked up to Havana Syndrome type weapons. Imagine an AI system connected to all the worlds data that has the ability to read your thoughts and has weapons attached that are used to punish you if you even think the wrong way."
 coverImage: "/assets/blog/site/Trump_We_can_do_whatever_we_want.png"
 date: "2026-03-14T09:35:07.322Z"
 author:
@@ -46,44 +46,44 @@ Abuse verses Punishment. Assuming the individual does not understand what is bei
 
 From 2020 onward I was counting every day that someone hurt me with one of these weapons and I got up to ~870 then lost count. There are 2112 days in 6 years and I would say someone has hurt me 2000 of those days. This is unreasonable by anyone rational humans standards. All of this is being used on me and has been for years. This is what I would describe as the weaponization of the government against its own people.
 
-## Havana Syndrome
-[Youtube Video](https://www.youtube.com/watch?v=C1jmAj9OUOs)
+## Coercive Control Tools
 
-# Coercive Control Tools
+### Havana Syndrome
+[Youtube Video](https://www.youtube.com/watch?v=C1jmAj9OUOs)
 
 [Coercive control is a form of abuse](https://pmc.ncbi.nlm.nih.gov/articles/PMC10666508/) where the main goal is to degrade, isolate, and deprive a person of their rights to physical security, dignity, and respect, which puts the victim in a state of terror and entrapment, and includes tactics such as monitoring movements, social isolation, and restriction of access to financial resources, employment, education, or medical care (Pitman, 2016; Stark, 2007, 2013; Stark & Hester, 2019). For instance, abusers may use tactics involving threats to hurt or kill their victims, their children or pets, or isolating them from family, friends, and support services. Coercive control may also involve economic abuse, by threatening economic security and independence (Postmus et al., 2020), intimate partner stalking (Mechanic et al., 2008), as well as reproductive coercion, such as pregnancy coercion or interference with contraception.
 
-## Headaches
+### Headaches
 They can give you headaches with their equiptment. You can not see electromagnetic energy but you know it exists because your wifi or cell phone work right? The headaches feel like someone is squishing your brain. It feels like pressure because the electromagnetic energy does produce a force upon solid objects. You will also sometimes feel like your skin is very hot which is another symptom of being under attack. If you get a headache use a book or a cookie sheet to try to block the pain. If the sheild helps to reduce the amount of pain you feel then you are being shot with a weapon 100% of the time. They use an AI to aim this weapon and it is programmed not to shoot people in the eyeballs. So using a pair of glasses you can trick the machine and you can detect it that way also. This AI in texarkana is a junky one and takes 3 seconds to adjust its aim. The feds machine is much faster.
 
 Now imagine that you have been targeted by the system for elimination. Botox is an FDA-approved preventative treatment for chronic migraines, specifically for adults experiencing 15 or more headache days per month (lasting 4+ hours). It involves 31 injections around the head and neck every 12 weeks to block pain signals and reduce migraine frequency. Botox is a drug made from a toxin produced by the bacterium Clostridium botulinum. 
 
 What if the operators turned your headache off every time you took your Botox in order to convince you it is working but your really just taking poison. You would be convinced the Botox cured your headache and the operator of the system would proceed to cause you another medical issue where you would go see a doctor then get prescribed 2 or 3 medicines to cure the symptoms you are being given with the control system. Before you know it you will be taking 10 different pills to treat all of the symptoms the abuse system is giving you. I have found 10 persons at my currently location with this issue.
 
-## Tooth Pain
+### Tooth Pain
 If your teeth are not perfect they enjoy aggrevating existing injuries for plausible deniability. I have been having an alternating tooth / headache problem for 30 straight days. Every single day someone hurts me using these tools and I can't get anyone to do anything about it. Once again if I put my hand in front of my mouth the pain stops. I can also feel that it is pulsing which is typing of pulsed electromagnetic weapons. 100% of the time using a sheild like a book or cookie sheet will alliviate all symptoms until you move your sheild. 
 
-## Mouth Pain
+### Mouth Pain
 By attacking the nerves in your face it is possible to cause the symptoms of a Tooth Abcess. After repeated eletromagnetic energy attacks on a nerve in your face the nerve gets irritated and swells with all of the symptoms of an infection. Repeated injury to nerves or tissue will tend to show infection symptoms as the body will keep sending white blood cells to heal the affected body part. If this is being done using a sheld like a book or cookie sheet will reduce the pain but if the problem is severe it will take several days to over a week to totally go away.
 
-## Cramps 
+### Cramps 
 They can cause a charlie horse or cramps that are strong enough to bend a toe backwards. I have reason to believe it is the same machine that causes the headaches. How do muscles work? Using electricity right? Yes, muscles use electricity to function. The brain sends electrical signals (action potentials) through the nervous system to stimulate muscle contraction. These impulses cause ion shifts across cell membranes, triggering muscles to move instantly. Muscles also use ATP for energy, but electricity controls the timing of contractions. What if the signals the brain sends can be copied by some equiptment?
 
-## Fake Cough
+### Fake Cough
 A cough is triggered when irritants stimulate nerves in the lining of your airways (larynx, trachea, and bronchi). These sensitized nerves send signals to the brain, which in turn causes chest and abdominal muscles to contract, forcing air out to expel the irritant. This can be triggered by energy weapons. When your airways (trachea and bronchi) get irritated, they swell up and fill with mucus regardless of the cause. 
 
 From google. Can certain frequencies of energy cause coughing in humans? Yes, specific frequencies of energy—particularly acoustic vibrations and mechanical stimulation—can induce coughing in humans by stimulating nerves in the throat, chest, or ears. High-frequency chest percussion can trigger coughs, especially in individuals with respiratory infections. Additionally, vibrations can stimulate the Vagus Nerve Stimulation (VNS), causing a cough reflex. Stimulation of the auricular branch of the vagus nerve (Arnold's nerve) in the ear can trigger reflex coughing, often seen in cases of chronic cough. These things are not impossible. Repeated, chronic irritation of the sinuses and airways can cause chronic airway inflammation, lasting 12+ weeks. Key symptoms include persistent nasal congestion, thick nasal drainage (green/yellow), facial pressure, postnasal drip, coughing, reduced sense of smell/taste, and fatigue.
 
 Recently [Rudy Giuliani](https://www.nydailynews.com/2026/05/05/rudy-giuliani-last-rites-hospital-pneumonia/) was hospitalized with pneumonia. Is it possible that he has been under attack by these weaapons? Doctors treat symptoms and generally are not concerned with what is actually causing the symptoms. It is unlikely any doctor would even be aware of these weapons system nor would they have good reason or the equiptment required to verify if electromagnetic weapons were being used on a person. I feeel like a good portion of current health issues in otherwise healthy people could be a result of these weapons. It is like a massive fraud being perpetrated upon the people of our country.
 
-## Sinus Attacks
+### Sinus Attacks
 Recently I have found that it is possible to cause nasal issues from these weapons also. The same weapon being used to cause headaches can be used to cause sinus and airway issues. Once again it is possible to block the attack using a sheild like a book or cookie sheet but it is more difficult to do.
 
 Research indicates that high-power pulsed radiofrequency energy (like those used in military or some industrial applications) can cause non-thermal bioeffects, including headaches and potential tissue alterations, and that high-frequency electromagnetic fields (900 MHz) can increase nitric oxide levels in the sinus and nasal mucosa, which is often associated with tissue damage and inflammation.
 
 Sinuses and upper airways are among the body's most sensitive areas to irritants, toxins, and allergens, serving as a primary defense system that triggers reflexes like sneezing and coughing. Just as easily as a headache can be created using energy weeapons the most sinus and airways are also vulnerable to attacks.
 
-# Potential Long Term Effects
+## Potential Long Term Effects
 Years of abuse cause profound, long-term impacts, including chronic physical illnesses (cardiovascular disease, diabetes, chronic pain), severe mental health issues (PTSD, depression, anxiety, suicidality), and deep interpersonal struggles. Survivors frequently suffer from distorted self-perception, intense shame, memory issues, and substance abuse as a coping mechanism. Long-term abuse can lead to chronic health conditions.
 
 **Physical Health Consequences**
