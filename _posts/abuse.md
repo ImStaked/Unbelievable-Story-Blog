@@ -83,7 +83,7 @@ Research indicates that high-power pulsed radiofrequency energy (like those used
 
 Sinuses and upper airways are among the body's most sensitive areas to irritants, toxins, and allergens, serving as a primary defense system that triggers reflexes like sneezing and coughing. Just as easily as a headache can be created using energy weeapons the most sinus and airways are also vulnerable to attacks.
 
-## Potential Long Term Effects
+# Potential Long Term Effects
 Years of abuse cause profound, long-term impacts, including chronic physical illnesses (cardiovascular disease, diabetes, chronic pain), severe mental health issues (PTSD, depression, anxiety, suicidality), and deep interpersonal struggles. Survivors frequently suffer from distorted self-perception, intense shame, memory issues, and substance abuse as a coping mechanism. Long-term abuse can lead to chronic health conditions.
 
 **Physical Health Consequences**
@@ -98,7 +98,7 @@ Years of abuse cause profound, long-term impacts, including chronic physical ill
 - Self-Perception: Deep-seated feelings of shame, guilt, worthlessness, and self-blame.
 - Emotional Dysregulation: Inability to manage emotional responses, chronic apathy, or severe anger.
 
-## Possible Treatment
+# Possible Treatment
 Treating long-term torture victims requires a holistic, interdisciplinary, and trauma-informed approach that addresses complex physical, psychological, and social needs, with a primary focus on rebuilding trust and safety. Effective rehabilitation often includes a combination of medical care, mental health counseling, physical therapy, and social support to help survivors regain control and function.
 
 **Core Principles of Treatment**
@@ -119,11 +119,11 @@ Focuses on treating chronic pain, injuries, and the physical manifestations of t
 - **Social and Legal Support**: Assisting with practical needs like housing, food, asylum claims, and legal documentation.
 - Testimony: For many, giving testimony about their experience can be a powerful, healing act of justice
 
-## Frequency of My Painful Attacks
-Out of the last 60 days I have been attacked 60 days with abusive non lethal weapons almost 24 hours per day. I have had pain inflicted upon me in the form of headache or making my mouth hurt every single day. Is anyone of the opinion that hurting someone every single day for 5 weeks is reasonable? 35 days in a row someone has hurt me using police / military grade electronic weapons. They are even obvious about it by rotating the pain daily one day it will be a headache, the next my mouth, the next my back, then back to a headache, with my ears popping the whole time 24 hours a day every single day.
+# Frequency of My Painful Attacks
+Out of the last 90 days I have been attacked 60 days with abusive non lethal weapons almost 24 hours per day. I have had pain inflicted upon me in the form of headache or making my mouth hurt every single day. Is anyone of the opinion that hurting someone every single day with military grade electronic weapons for months at a time reasonable?  They are even obvious about it by rotating the pain daily one day it will be a headache, the next my mouth, the next my back, then back to a headache, with my ears popping the whole time 24 hours a day every single day. In the last 6 years if you add up all of the days I was not tortured I doubt it would even be 60 total days free of torture. When this first started I counted 850 straight days of tortue before I lost count. Time tends to blur when this is happening so it becomes difficult to keep accurate count.
 
 ## Log of pain  
-As anyone can see someone is abusing me daily. How would you go about working or concentrating on fixing your life after being abused when the abuse is still ongoing on a daily basis? This is why I say the government is trying to kill me. At what point would you decide to get a gun or make a bomb or something to fight back because no matter who you contact everyone acts like your a crazy person? I believe this is what happened in many of the mass shooting cases happening around our country.
+As anyone can see someone is abusing me daily. How would you go about working or concentrating on fixing your life after being abused when the abuse is still ongoing on a daily basis? This is why I say the government is trying to kill me. At what point would you decide to get a gun or make a bomb or something to fight back because no matter who you contact everyone acts like your a crazy person? I believe this is what happened in many of the mass shooting cases happening around our country. Here is a short log of painful attacks I made it is only a snapshot in time of 2 weeks but I assure you it has been almost every single day for 6 years. The amount of recovery required from this kind of sustained abuse is very long and this is what is destroying many people in our country.
 
 - **March 20th**  
 Until 3:30pm everything was fine today but around this time someone started giving me a headache. Now they are shooting me in my mouth. Today is 35 consecutive days that I have been hurt with energy weapons by what I can only assume is the police. This proves that the FBI and the CIA are likely not involved but it is the Texas Department of Public safety and a task force in Texarkana causing this pain. So please be advised that it is not just the feds that are hurting people it is the police. 
@@ -167,5 +167,5 @@ They used the tool that causes cramps to attack the left side of my mouth. It la
 - **April 3**
 Today I woke up with a headache again and had to take ibuprofin however the headache continues despite medication. I waited for the medicine to wear off and I am still being attacked by the governments weapon. It has now been over 8 hours straight. Does this device cause permananent brain injury similar to a concussion? If so how many concusion type injuries can the brain withstand before there is permanent injury?
 
-I stopped logging the pain that I have been giving on a daily basis. I can assure everyone that this has continued almost every single hour of every single day since April the 3rd it is now May 4th. Only 2 days out of the last 70+ days have been without being tortured by the governments abuse system. In the last 6 years I have had less than 100 days where I have not been abused. They want to say I am dangerous but who would not be after being tortured for almost 2200 days in a row?
+I stopped logging the pain that I have been giving on a daily basis. I can assure everyone that this has continued almost every single hour of every single day since April the 3rd it is now May 4th. In the last 6 years I have had less than 100 days where I have not been abused. They want to say I am dangerous but who would not be after being tortured for almost 2200 days in a row?
 
