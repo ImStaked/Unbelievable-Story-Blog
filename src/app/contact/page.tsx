@@ -1,7 +1,7 @@
 'use client';
 
 import * as React from 'react';
-import { useFormState } from 'react-dom';
+import { useActionState } from 'react';
 import { sendContactEmail } from './actions';
 
 const initialState = {
@@ -10,7 +10,7 @@ const initialState = {
 };
 
 export default function ContactFormPage() {
-  const [state, formAction] = useFormState(sendContactEmail, initialState);
+  const [state, formAction] = useActionState(sendContactEmail, initialState);
   const formRef = React.useRef<HTMLFormElement>(null);
 
   React.useEffect(() => {
