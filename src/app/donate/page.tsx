@@ -20,7 +20,9 @@ export default function Donate() {
             <p className="text-lg leading-relaxed mb-4 text-center">
             Donations help support the ongoing development and maintenance of this blog and other projects. 
             <br />
-            I am currently living in a homeless shelter because that is what happens when the goverment is trying to destroy your life. Next week I will be doing this from the sidewalk because I have used up all of my time in the homeless shelter. 
+            I am currently living in a homeless shelter because that is what happens when the goverment is trying to destroy your life. 
+            <br />
+            Next week I will be doing this from the sidewalk because I have used up all of my time in the homeless shelter. 
             <br />
             It is very difficult to work while being attacked wth the energy weapons they use to torture me daily but I do the best I can with what is available. 
             <br />
