@@ -39,8 +39,8 @@ export default function Donate() {
             </div>
             <div className="md:col-span-1 flex flex-col items-center">
             <Image
-                src="/assets/blog/donate/btc-donate-address.jpg"
-                alt="BTC Donation Adddres"
+                src="/assets/blog/donate/ethereum-donate-address.jpg"
+                alt="ETH Donation Adddres"
                 width={300}
                 height={300}
                 className="square-full"
@@ -48,6 +48,32 @@ export default function Donate() {
             <p className="text-lg leading-relaxed mb-4 text-center break-all">
                 Donate ETH: <br />
                 0x16bf976cA6EAb9e9Cb01EBD14977cBc10E371831
+            </p>
+            </div>
+           <div className="md:col-span-1 flex flex-col items-center">
+            <Image
+                src="/assets/blog/donate/monero.jpg"
+                alt="Monero Donation Adddres"
+                width={300}
+                height={300}
+                className="square-full"
+            />
+            <p className="text-lg leading-relaxed mb-4 text-center break-all">
+                For added Privacy Donate XMR: <br />
+                438M4rs5aEJZW6YTPhWyjmYppMEmUNLJbDdDpdy5BacZDaummyv7Ru86RFFGmi7vFAXNT5grswnFdJf4NgA2EcXAQFc1KRu
+            </p>
+            </div>
+         <div className="md:col-span-1 flex flex-col items-center">
+            <Image
+                src="/assets/blog/donate/cashapp.svg"
+                alt="Cash App Donation"
+                width={300}
+                height={300}
+                className="square-full"
+            />
+            <p className="text-lg leading-relaxed mb-4 text-center break-all">
+                Cashtag: <br />
+                $jasonrpersonal
             </p>
             </div>
 
