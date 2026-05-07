@@ -18,6 +18,11 @@ const Header = () => {
                   About
                 </Link>
               </li>
+              <li>
+                <Link href="/contact" className="hover:underline mx-2">
+                  Contact
+                </Link>
+              </li>
           <li>
                 <Link href="/donate" className="hover:underline mx-2">
                   Donate

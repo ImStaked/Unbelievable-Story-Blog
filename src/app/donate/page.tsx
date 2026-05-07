@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Image from "next/image";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Donate | My Unbelievable Story",
@@ -17,7 +18,11 @@ export default function Donate() {
       </h1>
         <div className="md:col-span-2">
             <p className="text-lg leading-relaxed mb-4 text-center">
-            Donations help support the ongoing development and maintenance of this blog and other projects. I am owed for over 18 months worth of work, when I do any work usually the persons I work for try to find a reason to not pay up I am unsure if it is because they work for the government or because they are scared of the government probably a bit of both. I am currently living in a homeless shelter. Next week I will be doing this from the sidewalk because I have used up all of my time in the homeless shelter. It is also very very difficult to work while being attacked wth the energy weapons they use to torture me daily. They are doing their best to cause me to die or hurt someone so I get arrested and I am doing the best I can with what I have available. If anyone needs computing services such a web site design or development, consulting, or anything else please contact me to discuss.
+            Donations help support the ongoing development and maintenance of this blog and other projects. 
+            <br />
+            I am currently living in a homeless shelter. Next week I will be doing this from the sidewalk because I have used up all of my time in the homeless shelter. It is also very very difficult to work while being attacked wth the energy weapons they use to torture me daily. 
+            <br />
+            If anyone needs computing services such a web site design or development, consulting, or anything else please <Link href="/contact" className="underline hover:text-blue-600 transition-colors">contact me</Link> to discuss.
             <br />
             Your contributions are greatly appreciated!
 
