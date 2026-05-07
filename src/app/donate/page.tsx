@@ -20,7 +20,9 @@ export default function Donate() {
             <p className="text-lg leading-relaxed mb-4 text-center">
             Donations help support the ongoing development and maintenance of this blog and other projects. 
             <br />
-            I am currently living in a homeless shelter. Next week I will be doing this from the sidewalk because I have used up all of my time in the homeless shelter. It is also very very difficult to work while being attacked wth the energy weapons they use to torture me daily. 
+            I am currently living in a homeless shelter. Next week I will be doing this from the sidewalk because I have used up all of my time in the homeless shelter. 
+            <br />
+            It is very difficult to work while being attacked wth the energy weapons they use to torture me daily but I do the best I can with what is available. 
             <br />
             If anyone needs computing services such a web site design or development, consulting, or anything else please <Link href="/contact" className="underline hover:text-blue-600 transition-colors">contact me</Link> to discuss.
             <br />
