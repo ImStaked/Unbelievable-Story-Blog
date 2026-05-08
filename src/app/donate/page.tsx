@@ -81,7 +81,7 @@ export default function Donate() {
                 className="square-full"
             />
             <p className="text-lg leading-relaxed mb-4 text-center break-all">
-                Cashtag: <br />
+                CashApp - Cashtag: <br />
                 $jasonrpersonal
             </p>
             </div>
